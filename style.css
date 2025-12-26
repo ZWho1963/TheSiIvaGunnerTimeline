@@ -1,0 +1,125 @@
+/* CSS Document */
+@font-face {
+	font-family: 'Rodin';
+	font-weight: normal;
+	font-style: normal;
+	src: url(fonts/Rodin-Regular.ttf) format("truetype");
+}
+@font-face {
+	font-family: 'Rodin-Bold';
+	font-weight: bold;
+	font-style: normal;
+	src: url(fonts/Rodin-Bold.ttf) format("truetype");
+}
+@font-face {
+	font-family: Rodin;
+	font-weight: normal;
+	font-style: italic;
+	src: url(/fonts/Rodin-Italic.ttf);
+}
+@font-face {
+	font-family: Rodin;
+	font-weight: bold;
+	font-style: italic;
+	src: url(/fonts/Rodin-BoldItalic.ttf);
+}
+@font-face {
+	font-family: 'Seurat DB';
+	font-weight: normal;
+	font-style: normal;
+	src: url(fonts/FOT-SeuratPro-DB.otf) format("opentype");
+}
+@font-face {
+	font-family: 'Seurat M';
+	font-weight: normal;
+	font-style: normal;
+	src: url(fonts/FOT-SeuratPro-M.otf) format("opentype");
+}
+
+* {
+	background-color: black;
+}
+
+body {
+	color: #ddd;
+	font-family: 'Seurat DB';
+	font-size: 1em;
+	margin: 2em;
+	margin-left: 7em;
+	scrollbar-width: none;
+	line-height: 1.25;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+p {
+	margin: 0;
+	/*font-family: 'Seurat DB'*/
+}
+
+h3 {
+	font-size: 1.75em;
+	margin-bottom: 0;
+	margin-top: 0;
+	color: #888888;
+}
+
+h4, .title {
+	margin-left: 0px;
+	margin-top: 0;
+}
+
+h4 {
+	font-size: 1em;
+	font-style: italic;
+	margin-bottom: 2em;
+}
+
+.title {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.date {
+	color: #888888;
+	margin-bottom: 0.25em;
+}
+#timeline {
+	width: 77%;
+}
+.content {
+	margin-top: 4px;
+	margin-bottom: 2em;
+	margin-left: 2.5em;
+}
+tr {
+	display: flex;
+	flex-direction: column;
+}
+
+.double-entry {
+	margin-bottom: 1em;
+}
+.AIRTH {
+	color: #74ffc9;
+}
+.CCC {
+	color: #6735a5;
+}
+.KIRBY {
+	color: #a64d79;
+}
+.PAINT {
+	color: #7eb030;
+}
+.OTHER {
+	color: #888;
+}
+.FOOLS {
+	color: #00ace6;
+}
+.NUGGET {
+	color: #996515;
+}

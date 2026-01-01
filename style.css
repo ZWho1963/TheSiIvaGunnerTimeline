@@ -12,18 +12,6 @@
 	src: url(fonts/Rodin-Bold.ttf) format("truetype");
 }
 @font-face {
-	font-family: Rodin;
-	font-weight: normal;
-	font-style: italic;
-	src: url(/fonts/Rodin-Italic.ttf);
-}
-@font-face {
-	font-family: Rodin;
-	font-weight: bold;
-	font-style: italic;
-	src: url(/fonts/Rodin-BoldItalic.ttf);
-}
-@font-face {
 	font-family: 'Seurat DB';
 	font-weight: normal;
 	font-style: normal;
@@ -35,68 +23,79 @@
 	font-style: normal;
 	src: url(fonts/FOT-SeuratPro-M.otf) format("opentype");
 }
+@font-face {
+	font-family: 'Nukamisto';
+	font-weight: normal;
+	font-style: normal;
+	src: url(fonts/nukamiso__beta08.ttf) format("truetype");
+}
 
 * {
-	background-color: black;
+	background-color: #111;
+}
+
+:root {
+	scrollbar-width: none;
 }
 
 body {
 	color: #ddd;
-	font-family: 'Seurat DB';
-	font-size: 1em;
-	margin: 2em;
-	margin-left: 7em;
-	scrollbar-width: none;
-	line-height: 1.25;
+	font-family: 'Nukamisto';
+	font-size: 1.1em;
+	margin: 0;
+	overflow: auto;
 }
 
-body::-webkit-scrollbar {
-    display: none;
+::-webkit-scrollbar {
+    width: 0px;
 }
 
 p {
 	margin: 0;
+	font-size: 1.125em;
 	/*font-family: 'Seurat DB'*/
 }
 
 h3 {
 	font-size: 1.75em;
-	margin-bottom: 0;
-	margin-top: 0;
+	margin-top: 0px;
+	margin-bottom: 20px;
 	color: #888888;
 }
 
 h4, .title {
 	margin-left: 0px;
 	margin-top: 0;
+	color: #888888;
 }
 
-h4 {
-	font-size: 1em;
+.note {
 	font-style: italic;
-	margin-bottom: 2em;
-}
-
-.title {
-	font-size: 1em;
-	font-weight: bold;
+	margin-bottom: 20px;
+	color: #888888;
 }
 
 .date {
 	color: #888888;
-	margin-bottom: 0.25em;
 }
+
 #timeline {
-	width: 77%;
+	width: 67%;
 }
+
 .content {
-	margin-top: 4px;
-	margin-bottom: 2em;
-	margin-left: 2.5em;
+	font-size: 1.125em;
+	margin-left: 2em;
+	margin-bottom: 20px;
 }
+
 tr {
 	display: flex;
 	flex-direction: column;
+}
+
+table {
+	margin-left: 7em;
 }
 
 .double-entry {

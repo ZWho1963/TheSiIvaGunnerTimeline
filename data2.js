@@ -1,4 +1,4 @@
-[
+export const data2 = [
     {
         "year": "2010",
         "events": [
@@ -11,7 +11,7 @@
             },
             {
                 "date": "July",
-                "content": "HHGregg runs an advertising campaign for their Christmas in July sale, with HH singing a parody of \"<i>Deck the Halls</i>\"."
+                "content": "HHGregg runs an advertising campaign for their Christmas in July sale, with HH singing a parody of <i>Deck the Halls</i>."
             },
             {
                 "date": "August",
@@ -35,11 +35,11 @@
             },
             {
                 "date": "October 14",
-                "content": "\"<i>Abe's Dead</i>\", more commonly known as <i>Chicken and Chips</i>, is released on the comedy album \"<i>Brick In My Mouth</i>\" by LEGO Pornstars."
+                "content": "<i>Abe's Dead</i>, more commonly known as <i>Chicken and Chips</i>, is released on the comedy album <i>Brick In My Mouth</i> by LEGO Pornstars."
             },
             {
                 "date": "November 13",
-                "content": "Lady releases her second album \"<i>Bitch From Around The Way 2</i>\", containing the song Yankin'."
+                "content": "Lady releases her second album <i>Bitch From Around The Way 2</i>, containing the song Yankin'."
             },
             {
                 "date": "November 25",
@@ -71,7 +71,7 @@
             },
             {
                 "date": "April 18",
-                "content": "MatPat uploads \"<i>Game Theory: Is Chrono Trigger's Time Travel Accurate?</i>\" to his channel 'Game Theory'."
+                "content": "MatPat uploads <i>Game Theory: Is Chrono Trigger's Time Travel Accurate?</i> to his channel 'Game Theory'."
             },
             {
                 "date": "September 15",
@@ -86,15 +86,15 @@
                 "content": "Development for <i>Deltarune</i> begins, mainly focusing around concept art and music."
             },
             {
-                "content": "I0LOVE0AMY0ROSE uploads the video \"<i>Smash Bros Lawl Ultimate Character Moveset - Angry Joe</i>\". The video is deleted at some point before April 10, 2014."
+                "content": "I0LOVE0AMY0ROSE uploads the video <i>Smash Bros Lawl Ultimate Character Moveset - Angry Joe</i>. The video is deleted at some point before April 10, 2014."
             },
             {
                 "date": "May 11",
-                "content": "Mike Matei uploads a video titled \"<i>Minecraft with Gadget</i>\" on the Cinemassacre channel."
+                "content": "Mike Matei uploads a video titled <i>Minecraft with Gadget</i> on the Cinemassacre channel."
             },
             {
                 "date": "July 15",
-                "content": "Korean pop artist PSY releases \"<i>Gangnam Style</i>\" on his album PSY 6 (Six Rules), Part 1."
+                "content": "Korean pop artist PSY releases <i>Gangnam Style</i> on his album PSY 6 (Six Rules), Part 1."
             },
             {
                 "date": "July 24",
@@ -137,7 +137,7 @@
             },
             {
                 "date": "June 13",
-                "content": "A SoundCloud user by the handle 8-Bit Beast releases his hit single \"<i>Haunted House</i>\", also known as \"<i>Castle Boss</i>.\""
+                "content": "A SoundCloud user by the handle 8-Bit Beast releases his hit single <i>Haunted House</i>, also known as <i>Castle Boss</i>.\""
             },
             {
                 "date": "June 23",
@@ -162,7 +162,7 @@
             },
             {
                 "date": "June 1",
-                "content": "The \"<i>Melody of the Heart</i>\" episode of Love Live! is aired, featuring an updated video for <i>Snow halation</i>."
+                "content": "The <i>Melody of the Heart</i> episode of Love Live! is aired, featuring an updated video for <i>Snow halation</i>."
             },
             {
                 "date": "August 12",
@@ -178,7 +178,7 @@
             },
             {
                 "date": "October 3",
-                "content": "The <i>LazyTown</i> episode \"<i>Robbie's Dream Team</i>\" is aired, where Robbie Rotten sings the song \"<i>We Are Number One</i>\" to teach 3 doppelgangers on how to be villians."
+                "content": "The <i>LazyTown</i> episode <i>Robbie's Dream Team</i> is aired, where Robbie Rotten sings the song <i>We Are Number One</i> to teach 3 doppelgangers on how to be villians."
             },
             {
                 "date": "October 19",
@@ -195,7 +195,7 @@
         "events": [
             {
                 "date": "January 19 - 31",
-                "content": "SoundCloud user The Man Man creates nine 7 GRAND DAD-related Soundclowns, culminating in the release of the album \"<i>7 GRAND DAD: the seventh coming</i>\"."
+                "content": "SoundCloud user The Man Man creates nine 7 GRAND DAD-related Soundclowns, culminating in the release of the album <i>7 GRAND DAD: the seventh coming</i>."
             },
             {
                 "date": "February 11 - April 3",

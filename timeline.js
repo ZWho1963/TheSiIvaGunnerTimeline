@@ -1,89 +1,74 @@
-﻿async function getData() {
-    const urls = [
-        "data5.json"
-    ];
+﻿import { data } from "./data.js";
+import { data1 } from "./data1.js";
+import { data2 } from "./data2.js";
+import { data3 } from "./data3.js";
 
-    const table = document.getElementById("timeline");
+const databases = {
+    data3
+}
 
-    for (const url of urls) {
-        const response = await fetch(url);
-        const result = await response.json();   // now an array
+const table = document.getElementById("timeline");
+const table_cont = document.getElementById("timeline_container");
 
-        // Loop through each year-entry object
-        for (const entryObj of result) {
-            const { year, events } = entryObj;
+for (const key in databases) {
+    const db = databases[key];   // get the array
+    for (const entry of db) {
+        const row = document.createElement("tr");
 
-            const row = document.createElement("tr");
-
-            // Year column
-            const yearCell = document.createElement("td");
-            const yearEl = document.createElement("h3");
-            yearEl.textContent = year;
-            yearCell.appendChild(yearEl);
-            row.appendChild(yearCell);
-
-            // Events column
-            events.forEach(data => {
-                const eventCell = document.createElement("td");
-
-                // DATE + TIME
-                if (data.date) {
-                    const dateEl = document.createElement("p");
-                    dateEl.className = "date";
-                    dateEl.textContent = data.date;
-
-                    eventCell.appendChild(dateEl);
+        const year = document.createElement("h3");
+        year.innerHTML = entry.year;
+        year.style.marginBottom = "20px";
+        row.appendChild(year);
+ 
+        for (const event of entry.events) {
+            const obj = document.createElement("td");
+            if (event.date) {
+                const date = document.createElement("p");
+                date.innerHTML = event.date + "&nbsp;";
+                date.className = "date";
+                obj.appendChild(date);
+                if (!event.title && event.time) {
+                    const time = document.createElement("i");
+                    time.innerHTML = "("+event.time+")";
+                    time.className = event.timeclass;
+                    date.append(time);
                 }
+            }
 
-                // NOTE
-                if (data.note) {
-                    const noteEl = document.createElement("h4");
-                    noteEl.innerHTML = data.note;
-                    eventCell.appendChild(noteEl);
+            if (event.note) {
+                const note = document.createElement("p");
+                note.innerHTML = event.note;
+                note.className="note";
+                obj.appendChild(note);
+            }
+
+            if (event.title) {
+                const title = document.createElement("p");
+                title.innerHTML = event.title + "&nbsp;";
+                title.className = "title";
+                if (event.time) {
+                    const time = document.createElement("i");
+                    time.innerHTML = "("+event.time+")";
+                    time.className = event.timeclass;
+                    title.append(time);
                 }
+                obj.appendChild(title);
+            }
 
-                // TITLE
-                if (data.title) {
-                    const titleEl = document.createElement("p");
-                    titleEl.className = "title";
-                    if (data.title && data.time) {
-                        titleEl.innerHTML = data.title +
-                            ' <i class="' +
-                            (data.timeclass) +
-                            '">(' + data.time + ')</i>';
-                    } else if (data.title) {
+            
+            if (event.content) {
+                const content = document.createElement("p");
+                content.className = "content";
+                if (event.class) {
+                    content.classList.add(...event.class.split(/\s+/));
+                };
+                content.innerHTML = event.content;
+                obj.appendChild(content);
+            }
 
-                        titleEl.innerHTML = data.title;
-                        
-                    } else if (data.time && !(data.title)) {
-                        titleEl.innerHTML = '<i class="' +
-                            (data.timeclass) +
-                            '">(' + data.time + ')</i>';
-                    }
-                    eventCell.appendChild(titleEl);
-
-                }
-
-                // CONTENT
-                if (data.content) {
-                    const contentEl = document.createElement("p");
-                    contentEl.className = "content";
-                    contentEl.innerHTML = data.content;
-
-                    // Apply tags/classes (CCC, double-entry, etc.)
-                    if (data.class) {
-                        contentEl.classList.add(...data.class.split(/\s+/));
-                    }
-
-                    eventCell.appendChild(contentEl);
-                }
-
-                row.appendChild(eventCell);
-            });
-
-            table.appendChild(row);
+            row.appendChild(obj);
         }
+        table.appendChild(row);
     }
 }
 
-getData();

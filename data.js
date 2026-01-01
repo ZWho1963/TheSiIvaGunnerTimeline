@@ -1,18 +1,10 @@
-[
+export const data = [
     {
         "year": "270",
         "events": [
             {
-                "date": "~March 15",
+                "date": "March 15",
                 "content": "Saint Nicholas of Myra is born."
-            }
-        ]
-    },
-    {
-        "year": "1299",
-        "events": [
-            {
-                "content": "The citizens of what is now Rotterdam are granted rights by John I, Count of Holland."
             }
         ]
     },
@@ -45,15 +37,6 @@
         "events": [
             {
                 "content": "The Hobart Electric Manufacturing Company is founded in Troy, Ohio."
-            }
-        ]
-    },
-    {
-        "year": "1901",
-        "events": [
-            {
-                "date": "December 5",
-                "content": "Walt Disney is born."
             }
         ]
     },
@@ -115,10 +98,6 @@
         "year": "1955",
         "events": [
             {
-                "date": "March 20",
-                "content": "Mariya Takeuchi is born in Kizukiminami, Japan."
-            },
-            {
                 "date": "April 15",
                 "content": "HHGregg is founded as Gregg Appliances, Inc. by Henry Harold Gregg."
             }
@@ -128,30 +107,8 @@
         "year": "1957",
         "events": [
             {
-                "date": "January 17",
-                "content": "Steve Harvey is born in Welch, West Virginia."
-            },
-            {
                 "date": "October 12",
                 "content": "Random House publishes <i>Dr. Seuss' How the Grinch Stole Christmas.</i>"
-            }
-        ]
-    },
-    {
-        "year": "1958",
-        "events": [
-            {
-                "date": "August 29",
-                "content": "Michael Jackson is born in Gary, Indiana."
-            }
-        ]
-    },
-    {
-        "year": "1959",
-        "events": [
-            {
-                "date": "October 23",
-                "content": "Weird Al\" Yankovic is born in Downey, California."
             }
         ]
     },
@@ -164,25 +121,7 @@
             },
             {
                 "date": "October 14",
-                "content": "<i>The Flintstones</i> episode \"<i>The Swimming Pool</i>\" airs, marking the first usage of \"<i>Meet the Flintstones</i>\" as the show's main theme."
-            }
-        ]
-    },
-    {
-        "year": "1961",
-        "events": [
-            {
-                "date": "March 15",
-                "content": "Reggie Fils-Aimé is born in New York City, New York."
-            }
-        ]
-    },
-    {
-        "year": "1963",
-        "events": [
-            {
-                "date": "February 20",
-                "content": "Charles Barkley is born in Leeds, Alabama."
+                "content": "<i>The Flintstones</i> episode <i>The Swimming Pool</i> airs, marking the first usage of <i>Meet the Flintstones</i> as the show's main theme."
             }
         ]
     },
@@ -200,19 +139,6 @@
         "events": [
             {
                 "content": "Totino's Pizza Rolls are developed and distributed to the public."
-            },
-            {
-                "date": "September 25",
-                "content": "Will Smith is born in Philadelphia, Pennsylvania."
-            }
-        ]
-    },
-    {
-        "year": "1969",
-        "events": [
-            {
-                "date": "November 15",
-                "content": "Jack Black is born in Santa Monica, California."
             }
         ]
     },
@@ -220,25 +146,8 @@
         "year": "1971",
         "events": [
             {
-                "date": "October 20",
-                "content": "Snoop Dogg is born in Long Beach, California."
-            },
-            {
                 "date": "November",
                 "content": "Grimace is introduced in McDonalds lore as a villain."
-            }
-        ]
-    },
-    {
-        "year": "1972",
-        "events": [
-            {
-                "date": "August 21",
-                "content": "Bill Trinen is born."
-            },
-            {
-                "date": "October 17",
-                "content": "Marshall Bruce Mathers III, otherwise known as Eminem, is born in St. Joseph, Missouri."
             }
         ]
     },
@@ -248,10 +157,6 @@
             {
                 "date": "February",
                 "content": "Thanos debuts in <i>The Invincible Iron Man</i> #55."
-            },
-            {
-                "date": "April 5",
-                "content": "Pharrell Williams is born in Virginia Beach, Virginia."
             }
         ]
     },
@@ -260,32 +165,6 @@
         "events": [
             {
                 "content": "Grimace's role in McDonalds lore is changed from antagonist to protagonist, apparently taking his arms in the process."
-            },
-            {
-                "date": "February 8",
-                "content": "Guy-Manuel de Homem-Christo is born in Neuilly-sur-Seine, France."
-            }
-        ]
-    },
-    {
-        "year": "1975",
-        "events": [
-            {
-                "date": "January 3",
-                "content": "Thomas Bangalter is born in Paris, France."
-            }
-        ]
-    },
-    {
-        "year": "1977",
-        "events": [
-            {
-                "date": "March 18",
-                "content": "ZUN is born in Hakuba, Japan."
-            },
-            {
-                "date": "December 31",
-                "content": " Park Jae-sang is born in the Gangnam District of Seoul, South Korea. He ends up adopting the stage name of PSY."
             }
         ]
     },
@@ -293,12 +172,8 @@
         "year": "1979",
         "events": [
             {
-                "date": "March 18",
-                "content": "Adam Levine is born in Los Angeles, California."
-            },
-            {
                 "date": "December 25",
-                "content": "\"Weird Al\" Yankovic releases 'My Bologna', a parody of the Knack's 'My Sharona'."
+                "content": "Weird Al Yankovic releases 'My Bologna', a parody of the Knack's 'My Sharona'."
             }
         ]
     },
@@ -310,16 +185,8 @@
                 "content": "<i>The Ninth Configuration</i> releases in theaters; it is acknowledged today as the original source of the Howie Scream."
             },
             {
-                "date": "May 15",
-                "content": "Elmo makes his first named appearance on Sesame Street episode 1439."
-            },
-            {
                 "date": "May 16",
                 "content": "Paul McCartney releases his second solo studio album <i>McCartney II</i>, featuring the electropop song <i>Temporary Secretary.</i>"
-            },
-            {
-                "date": "October 5",
-                "content": "Mike Matei is born."
             }
         ]
     },
@@ -327,26 +194,14 @@
         "year": "1981",
         "events": [
             {
-                "date": "January 15",
-                "content": "Pitbull is born in Miami, Florida."
-            },
-            {
                 "date": "July 9",
                 "content": "<i>Donkey Kong</i> is released in arcades. The titular character and Mario (also known as Jumpman) debut."
             },
-            {
-                "date": "November 7",
-                "content": "Doug Walker is born."
-            }
         ]
     },
     {
         "year": "1982",
         "events": [
-            {
-                "date": "February 3",
-                "content": "Martin Billany is born in England."
-            },
             {
                 "date": "December 4",
                 "content": "The pilot for <i>Inspector Gadget</i> airs on television."
@@ -371,24 +226,11 @@
         "events": [
             {
                 "date": "February 28",
-                "content": "<i>\"Weird Al\" Yankovic in 3-D</i> releases, containing a parody of <i>Beat It</i> titled <i>Eat It</i>, which propels \"Weird Al\" into stardom."
-            },
-            {
-                "date": "April 25",
-                "content": "Anthony Pinto is born in Houston, Texas."
+                "content": "<i>Weird Al Yankovic in 3-D</i> releases, containing a parody of <i>Beat It</i> titled <i>Eat It</i>, which propels Weird Al into stardom."
             },
             {
                 "date": "April 25",
                 "content": "Mariya Takeuchi releases <i>Variety</i>, produced by her husband Tatsuro Yamashita. The album contains 'Plastic Love', which would be released as a single in 1985."
-            },
-            {
-                "date": "Some point after April 25",
-                "content": "A version of Mariya Takeuchi gets ready to go out shopping. When she exits her house, a flash of white engulfs her. She is brought to 2019, and finds out what YouTube is, somehow.",
-                "class": "AIRTH"
-            },
-            {
-                "date": "June 19",
-                "content": "Jose Antonio Vargas is born in Austin, Texas."
             },
             {
                 "date": "November 20",
@@ -397,27 +239,10 @@
         ]
     },
     {
-        "year": "1985",
-        "events": [
-            {
-                "date": "August 30",
-                "content": "Justin Michael Coolidge, also known as JustinRPG, is born."
-            }
-        ]
-    },
-    {
         "year": "1986",
         "events": [
             {
                 "content": "The <i>Bowflex 200X</i>, the first product in the Bowflex line, is distributed to the public."
-            },
-            {
-                "date": "October 20",
-                "content": "Charles Jawanzaa Worth, better known as Chip tha Ripper, is born in Cleveland, Ohio."
-            },
-            {
-                "date": "October 20",
-                "content": "Matthew Patrick, better known by the online handle of MatPat, is born in Medina, Ohio."
             }
         ]
     },
@@ -433,7 +258,7 @@
             },
             {
                 "date": "April 19",
-                "content": "The Simpsons debut on television as a recurring segment on the <i>Tracey Ullman Show</i> with the animated short \"Good Night\"."
+                "content": "The Simpsons debut on television as a recurring segment on the <i>Tracey Ullman Show</i> with the animated short Good Night."
             },
             {
                 "date": "July 13",
@@ -446,7 +271,7 @@
         "events": [
             {
                 "date": "February 9",
-                "content": "Piccolo debuts in the <i>\"Son Goku Wins!!\"</i> chapter of Dragon Ball."
+                "content": "Piccolo debuts in the <i>Son Goku Wins!!</i> chapter of Dragon Ball."
             },
             {
                 "date": "December 24",
@@ -465,10 +290,6 @@
                 "content": "<i>MOTHER</i> is released for the Famicom."
             },
             {
-                "date": "July 31",
-                "content": "Shamenka Shanta Brown, better known as Lady, is born."
-            },
-            {
                 "date": "December 17",
                 "content": "<i>The Simpsons</i> begins airing on television as an independent series with 'Simpsons Roasting on an Open Fire'."
             }
@@ -484,14 +305,6 @@
             {
                 "date": "April 6",
                 "content": "<i>Digital Devil Story: Megami Tensei II</i>  is released for the Famicom. Jack Frost debuts."
-            },
-            {
-                "date": "May 12",
-                "content": "Desmond Daniel Amofah, better known as Etika, is born in Brooklyn, New York."
-            },
-            {
-                "date": "July 28",
-                "content": "DeAndre Cortez Way, commonly known as Soulja Boy, is born in Chicago, Illinois."
             },
             {
                 "date": "December 17",
@@ -515,10 +328,6 @@
             {
                 "date": "July 28",
                 "content": "<i>The Infinity Gauntlet</i> storyline is published by Marvel Comics."
-            },
-            {
-                "date": "October 11",
-                "content": "Toby Fox is born in Manchester, New Hampshire."
             }
         ]
     },
@@ -531,10 +340,6 @@
             {
                 "date": "April 27",
                 "content": "<i>Kirby's Dream Land</i>, the first ever Kirby game, is released in Japan for the Game Boy. Kirby, Dedede, and Waddle Dees debut."
-            },
-            {
-                "date": "July 15",
-                "content": "Porter Robinson is born in Atlanta, Georgia."
             },
             {
                 "date": "October 21",
@@ -558,7 +363,7 @@
             },
             {
                 "date": "June 6",
-                "content": "<i>The Legend of Zelda: Link's Awakening</i> is released for the Nintendo Gameboy. It would feature a unique track for its Raft Ride minigame. A colorized \"DX\" version would be released in 1998 for the Gameboy Color, with an HD remake being released years later in 2019 for the Nintendo Switch."
+                "content": "<i>The Legend of Zelda: Link's Awakening</i> is released for the Nintendo Gameboy. It would feature a unique track for its Raft Ride minigame. A colorized DX version would be released in 1998 for the Gameboy Color, with an HD remake being released years later in 2019 for the Nintendo Switch."
             },
             {
                 "date": "September 6",
@@ -587,7 +392,7 @@
             },
             {
                 "date": "October 18",
-                "content": "<i>Sonic & Knuckles</i> is released. The Master Emerald, a large gem containing ultimate power which Knuckles protects, is introduced. <br><br>This game comes with a Lock-On feature, allowing it to be combined with <i>Sonic the Hedgehog 3</i> to play both games as one in the form of <i>Sonic 3 & Knuckles</i>, as originally intended. The \"& Knuckles\" portion of the Lock-On game's name would later become a popular internet meme."
+                "content": "<i>Sonic & Knuckles</i> is released. The Master Emerald, a large gem containing ultimate power which Knuckles protects, is introduced. <br><br>This game comes with a Lock-On feature, allowing it to be combined with <i>Sonic the Hedgehog 3</i> to play both games as one in the form of <i>Sonic 3 & Knuckles</i>, as originally intended. The & Knuckles portion of the Lock-On game's name would later become a popular internet meme."
             },
             {
                 "date": "November 18",
@@ -599,12 +404,8 @@
         "year": "1995",
         "events": [
             {
-                "date": "February 5",
-                "content": "Nick Crompton is born in Bradford, England."
-            },
-            {
                 "date": "November 17",
-                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of 'Wood Man Stage' from <i>Mega Man 2</i>, is created, <span style=\"color: #6735a5\">planting the seeds that would later manifest as the Wood Man glitch."
+                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of 'Wood Man Stage' from <i>Mega Man 2</i>, is created, <span style=color: #6735a5>planting the seeds that would later manifest as the Wood Man glitch."
             },
             {
                 "date": "December 25",
@@ -662,12 +463,8 @@
         "year": "1998",
         "events": [
             {
-                "date": "January 23",
-                "content": "Richard Lamar Hawk, also known as Silentó, is born in Stone Mountain, Georgia."
-            },
-            {
                 "date": "December 23",
-                "content": "<i>Sonic Adventure</i> is released for the SEGA Dreamcast in Japan. <br><br>Knuckles the Echidna is given his signature theme, <i>Unknown from M.E.</i>. The name \"Dr. Eggman\" begins to be consistently fully adopted in all regions starting with this game. <br><br>The ability for the Master Emerald to seal individuals within itself is also established."
+                "content": "<i>Sonic Adventure</i> is released for the SEGA Dreamcast in Japan.<br><br>Knuckles the Echidna is given his signature theme, <i>Unknown from M.E.</i>. The name Dr. Eggman begins to be consistently fully adopted in all regions starting with this game. <br><br>The ability for the Master Emerald to seal individuals within itself is also established."
             }
         ]
     },

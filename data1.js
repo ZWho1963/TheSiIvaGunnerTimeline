@@ -1,4 +1,4 @@
-[
+export const data1 = [
     {
         "year": "2000",
         "events": [
@@ -16,7 +16,8 @@
                 "class": "KIRBY"
             },
             {
-                "title": "Main Theme - Kirby Fighters Deluxe <i>(one day after Main Theme - Kirby Fighters)</i>",
+                "title": "Main Theme - Kirby Fighters Deluxe",
+                "time": "one day after Main Theme - Kirby Fighters",
                 "content": "Kirby wakes up Monochrome Kirby. They squabble for a bit over Kirby's method of waking up Monochrome Kirby before they go to Waddlemart soon after. Monochrome Kirby is tasked with finding a dildo and asks Mr. L for help. Mr. L kidnaps Monochrome Kirby and requests Kirby to meet him in the back and give him all his money, or else Monochrome Kirby dies. <br><br>Kirby throws his grocery basket at Mr. L, who decides to mug him for all he's worth upon realizing Kirby has cocaine. Mr. L pulls out a gun and mocks him for believing he could even stand a chance, although Kirby wins via stabbing him with a pixelated dildo. <br><br><span class=\"OTHER\">In the April Fool's version of this video, Kirby lets Monochrome Kirby sleep. This triggers the secret ending. Awesome.</span>",
                 "class": "KIRBY"
             },
@@ -35,7 +36,7 @@
             },
             {
                 "date": "July 4",
-                "content": "Dr. Dre releases his single \"<i>The Next Episode</i>\", a collaboration with Snoop Dogg."
+                "content": "Dr. Dre releases his single <i>The Next Episode</i>, a collaboration with Snoop Dogg."
             },
             {
                 "date": "July 21",
@@ -117,7 +118,7 @@
             },
             {
                 "date": "June 7",
-                "content": "The LazyTown clipshow episode \"<i>Dear Diary</i>\" airs on television. A character by the name of Stingy Spoilero sings <i>The Mine Song</i>."
+                "content": "The LazyTown clipshow episode <i>Dear Diary</i> airs on television. A character by the name of Stingy Spoilero sings <i>The Mine Song</i>."
             },
             {
                 "date": "July 26",
@@ -157,7 +158,7 @@
             },
             {
                 "date": "January 25",
-                "content": "<i>THE iD@LMASTER</i> releases on Xbox 360, containing the song \"<i>GO MY WAY!!</i>\""
+                "content": "<i>THE iD@LMASTER</i> releases on Xbox 360, containing the song <i>GO MY WAY!!</i>"
             },
             {
                 "date": "March 4",

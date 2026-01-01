@@ -1,4 +1,4 @@
-﻿[
+﻿export const data3 = [
     {
         "year": "2016",
         "events": [
@@ -7,11 +7,11 @@
                 "class": "double-entry"
             },
             {
-                "content": "<b>EXCEPTIONS<b>: <ul><li>FILEs 1 through 22 of Haltmann's Archives</li><li>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]</li><ul>"
+                "content": "<b>EXCEPTIONS<b>: <ul><li>FILEs 1 through 23 of Haltmann's Archives</li><li>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]</li><ul>"
             },
             {
                 "date": "January 1",
-                "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title \"new pokemon battle music LEAKED\" on dreammaker222 to annoy his friends; to his surprise, they actually like it."
+                "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title new pokemon battle music LEAKED on dreammaker222 to annoy his friends; to his surprise, they actually like it."
             },
             {
                 "date": "Sometime between January 2 and 9",
@@ -61,7 +61,7 @@
             },
             {
                 "date": "April 1",
-                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <span class=\"title\">Final Destination - Super Smash Bros. Brawl</span>.<br><br><span class=\"title\">(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</span> is also released during this event, marking the first appearance of The Jetsons."
+                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <b>Final Destination - Super Smash Bros. Brawl</span>.<br><br><b>(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</span> is also released during this event, marking the first appearance of The Jetsons."
             },
             {
                 "date": "April 5",
@@ -113,11 +113,11 @@
             },
             {
                 "date": "May 28",
-                "content": "<span class=\"title\">Goldenrod City (Beta Mix) - Pokemon Gold & Silver</span> is uploaded to the channel, marking the first appearance of JustinRPG as a joke source."
+                "content": "<b>Goldenrod City (Beta Mix) - Pokemon Gold & Silver</b> is uploaded to the channel, marking the first appearance of JustinRPG as a joke source."
             },
             {
                 "date": "May 30",
-                "content": "SiIvaGunner uploads \"<span class=\"title\">Good Night - Undertale</span>\" and proceeds to take a brief, week-long nap.",
+                "content": "SiIvaGunner uploads <b>Good Night - Undertale</b> and proceeds to take a brief, week-long nap.",
                 "class": "CCC"
             },
             {
@@ -162,11 +162,11 @@
             },
             {
                 "date": "June 18",
-                "content": "A few rips into the Reboot, SiIvaGunner contributor Le Ruse Bird secretly uploads \"<span class=\"title\">Puzzle Room - Kirby Planet Robobot</span>\" to the channel. The video becomes infamous for its ending, containing an image of a baby with harlequin-type ichthyosis, a birth defect which causes the child to have red eyes and scale-like thick skin. The image is filtered with the \"Hypernova Yourself\" effect from the promotional website for Kirby Triple Deluxe, and Russian text from the Felix the Cat game over screen is shown in the bottom-left corner reading \"игра окончена\" (\"the game is over\"). This causes a community uproar and the rip is quickly deleted. Le Ruse Bird is subsequently removed from the backroom as punishment.",
+                "content": "A few rips into the Reboot, SiIvaGunner contributor Le Ruse Bird secretly uploads <b>Puzzle Room - Kirby Planet Robobot</b> to the channel. The video becomes infamous for its ending, containing an image of a baby with harlequin-type ichthyosis, a birth defect which causes the child to have red eyes and scale-like thick skin. The image is filtered with the \"Hypernova Yourself\" effect from the promotional website for Kirby Triple Deluxe, and Russian text from the Felix the Cat game over screen is shown in the bottom-left corner reading \"игра окончена\" (\"the game is over\"). This causes a community uproar and the rip is quickly deleted. Le Ruse Bird is subsequently removed from the backroom as punishment.",
                 "class": "double-entry"
             },
             {
-                "content": "The SiIvaGunner team uploads an out-of-character video shortly after titled \"<span class=\"title\">Apology</span>\". The video states that the rip was uploaded without the consent of anyone else on the team, that it wasn't supposed to be part of the reboot, and it didn't represent what the channel stood for.",
+                "content": "The SiIvaGunner team uploads an out-of-character video shortly after titled <b>Apology</b>. The video states that the rip was uploaded without the consent of anyone else on the team, that it wasn't supposed to be part of the reboot, and it didn't represent what the channel stood for.",
                 "class": "double-entry"
             },
             {
@@ -180,11 +180,11 @@
             },
             {
                 "date": "June 22",
-                "content": "The Reboot ARG solvers are given the audio for <span class=\"title\">Now Rebooting - SiIvaGunner: Rebooted</span> early as a reward for their progress."
+                "content": "The Reboot ARG solvers are given the audio for <b>Now Rebooting - SiIvaGunner: Rebooted</b> early as a reward for their progress."
             },
             {
                 "date": "June 23",
-                "content": "<span class=\"title\">Title Theme (Vocal Mix) - Wolf girl</span> with you is uploaded to the channel. The character of Wolfgirl is introduced, portrayed in A Murder Not Too Nice as being Nick Oleksiak dressed up in a Liru costume."
+                "content": "<b>Title Theme (Vocal Mix) - Wolf girl</b> with you is uploaded to the channel. The character of Wolfgirl is introduced, portrayed in A Murder Not Too Nice as being Nick Oleksiak dressed up in a Liru costume."
             },
             {
                 "note": "Now Rebooting - SiIvaGunner: Rebooted is the first lore rip (chronologically speaking) that occurs in a non-linear fashion, which in this case means that it doesn't take place on its upload date. A date in italicised brackets will symbolise when rips like this happen in-universe.",
@@ -200,7 +200,7 @@
             },
             {
                 "date": "July 7",
-                "content": "The first phase of the Reboot ARG ends. It's reward, <span class=\"title\">A Grand New Era ~Ending~ - SilvaGunner: Rebooted</span> is uploaded, but it is deleted shortly after due to concerns about epileptic reactions."
+                "content": "The first phase of the Reboot ARG ends. It's reward, <b>A Grand New Era ~Ending~ - SilvaGunner: Rebooted</b> is uploaded, but it is deleted shortly after due to concerns about epileptic reactions."
             },
             {
                 "date": "July 8",
@@ -221,14 +221,14 @@
             },
             {
                 "title": "Melody of the Heart ~True Ending~ - SilvaGunner: Rebooted",
-                "time": "July 7, immediately after <span class=\"title\">A Grand New Era</span>",
+                "time": "July 7, immediately after <b>A Grand New Era</b>",
                 "timeclass": "CCC",
                 "content": "Chad Warden explains to The Voice why <i>Snow halation</i> is important to the channel, and that the haters don't matter. The Voice publicly reveals that he had sent JustinRPG to wreak havoc on the world. Chad Warden then uses the power of The MF Like Button to bring Snow halation back and defeat The Voice at the cost of his own life.",
                 "class": "CCC double-entry"
             },
             {
                 "class": "CCC",
-                "content": "Chad, while dead, is implied to still be watching and ensuring that all rips, or at least the <i>Snow halation</i> ones, are as quality as possible, as seen in <span class=\"title\">Want You Gone - Portal 2</span>."
+                "content": "Chad, while dead, is implied to still be watching and ensuring that all rips, or at least the <i>Snow halation</i> ones, are as quality as possible, as seen in <b>Want You Gone - Portal 2</b>."
             },
             {
                 "date": "July 15",
@@ -274,7 +274,7 @@
             },
             {
                 "date": "August 14",
-                "content": "<span class=\"title\">Main Theme - Superman 64</span> is released; instead of being an ordinary rip, it details the process of submitting rips to the SiIvaGunner channel to fans, marking the opening of fan submissions.",
+                "content": "<b>Main Theme - Superman 64</b> is released; instead of being an ordinary rip, it details the process of submitting rips to the SiIvaGunner channel to fans, marking the opening of fan submissions.",
                 "class": "double-entry"
             },
             {
@@ -316,7 +316,7 @@
             },
             {
                 "date": "September 9",
-                "content": "<span class=\"title\">Ground Theme (Super Mario Bros.) - Super Smash Bros. Brawl</span> is taken down by Youtube, presumably as a result of community members constantly flagging the video. In order to escape potential termination, all videos containing Green de la Bean are removed.",
+                "content": "<b>Ground Theme (Super Mario Bros.) - Super Smash Bros. Brawl</b> is taken down by Youtube, presumably as a result of community members constantly flagging the video. In order to escape potential termination, all videos containing Green de la Bean are removed.",
                 "class": "double-entry"
             },
             {
@@ -324,7 +324,7 @@
                 "class": "CCC double-entry"
             },
             {
-                "note": "<span class=\"title\"> The Supreme Visitor [FILE-06]</span> says that Green de la Bean died on September 3, which contradicts with this entry. Furthermore, SiIvaTeam member Keeby10 has expressed their desire to retcon FILE-06 as 'none of it makes sense'."
+                "note": "<b>The Supreme Visitor [FILE-06]</b> says that Green de la Bean died on September 3, which contradicts with this entry. Furthermore, SiIvaTeam member Keeby10 has expressed their desire to retcon FILE-06 as 'none of it makes sense'."
             },
             {
                 "date": "September 10",
@@ -355,7 +355,7 @@
                 "content": "SiIvaGunner resumes uploading rips, having absolutely no memory of the previous day or the rips he uploaded on it."
             },
             {
-                "content": "The SiIvaGunner team reuploads NBG's remix as <span class=\"title\">We are Number One - LazyTown: The Video Game</span>. The rip goes viral, and subsequently establishes <i>We are Number One</i> as an internet meme."
+                "content": "The SiIvaGunner team reuploads NBG's remix as <b>We are Number One - LazyTown: The Video Game</b>. The rip goes viral, and subsequently establishes <i>We are Number One</i> as an internet meme."
             },
             {
                 "date": "September 19",
@@ -367,11 +367,11 @@
             },
             {
                 "date": "September 29",
-                "content": "SiIvaGunner uploads medley rips and rips with a theme of finality. The channel stops uploading rips hourly after <span class=\"title\">Planet Wisp: Act 2 - Sonic Generations.</span>"
+                "content": "SiIvaGunner uploads medley rips and rips with a theme of finality. The channel stops uploading rips hourly after <b>Planet Wisp: Act 2 - Sonic Generations.</b>"
             },
             {
                 "date": "September 30",
-                "content": "On the 56th anniversary of <i>The Flintstones</i>, Chaze the Chat uploads <span class=\"title\">the nutshack theme but the first nutshack is replaced with me ending the channel</span>, formally announcing the end of SiIvaGunner, revealing himself as its creator and shouting out the 26 other members of the backroom team (including Triple-Q despite him not being on the team).",
+                "content": "On the 56th anniversary of <i>The Flintstones</i>, Chaze the Chat uploads <b>the nutshack theme but the first nutshack is replaced with me ending the channel</b>, formally announcing the end of SiIvaGunner, revealing himself as its creator and shouting out the 26 other members of the backroom team (including Triple-Q despite him not being on the team).",
                 "class": "double-entry"
             },
             {
@@ -385,7 +385,7 @@
             },
             {
                 "date": "October 1",
-                "content": "Blazephlozard, Tev Teusixten and several SiIvaGunner contributors create <span class=\"title\">TimmyTurnersGrandDad</span> as a tribute to SiIvaGunner."
+                "content": "Blazephlozard, Tev Teusixten and several SiIvaGunner contributors create <b>TimmyTurnersGrandDad</b> as a tribute to SiIvaGunner."
             },
             {
                 "date": "October 3",
@@ -401,7 +401,7 @@
             },
             {
                 "date": "October 19",
-                "content": "<span class=\"title\">Wood Man Stage - Mega Man 2</span> is uploaded, introducing mm2wood as a meme; this date marks the generally accepted start of Season 2.",
+                "content": "<b>Wood Man Stage - Mega Man 2</b> is uploaded, introducing mm2wood as a meme; this date marks the generally accepted start of Season 2.",
                 "class": "double-entry"
             },
             {
@@ -426,7 +426,7 @@
                 "date": "October 29",
                 "time": "October 28, as per [FILE-05]",
                 "timeclass": "CCC",
-                "content": "<span class=\"title\">Title Theme & Ending - 7 GRAND DAD</span> is uploaded, meant to end the channel. <i>GilvaSunner's Highest Quality Video Game Rips: Volume 7: Part mm2wood</i> is also released as a final farewell album.<br><br><span class=\"title\">Title Theme - 7 GRAND DAD</span> is uploaded to the channel an hour before this, 'celebrating' the channel's most hated jokes in an attempt to troll viewers.",
+                "content": "<b>Title Theme & Ending - 7 GRAND DAD</b> is uploaded, meant to end the channel. <i>GilvaSunner's Highest Quality Video Game Rips: Volume 7: Part mm2wood</i> is also released as a final farewell album.<br><br><b>Title Theme - 7 GRAND DAD</b> is uploaded to the channel an hour before this, 'celebrating' the channel's most hated jokes in an attempt to troll viewers.",
                 "class": "double-entry"
             },
             {
@@ -436,7 +436,6 @@
             },
             {
                 "time": "October 29",
-                "timeclass": "CCC",
                 "content": "After much deliberation, Wood Man begins work on the Figment Transportation Device, allowing figments to enter the Central Canon Continuum. Wood Man runs a test and decides to transfer Rush, Mega Man's dog, into the real world. Rush is unnaturally rabid and takes a bite at Wood Man. Rush escapes, never to be seen again.",
                 "class": "CCC",
                 "note": ""
@@ -493,7 +492,7 @@
                 "time": "December 15",
                 "timeclass": "CCC",
                 "title": "YOU can join the fight! A recruitment video from The Voice",
-                "content": "The Voice broadcasts a recruitment video, asking for high-quality rips in order to boost Christmas Spirit. <span style=\"color:#ddd\">The video acts as an updated version of <span class=\"title\">Main Theme - Superman 64</span>.",
+                "content": "The Voice broadcasts a recruitment video, asking for high-quality rips in order to boost Christmas Spirit. <span style=\"color:#ddd\">The video acts as an updated version of <b>Main Theme - Superman 64</b>.",
                 "class": "CCC double-entry"
             },
             {
@@ -548,7 +547,7 @@
                 "time": "Shortly after/during Haltmann or a few hours before Advent of Hell",
                 "timeclass": "CCC",
                 "title": "Advent of Hell [Episode 6] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "Angry Joe and Nathaniel Welchert execute the operation discussed in <span class=\"title\">Haltmann</span>, capturing Santa Claus and his workshop. The process of extracting Christmas Spirit begins.",
+                "content": "Angry Joe and Nathaniel Welchert execute the operation discussed in <b>Haltmann</b>, capturing Santa Claus and his workshop. The process of extracting Christmas Spirit begins.",
                 "class": "CCC"
             },
             {
@@ -565,14 +564,14 @@
             },
             {
                 "date": "December 26",
-                "content": "<span class=\"title\">Last Hurrah [FINALE] - The SilvaGunner Christmas Comeback Crisis</span> is uploaded to the SiIvaGunner channel as the apparent finale of the CCC. However, it is revealed to be a joke episode (eventually renamed as <span class=\"title\">Opening Scene - Waluigi's Tacostand</span>) revolving around Waluigi, Green de la Bean, Wario and the inexplicable discovery of garlic taco portals, henceforth known as GTPs. Despite being a joke episode, the episode is part of the main storyline as the Garlic Tacos become a major plot point in future episodes.",
+                "content": "<b>Last Hurrah [FINALE] - The SilvaGunner Christmas Comeback Crisis</b> is uploaded to the SiIvaGunner channel as the apparent finale of the CCC. However, it is revealed to be a joke episode (eventually renamed as <b>Opening Scene - Waluigi's Tacostand</b>) revolving around Waluigi, Green de la Bean, Wario and the inexplicable discovery of garlic taco portals, henceforth known as GTPs. Despite being a joke episode, the episode is part of the main storyline as the Garlic Tacos become a major plot point in future episodes.",
                 "class": "double-entry"
             },
             {
                 "time": "",
                 "timeclass": "",
                 "title": "Opening Scene - Waluigi's Tacostand",
-                "content": "Waluigi watches television as Mr. Rent comes to collect Waluigi's rent. He sympathizes with Waluigi and offers him a job. Waluigi asks if it's with his \"maniac cousin\" again, and <span class=\"PAINT\">a short scene plays involving Mr. Own with a shotgun at THE FUCKING STORE</span>. Mr. Rent informs him that the job is at a taco restaurant, and Waluigi accepts the offer. El Bean demands that Waluigi make tacos, though he doesn't know how. Waluigi then learns how via the mysterious power of \"Moving The Goddamn Plot Along\".",
+                "content": "Waluigi watches television as Mr. Rent comes to collect Waluigi's rent. He sympathizes with Waluigi and offers him a job. Waluigi asks if it's with his \"maniac cousin\" again, and <span class=\"PAINT\">a short scene plays involving Mr. Own with a shotgun at THE FUCKING STORE.</span> Mr. Rent informs him that the job is at a taco restaurant, and Waluigi accepts the offer. El Bean demands that Waluigi make tacos, though he doesn't know how. Waluigi then learns how via the mysterious power of \"Moving The Goddamn Plot Along\".",
                 "class": "CCC double-entry",
                 "note": ""
             },
@@ -582,8 +581,6 @@
             },
             {
                 "date": "December 31",
-                "time": "Anywhere between December 22 and 25, specifically at 3:00 AM",
-                "timeclass": "CCC",
                 "title": "Advent of Hell [Episode 6] - The SilvaGunner Christmas Comeback Crisis",
                 "content": "Meta Knight and Smol Nozomi reach the North Pole as The Voice's forces besiege Santa's Workshop. They retrieve Santa, who destroys the factory as a scorched-earth tactic to prevent Christmas Spirit, a powerful energy source, from falling into the Voice's hands. Angry Joe steals Santa's sleigh, inconveniencing them. Before they escape the soon-to-be destroyed workshop on the Smolitzer, they do battle with and defeat Nathaniel Welchert, who dies in the ensuing workshop explosion.<br><br>Santa explains Christmas Spirit to Meta Knight and Nozomi. The Voice's possible intentions are revealed.",
                 "class": "CCC"

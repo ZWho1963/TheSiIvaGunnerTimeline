@@ -1,4 +1,4 @@
-﻿[
+﻿export const data = [
     {
         "year": "2018",
         "events": [
@@ -244,36 +244,11 @@
             },
             {
                 "date": "December 25",
+                "time": "December 19",
+                "timeclass": "AIRTH",
                 "title": "Ending - The Grinch",
                 "content": "<span style=\"color: #fff\">With the abrupt end to the Grinch's takeover having gone unexplained, the SiIvaGunner team posts a comic to the channel's Twitter account, explaining that</span> the Grinch, having become irritated due to the lack of fanfare for his movie and envious about the Christmas spirit on display, cancelled Christmas, refusing to post any rips after the 19th.",
                 "class": "AIRTH"
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "<span class=\"title\"></span><span style=\"color:#ddd\"></span>",
-                "class": "",
-                "note": ""
             }
         ]
     }

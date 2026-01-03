@@ -41,7 +41,6 @@
 body {
 	color: #ddd;
 	font-family: 'Nukamisto';
-	font-size: 1.1em;
 	margin: 0;
 	overflow: auto;
 }
@@ -52,12 +51,12 @@ body {
 
 p {
 	margin: 0;
-	font-size: 1.125em;
+	font-size: 1em;
 	/*font-family: 'Seurat DB'*/
 }
 
 h3 {
-	font-size: 1.75em;
+	font-size: 1.5em;
 	margin-top: 0px;
 	margin-bottom: 20px;
 	color: #888888;
@@ -84,7 +83,7 @@ h4, .title {
 }
 
 .content {
-	font-size: 1.125em;
+	font-size: 1em;
 	margin-left: 2em;
 	margin-bottom: 20px;
 }
@@ -111,14 +110,17 @@ table {
 	color: #a64d79;
 }
 .PAINT {
-	color: #7eb030;
+	color: #008aa4;
 }
 .OTHER {
 	color: #888;
 }
 .FOOLS {
-	color: #00ace6;
+	color: #b362b4;
 }
 .NUGGET {
 	color: #996515;
+}
+.GORK {
+	color: #D5CAB0;
 }

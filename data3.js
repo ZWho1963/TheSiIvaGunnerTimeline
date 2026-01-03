@@ -3,13 +3,6 @@
         "year": "2016",
         "events": [
             {
-                "note": "In order to make the lore-watching process easier, from now on any lore entries will have their corresponding video titles listed above, following the same convention used to document the <i>Kirby Fighters</i> videos.<br><br>Furthermore, in order to document the evolution of lore in a Doylist manner, all lore entries will only describe the information known to the viewers at the time of their release, although there are a couple of exceptions:",
-                "class": "double-entry"
-            },
-            {
-                "content": "<b>EXCEPTIONS<b>: <ul><li>FILEs 1 through 23 of Haltmann's Archives</li><li>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]</li><ul>"
-            },
-            {
                 "date": "January 1",
                 "content": "Chaze the Chat releases a fakeout Soundclown combining the Gen 3 Battle theme from Pokemon with the Flintstones theme under the title new pokemon battle music LEAKED on dreammaker222 to annoy his friends; to his surprise, they actually like it."
             },
@@ -21,11 +14,6 @@
                 "date": "January 9",
                 "content": "Chaze the Chat creates the GiIvaSunner (with an uppercase I) channel to parody GilvaSunner: the first rip is an upload of <i>new pokemon battle music LEAKED</i> disguised as a legitimate rip from Pokémon Ruby and Sapphire.<br><br>Shortly after the channel's creation, Chaze shows it off to a mashup collective server named Gangnam Goons, which would become the channel's base of operations for most of the year.",
                 "class": "double-entry"
-            },
-            {
-                "title": "The Creation of GiIvaSunner [FILE-01] - Haltmann's Archives",
-                "content": "At 7:32 PM, a meteor unexpectedly crashlands outside Tokyo Marunouchi Station. No casualties or injuries were reported, only very minor property damage. Scientists are unable to determine its exact origins or the type of mineral it is made of - the best description they can come up with is \"stone-like\". One scientist notes that its energy reading is similar to that of the Cores, which are superweapons developed by various governments for protection purposes. <br><br>An unknown, wealthy individual buys the meteor for ¥562315000. He takes it to his nearby apartment and decides to carve a statue of it, in the image of Antinous, an ancient Greek idol (an icon of homosexuality in the West). <br><br>The statue comes to life, killing its owner in the process. GiIvaSunner is born, hijacks the person's computer, creates a YouTube channel in his image, and starts making high quality rips.",
-                "class": "CCC"
             },
             {
                 "date": "February 6",
@@ -61,23 +49,11 @@
             },
             {
                 "date": "April 1",
-                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <b>Final Destination - Super Smash Bros. Brawl</span>.<br><br><b>(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</span> is also released during this event, marking the first appearance of The Jetsons."
-            },
-            {
-                "date": "April 5",
-                "title": "Termination [FILE-02] - Haltmann's Archives",
-                "content": "At 12:10 PM, GiIvaSunner's channel receives its first copyright strike. Determined to find the culprit, GiIvaSunner abducts seven suspects and takes them on a plane. One of them is Dinkleberg, a high-ranking crime lord.",
-                "class": "CCC"
+                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <b>Final Destination - Super Smash Bros. Brawl</b>.<br><br><b>(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</b> is also released during this event, marking the first appearance of The Jetsons."
             },
             {
                 "date": "April 6",
                 "content": "The GiIvaSunner Youtube channel is terminated for violating Youtube's community guidelines between 2:01 and 2:11 PM; the specific infractions remain unknown.<br><br>The real GilvaSunner tweets that he was actually okay with the parody channel, and didn't take it down out of malice.",
-                "class": "double-entry"
-            },
-            {
-                "title": "Termination [FILE-02] - Haltmann's Archives",
-                "content": "At 2:10 PM, GiIvaSunner's interrogation begins. The seven possible suspects are aboard the plane, but only one steps forward: Dinkleberg. Dinkleberg's true identity is revealed to be Joe Vargas, better known as Angry Joe. Joe had filed the copyright strike against GiIvaSunner in-universe out of jealousy.<br><br>Joe and his larger plane were tailing GiIvaSunner's the whole time, and an assault was staged on GiIva. In the resulting fight, he loses his eye and has a piece of shrapnel lodged inside his head. Soon enough, Joe has GiIva on the edge.<br><br>Joe files another copyright strike on the spot, and just like that, GiIvaSunner's channel is terminated. GiIvaSunner himself stops moving - as if the two were linked. The now lifeless statue slides out of the plane, into the depths below, and Joe escapes, <span class=\"AIRTH\">keeping GiIvaSunner's eye as a trophy.</span> The plane crashes into the Pacific Ocean, seemingly with no survivors.",
-                "class": "CCC"
             },
             {
                 "date": "April 8",
@@ -85,17 +61,12 @@
             },
             {
                 "date": "April 12",
-                "content": "The GiIvaSunner team moves to a backup channel named SiIvaGunner (with an uppercase I like GiIvaSunner) and resumes the uploading of rips.",
+                "content": "The GiIvaSunner team moves to a backup channel named SiIvaGunner (with an uppercase I like GiIvaSunner) and resumes the uploading of rips. An album named <i>The Phantom Rips: SiIVa has come to</i> is released as part of this comeback alongside <b>A Big Announcement.</b>",
                 "class": "double-entry"
             },
             {
-                "title": "Termination [FILE-02] - Haltmann's Archives",
-                "content": "At 6:42 AM, the lifeless statue once known as GiIvaSunner is fished out of a local harbor near Rotterdam in the Netherlands. None of the locals are able to tell what it is. The statue is once again put up for auction, and it is sold to none other than Chad Warden, for $599 USD.<br><br>Chad Warden takes the statue home and realizes just who he is. Thinking he can ride off his coattails, Chad creates a new YouTube account: SiIvaGunner. The moment the account is created, the statue comes back to life. \"I am SiIvaGunner. I only upload high quality video game rips.\"<br><br>Chad Warden is somehow not killed, implying SiIvaGunner knows that Chad saved his life. Chad promptly allies with the all-new SiIvaGunner, and proceeds to buy him his own house, alongside a new computer and eyepatch, and thus, he resumes ripping. Chad also contacts most major contemporary news networks and provides irrefutable evidence of a humanoid extraterrestrial who was not only intelligent, but ran a YouTube channel.",
-                "class": "CCC double-entry"
-            },
-            {
-                "title": "YouTube [FILE-20] - Haltmann's Archives",
-                "content": "Chad also contacts most major contemporary news networks and provides irrefutable evidence of a humanoid extraterrestrial who was not only intelligent, but ran a YouTube channel.",
+                "title": "A Big Announcement",
+                "content": "In a parody of <i>The Dark Knight Rises</i>' prologue, GiIvaSunner (in the role of the CIA Agent) is held hostage by Dinkelberg (really Angry Joe, playing the role of Bane). After a brief conversation, Dinkleberg orders that GiIvaSunner's channel be terminated.",
                 "class": "CCC"
             },
             {
@@ -124,11 +95,6 @@
                 "date": "June 1",
                 "content": "Triple-Q is removed from the SiIvaGunner backroom team for below-par submissions.",
                 "class": "double-entry"
-            },
-            {
-                "title": "The Joke-Explainer™ 7000 [FILE-11] - Haltmann's Archives",
-                "content": "The Joke-Explainer™ 7000 is created by Chad Warden, with the purpose of explaining a rip's joke.",
-                "class": "CCC"
             },
             {
                 "date": "June 7",
@@ -294,9 +260,7 @@
             },
             {
                 "date": "September 2",
-                "title": "The Supreme Visitor [FILE-06] - Haltmann's Archives<br>Fun Park Massive - No One Can Stop Mr. Domino!",
-                "class": "CCC",
-                "content": "The Figment Green de la Bean is born. SiIvaGunner treats it as his own son. <span style=\"color:#ddd\">Most of the SiIvaGunner community reacts negatively to the meme, potentially due to its shocking nature. Despite his prior blacklisting, Le Ruse Bird plays an important part in the Bean's creation.</span>"
+                "content": "Green de la Bean is first used on SiIvaGunner as a joke, and it quickly proliferates. Most of the SiIvaGunner community reacts negatively to the meme, potentially due to its shocking nature. Despite his prior blacklisting, Le Ruse Bird plays an important part in the Bean's creation."
             },
             {
                 "date": "September 3",
@@ -320,41 +284,23 @@
                 "class": "double-entry"
             },
             {
-                "content": "In-universe, Green de la Bean is killed by figment radicalists.",
-                "class": "CCC double-entry"
-            },
-            {
-                "note": "<b>The Supreme Visitor [FILE-06]</b> says that Green de la Bean died on September 3, which contradicts with this entry. Furthermore, SiIvaTeam member Keeby10 has expressed their desire to retcon FILE-06 as 'none of it makes sense'."
-            },
-            {
                 "date": "September 10",
-                "title": "The Supreme Visitor [FILE-06] - Haltmann's Archives",
-                "content": "Distraught with the loss of his \"son\", SiIvaGunner mourns his death with a channel event.",
-                "class": "CCC double-entry"
+                "content": "SiIvaGunner 'mourns' the death of Green de la Bean with a channel event.",
+                "class": "double-entry"
             },
             {
                 "content": "SoundCloud user NBG uploads <i>when montage parodies died a long time ago but u can't let go of the past</i>, a megamix centered around <i>We Are Number One</i> from <i>LazyTown</i>."
             },
             {
                 "date": "September 11",
-                "content": "SiIvaGunner holds an event involving The Jetsons, patriotism and towers. After severe backlash to the event (primarily due to it being an unsubtle and distasteful reference to the 9/11 attacks), the SiIvaGunner backroom bans any and all future use of the Jetsons as a joke source. <span class=\"CCC\">In-universe, The Jetsons crash into a tower, and are never seen on the channel again.</span>",
+                "content": "SiIvaGunner holds an event involving The Jetsons, patriotism and towers. After severe backlash to the event (primarily due to it being an unsubtle and distasteful reference to the 9/11 attacks), the SiIvaGunner backroom bans any and all future use of the Jetsons as a joke source.",
                 "class": "double-entry"
-            },
-            {
-                "title": "The Supreme Visitor [FILE-06] - Haltmann's Archives",
-                "class": "CCC double-entry",
-                "content": "SiIvaGunner, still upset, deletes all of the event's uploads. The channel is overloaded, causing a dimensional rift to form. The Flustered Fernando channel emerges from the rift, and it reuploads the missing rips."
             },
             {
                 "note": "Flustered Fernando was the channel dedicated to reuploading controversial SiIvaGunner rips such as those related to the 9/11 event and Green de la Bean. It has since been terminated from YouTube, although its videos have been reuploaded by a variety of users."
             },
             {
                 "date": "September 12",
-                "title": "The Supreme Visitor [FILE-06] - Haltmann's Archives",
-                "class": "CCC double-entry",
-                "content": "SiIvaGunner resumes uploading rips, having absolutely no memory of the previous day or the rips he uploaded on it."
-            },
-            {
                 "content": "The SiIvaGunner team reuploads NBG's remix as <b>We are Number One - LazyTown: The Video Game</b>. The rip goes viral, and subsequently establishes <i>We are Number One</i> as an internet meme."
             },
             {
@@ -405,11 +351,6 @@
                 "class": "double-entry"
             },
             {
-                "title": "The Werewolf [FILE-05] - Haltmann's Archives",
-                "class": "CCC",
-                "content": "In-universe, the rip is uploaded under SiIvaGunner's nose by Wood Man, who uses it to escape SiIva's computer. "
-            },
-            {
                 "date": "October 22",
                 "content": "Season 42, episode 4 of <i>Saturday Night Live</i> is aired on television. The character David S. Pumpkins, played by Tom Hanks, appears in a sketch.",
                 "class": "double-entry"
@@ -424,31 +365,18 @@
             },
             {
                 "date": "October 29",
-                "time": "October 28, as per [FILE-05]",
                 "timeclass": "CCC",
                 "content": "<b>Title Theme & Ending - 7 GRAND DAD</b> is uploaded, meant to end the channel. <i>GilvaSunner's Highest Quality Video Game Rips: Volume 7: Part mm2wood</i> is also released as a final farewell album.<br><br><b>Title Theme - 7 GRAND DAD</b> is uploaded to the channel an hour before this, 'celebrating' the channel's most hated jokes in an attempt to troll viewers.",
                 "class": "double-entry"
             },
             {
                 "class": "CCC double-entry",
-                "title": "Title Theme & Ending - 7 GRAND DAD<br>The Werewolf [FILE-05] - Haltmann's Archives",
-                "content": "SiIvaGunner finds out Wood Man was behind the album corruptions shortly after releasing 'Title Theme & Ending - 7 GRAND DAD'. Finally satisfied after creating 'the highest quality rip', he shuts his computer off and goes to sleep. Wood Man pounces on this opportunity and takes over SiIvaGunner's YouTube and Twitter accounts."
-            },
-            {
-                "time": "October 29",
-                "content": "After much deliberation, Wood Man begins work on the Figment Transportation Device, allowing figments to enter the Central Canon Continuum. Wood Man runs a test and decides to transfer Rush, Mega Man's dog, into the real world. Rush is unnaturally rabid and takes a bite at Wood Man. Rush escapes, never to be seen again.",
-                "class": "CCC",
-                "note": ""
-            },
-            {
-                "date": "October 31",
-                "title": "The Werewolf [FILE-05] - Haltmann's Archives<br>A Nice Announcement",
-                "content": "Under the effects of a full moon, Wood Man loses control over himself and undergoes a transition into the 8-Bit Beast.",
-                "class": "CCC"
+                "title": "Title Theme & Ending - 7 GRAND DAD",
+                "content": "Shortly after releasing 'Title Theme & Ending - 7 GRAND DAD', SiIvaGunner finds out Wood Man was behind the 'corrupted' album metadata (in reality the 'real' names of the rips and their creators). Finally satisfied after creating 'the highest quality rip', he shuts his computer off and goes to sleep.",
             },
             {
                 "date": "November 3",
-                "content": "The SiIvaGunner Spooktacular Halloween Horror Special begins. <span class=\"CCC\">Wood Man hosts the event simply because he likes to entertain people.</span>"
+                "content": "The SiIvaGunner Spooktacular Halloween Horror Special begins, meant to be a brief special return for Halloween."
             },
             {
                 "date": "November 6",
@@ -459,6 +387,9 @@
             {
                 "date": "November 7",
                 "content": "The SiIvaGunner Spooktacular Halloween Horror Special ends."
+            },
+            {
+                "content": "<b>The Schizophrenic Tower - For Moon Mansion Boss Act - Sonic After the Sequel</b> is uploaded. It retroactively becomes SiIvaGunner's first 'fusion collab', where a specific track is arranged in differing styles, mostly based on music other video games."
             },
             {
                 "date": "November 15",
@@ -493,22 +424,6 @@
                 "timeclass": "CCC",
                 "title": "YOU can join the fight! A recruitment video from The Voice",
                 "content": "The Voice broadcasts a recruitment video, asking for high-quality rips in order to boost Christmas Spirit. <span style=\"color:#ddd\">The video acts as an updated version of <b>Main Theme - Superman 64</b>.",
-                "class": "CCC double-entry"
-            },
-            {
-                "title": "Performance Review [FILE-21] - Haltmann's Archives",
-                "content": "Dr. Andonuts is employed by Haltmann Works Company.",
-                "class": "CCC double-entry"
-            },
-            {
-                "title": "The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]",
-                "content": "Angry Joe pledges allegiance to The Voice and hands over GiIvaSunner's eye.",
-                "class": "AIRTH"
-            },
-            {
-                "date": "December 16",
-                "title": "Performance Review [FILE-21] - Haltmann's Archives",
-                "content": "Dr. Alphys is employed by Haltmann Works Company.",
                 "class": "CCC"
             },
             {

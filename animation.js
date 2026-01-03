@@ -1,4 +1,4 @@
 ﻿gsap.to("#timeline", { 
-  y: 0,
-  duration: 763.54
+  y: -48913.5,
+  duration: 1222.8375
 });

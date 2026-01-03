@@ -1,16 +1,11 @@
-﻿export const data = [
+﻿export const data5 = [
     {
         "year": "2018",
         "events": [
             {
                 "date": "January 1",
-                "content": "The video \"...of 2017\" is released, formally announcing a Season 3.",
+                "content": "The video \"...of 2017\" is released, with Chaze formally announcing and beginning a Season 3. Chaze also make notes of some changes to the channel: an increased upload schedule (up to 8 rips a day), the SiIvaGunner team's participation in MAGFest 2018, and the return of SiIvaGunner as the channel host.",
                 "class": "double-entry"
-            },
-            {
-                "title": "The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]",
-                "content": "Project AIRTH enters beta testing, with the newly-developed SiIva AI becoming channel host as 'SiIvaGunner'.",
-                "class": "AIRTH"
             },
             {
                 "date": "January 3",
@@ -18,7 +13,7 @@
             },
             {
                 "date": "January 4",
-                "content": "<i>Doki Doki Literature Club!</i> first appears as a joke on SiIvaGunner, <span class=\"AIRTH\">lampshading the impending abnormalities that will affect the SiIva AI.</span>"
+                "content": "<i>Doki Doki Literature Club!</i> first appears as a joke on SiIvaGunner"
             },
             {
                 "date": "January 6",
@@ -26,9 +21,8 @@
                 "content": "The SiIvaGunner members at MAGFest host a panel, providing insights on rip creation, channel maintenance and lore. \"NOW THAT'S WHAT I CALL QUALITY\" is also released."
             },
             {
-                "date": "January 7",
-                "title": "The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH]",
-                "content": "Viewers of SiIvaGunner notice several abnormalities with the channel. <span class=\"AIRTH\">The SiIva AI suffers minor glitches as beta testing begins, and it publicly pins the blame on Wood Man.</span>"
+                "date": "January 7 - 21",
+                "content": "Viewers of SiIvaGunner notice several abnormalities with the channel, such as glitched descriptions and catchphrases on certain rips.",
             },
             {
                 "date": "January 8",
@@ -38,8 +32,12 @@
                 "note": ""
             },
             {
+                "date": "January 9",
+                "content": "<b>Sample [FILE-08]</b> is uploaded. It presents itself as a sample analysis of SiIvaGunner himself, detailing his origins and abilities under the file [000001_.hqr], which is injected into another computer or system at the end of the analysis. The SiIvaGunner Twitter account ignores this video and posts a seemingly normal tweet."
+            },
+            {
                 "date": "January 21",
-                "content": "Haltmann corroborates the as-yet unseen AI's prior statement and announces that Wood Man is the cause of the channel's recent abnormalities and that he has installed improved anti-virus software to guard against future attacks.",
+                "content": "Haltmann announces SiIvaGunner's Twitter account that Wood Man is the cause of the channel's recent abnormalities and that he has installed improved anti-virus software to guard against future attacks.",
                 "class": "CCC"
             },
             {
@@ -54,7 +52,7 @@
             },
             {
                 "date": "March 16",
-                "content": "<span class=\"title\">Wood Man & Robbie Rotten</span> is uploaded to the channel; the video is the first in a series of 'side stories' that continue world-building and character development within the CCC.",
+                "content": "<b>Wood Man & Robbie Rotten</b> is uploaded to the channel; the video is the first in a series of 'side stories' that continue world-building and character development within the CCC.",
                 "class": "double-entry"
             },
             {
@@ -62,14 +60,7 @@
                 "time": "December 24, 2016",
                 "timeclass": "CCC",
                 "content": "Wood Man invites Robbie Rotten to dinner. As Wood Man opens his bag of food, he realizes it's on fire and devises a plan to return to SiIvaGunner's house to use his computer to make food for him. Robbie notices and asks what he's doing, which Wood Man replies with \"exercise\". Robbie also notices the smoke coming out of Wood Man's bag, which Wood Man explains to be steam from the steamed greens he's having. He goes back to the table while Wood Man uses the portal and brings back beans.<br><br>When Robbie sees the beans, he expresses confusion as he was led to believe he was having vegetables. Wood Man, thinking on his feet, states he meant to say \"steamed beans\". Robbie dislikes the taste and refuses to eat them. He mentions how awful things have gone, and that it happened on Christmas Eve of all days.<br><br>Wood Man explains to Robbie, and also the viewers, that it's not really Christmas, and that the Central Canon Continuum is undergoing time dilation. He continues, telling him that new figments have been transported to the CCC through time rifts. He theorizes that Haltmann has frozen time, wanting to exploit Christmas Spirit forever to become rich. They then argue about the other being a failure, but make up afterwards.",
-                "class": "CCC double-entry"
-            },
-            {
-                "time": "October 31, 2018",
-                "timeclass": "FOOLS",
-                "title": "Comeback Crisis: The Lost Rip - A SiIvaGunner Christmas Comeback Crisis Side Story",
-                "content": "Shortly after the events of <span class=\"title\">Wood Man & Robbie Rotten</span>, Wood Man is whisked into CCC-FOOLS by its version of The Voice.",
-                "class": "FOOLS"
+                "class": "CCC"
             },
             {
                 "date": "March 20",
@@ -111,7 +102,7 @@
             },
             {
                 "date": "Between July 1 and July 11",
-                "content": "Two videos - <span class=\"title\">Color Power - Yellow Drill - Sonic Colors (Wii)</span> and <span class=\"title\">p</span> - are deleted for violating community guidelines, giving the channel two community strikes and preventing any new uploads."
+                "content": "Two videos - <b>Color Power - Yellow Drill - Sonic Colors (Wii)</b> and <b>p</b> - are deleted for violating community guidelines, giving the channel two community strikes and preventing any new uploads."
             },
             {
                 "date": "July 8",
@@ -135,7 +126,7 @@
             },
             {
                 "date": "July 27",
-                "title": "SiIvaGunner presents... The KING FOR A DAY TOURNAMENT!<br>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH] - Haltmann's Archives",
+                "title": "SiIvaGunner presents... The KING FOR A DAY TOURNAMENT!",
                 "content": "The two community strikes on the SiIvaGunner channel are lifted, and the King for a Day Tournament begins. <span class=\"AIRTH\">John Notwoodman, a character suspiciously similar to Wood Man, acts as the tournament's host.</span>"
             },
             {
@@ -143,7 +134,7 @@
                 "content": "Voting regulations for KFAD are explained by John Notwoodman, and matches begin in earnest, with King DeDeDe facing off against Weird Al, and DJ Professor K battling against Etika."
             },
             {
-                "date": "August 8, 2018",
+                "date": "August 8",
                 "content": "<b>VS. FIGHTING REJECT TEAM - SiIvaGunner: King for a Day Tournament</b> is uploaded to the channel, featuring Weird Al, DJ Professor K and Geno styled as members of the Fighting Polygon Team."
             },
             {
@@ -159,6 +150,10 @@
                 "note": ""
             },
             {
+                "date": "August 21",
+                "content": "Stefán Karl Stefánsson dies at the age of 43."
+            },
+            {
                 "date": "September",
                 "content": "123zc becomes a member of the SiIvaGunner backroom. Development on another CCC side story begins around this time."
             },
@@ -168,13 +163,7 @@
                 "class": "double-entry"
             },
             {
-                "title": "The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH] - Haltmann's Archives<br>The SiIvaGunner Spooktacular Halloween Horror Special Part III: Episode 3",
-                "content": "John Notwoodman, riding high off of KfaD's success, decides to purchase the land housing a graveyard neighboring the Gaylord National Resort and Convention Center. In addition, he bids on a haunted mansion, inspired by the Eddie Murphy of the same name. He is outbid by Wood Man.",
-				"class": "AIRTH"
-            },
-            {
                 "date": "October 9",
-                "title": "The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH] - Haltmann's Archives",
                 "content": "Unregistered Hypercam 2 hosts his takeover of the SiIvaGunner channel.",
                 "class": "AIRTH"
             },
@@ -186,27 +175,27 @@
                 "date": "October 31",
                 "title": "Comeback Crisis: The Lost Rip - A SiIvaGunner Christmas Comeback Crisis Side Story",
                 "content": "A character named Reader (voiced by 123zc) is surprised when Episode 13 of the Christmas Comeback crisis is uploaded to the SiIvaGunner channel. However, it ends up being nothing but Puzzle Room for four hours. A choice between \"Da\" or \"Nyet\" appears; Reader chooses \"Nyet\" and is subsequently jumpscared by Felix from the Puzzle Room Incident, who warns him to turn back. Reader ignores it, rewatches the video and picks \"Da\", which prompts Felix to tear his face off.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "At the same time, Haltmann bursts into the Voice's office with half his face gone; he dies soon after. The Voice hurriedly checks on SiIva, whom he deduces is having nightmares and generating Halloween Spirit as a result. The Voice then summons Wood Man (fresh off the events of Wood Man & Robbie Rotten) to help.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Reader tries to show his best bro and actual brother Jerome the video, and both are promptly jumpscared by Felix. Reader then recaps the story so far, and they return to the point where Reader left off.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Wood Man leaves The Voice's tower, where he kills Robbie Rotten whilst under the influence of a mysterious red mist. He then quickly comes to his senses and rushes back to the Voice, who at this point is also possessed by the mist. He dies as soon as Wood Man arrives. Wood Man then decides to figure out where the red mist came from.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Wood Man then arrives at SiIvaGunner's house, which is enveloped by the same red mist. He deduces that the red mist is Halloween Spirit, and takes the necessary precautions before venturing inside. He chances upon a possessed Grand Dad, who drags Jerome through SiIva's computer to hold him hostage. Wood Man tries to beg for his release, but Grand Dad proceeds to kill him; Wood Man then slaps Grand Dad across the room, killing him as well.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Wood Man enters SiIvaGunner's room, where the latter is having nightmares whilst both being hooked up to a helmet and surrounded by demonic figments. Wood Man pulls Reader through the computer to distract them just long enough for Wood Man to yank SiIva's helmet off, killing the demonic figments.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "The Halloween Spirit combines to form the 8-Bit Beast, who does battle with Wood Man and Reader. The 8-Bit Beast dominates the fight and mere moments away from killing the two, before SiIva crashes in to save them with a rainbow beam. Wood Man returns Reader to his world, who after realising the whole escapade was real, swears to never watch SiIvaGunner again.",
@@ -214,7 +203,7 @@
             },
             {
                 "date": "November 7",
-                "title": "0000_11_07_2018]",
+                "title": "[0000_11_07_2018]",
                 "content": "A week after the events of <b>Comeback Crisis: The Lost Rip</b>, Reader finally turns off his computer and goes to sleep; the 8-Bit Beast suddenly appears in his window.",
                 "class": "FOOLS"
             },
@@ -228,7 +217,7 @@
             },
             {
                 "date": "December 6",
-                "title": "A MAGnificent Leak!<br>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH] - Haltmann's Archives",
+                "title": "A MAGnificent Leak!",
                 "content": "The Grinch, wanting to promote his new movie, takes over the SiIvaGunner channel.",
                 "class": "AIRTH"
             },

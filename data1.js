@@ -81,10 +81,6 @@ export const data1 = [
                 "date": "March 21",
                 "content": "<i>WarioWare, Inc.: Mega Microgame$</i> is released for Game Boy Advance, sporting a new look for Wario.",
                 "class": "double-entry"
-            },
-            {
-                "content": "The United States and 39 other countries begin their invasion of Iraq, accompanied with a massive bombing campaign. Santa, having been captured, escapes Iraq and turns it into a Christmas winter wonderland using Christmas Spirit Bombs.",
-                "class": "CCC"
             }
         ]
     },

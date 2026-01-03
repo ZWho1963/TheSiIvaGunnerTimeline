@@ -1,4 +1,4 @@
-﻿[
+﻿export const data6 = [
     {
         "year": "2019",
         "events": [
@@ -15,15 +15,6 @@
                 "title": "The Real SiIvaGunner ***Please watch Q&A for full story***",
                 "content": "Youtube rejects the counter-claims submitted by SiIvaGunner, and the channel is forcefully terminated. The team, who is stuck at MAGFest and unable to appeal the decision, guides viewers to SiIvaGunner2.",
                 "class": "double-entry"
-            },
-            {
-                "title": "Second Termination [FILE-19] - Haltmann's Archives",
-                "content": "The SiIva AI begins to malfunction as a result of the channel's termination. In order to prevent a repeat of GiIvaSunner's 'death' from 2016, Haltmann Works pumps SiIvaGunner full of Christmas Spirit in order to keep him alive (see FILE-02).",
-                "class": "CCC double-entry"
-            },
-            {
-                "content": "At the same time, AIRTH experiences complete societal breakdown with the absence of the channel, complete with worlwide riots, government shutdowns and economic collapse.",
-                "class": "AIRTH"
             },
             {
                 "date": "January 9",
@@ -43,13 +34,7 @@
             {
                 "date": "February 28",
                 "title": "We're back",
-                "content": "Sony fails to respond within the 2 week deadline, and SiIvaGunner is reinstated. Season 3's finale immediately begins. <span class=\"CCC\">The SiIva AI becomes responsive again.</span>"
-            },
-            {
-                "date": "March 1",
-                "title": "Garlic-Flavored Tacos [FILE-16] - Haltmann's Archives",
-                "content": "The Joke-Explainer™ 7000 replica takes a bite from a Garlic Taco, transporting her to the AI universe. Andonuts is riddled with guilt, regretting taking the replica's existence for granted.",
-                "class": "CCC"
+                "content": "Sony fails to respond within the 2 week deadline, and SiIvaGunner is reinstated. Season 3's finale immediately begins."
             },
             {
                 "date": "March 3",
@@ -105,12 +90,6 @@
                 "class": "CCC"
             },
             {
-                "date": "March 25",
-                "title": "The SiIva AI [FILE-17] - Haltmann's Archives<br>The Silva AI Timeline: A Summary of Events [FILE-INT-AIRTH] - Haltmann's Archives",
-                "content": "HWC launches the Quality of Control network to aid in further increasing the quality of the SiIva AI's network, and the real SiIvaGunner is placed in a controlled dream environment dubbed Illucidity to assist in the QoC's effectiveness. The two systems run in parallel and enter a positive feedback loop.",
-                "class": "AIRTH"
-            },
-            {
                 "date": "April 1",
                 "content": "<b>Unusual Circumstances</b> is released as part of the channel's annual April Fools' Day event. The video acts as a pastiche of the channel's termination earlier that year in the form of an actual lawsuit.",
                 "class": "double-entry"
@@ -141,25 +120,24 @@
                 "class": "FOOLS double-entry"
             },
             {
-                "title": "Second Termination [FILE-19] - Haltmann's Archives",
-                "content": "Dr. Andonuts releases an internal memo regarding the events of the Termination, blaming the SiIva AI (which had assumed the personality of the Grinch) giving Sony evidence of the channel's breaches of copyright.",
-                "class": "CCC double-entry"
-            },
-            {
                 "title": "SiIva Direct 4.1.2019",
                 "content": "A MOJO!! for the King for Another Day Tournament is announced, directly inspired by the Smash Bros. DOJO!! from <i>Super Smash Bros. Brawl</i>.",
-                "note": "There ar"
             },
             {
-                "date": "May 16",
-                "title": "Anal BGM 3 - Fuck the Erotic Sexster<br>Holiday Spirit [FILE-INT-FOOLS] - Haltmann's Archives",
-                "content": "An HWC R&D experiment involving Spark the Electric Jester and Valentine's Spirit goes horribly wrong.",
-                "class": "CCC"
+                "note": "Over time, the KFAD MOJO!! became less of a funny gimmick website and more a way to flesh out the characters and the world beyond the tournament itself, with the MOJO!! receiving new content well into 2020. For the sake of brevity, the articles of the MOJO!! will not be taken into account."
             },
             {
                 "date": "June 11",
                 "title": "SiIva Direct • SiIva Lighthouse Live | E3 2019",
                 "content": "Following a series of events concerning his mental health, the team announces that Etika will be removed from the King for Another Day Tournament due to concerns that the unwanted attention from the event could negatively affect his well-being."
+            },
+            {
+                "date": "June 17",
+                "content": "SiIvaGunner contributor and speedrunner Marrow's passing is announced on the channel's Twitter."
+            },
+            {
+                "date": "June 18-19",
+                "content": "An event commemorating National Go Fishing Day is held on the channel, with it also doubling as a tribute to Marrow through the posting of <i>Ultimate Angler / StreetPass Fishing</i> rips."
             },
             {
                 "date": "June 20",
@@ -201,7 +179,7 @@
             {
                 "date": "September 21",
                 "title": "SilvaGunner: King for Another Day Tournament Direct 9.21.2019 (Beta Mix)",
-                "content": "A joke announcement premiers posing as a real KFAD Direct, introducing a bevy of fake characters such as Naxx Guyfieri and the Cool Meme Team. The real direct premieres 30 minutes later.",
+                "content": "A joke announcement premieres posing as a real KFAD Direct, introducing a bevy of fake characters such as Naxx Guyfieri and the Cool Meme Team. The real direct premieres 30 minutes later.",
                 "class": "FOOLS double-entry"
             },
             {
@@ -211,184 +189,99 @@
                 "note": ""
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
+                "time": "Before the events of the King for Another Day Tournament",
+                "timeclass": "AIRTH",
+                "title": "Jazz Cats: The Beginning - SilvaGunner: King for Another Day Tournament",
+                "content": "Shades DuPris arrives at Barkley's College of Slam, where he meets his roommate Doge Mayer before going their seperate ways.  In the school's cafeteria, he encounters Tom \"Milk Bowl\" Malone, who taunts him for being a freshman, and Naxx Guyfieri.  At the David Funnie Recital Hall later that night, Shades, Tom and a cat named s p h e l o n i o u s  d o n k perform the song 'Countdown' to an astounded crowd.",
+                "class": "OTHER"
+            },
+            {
+                "date": "October 28",
+                "content": "The SilvaGunner Spooktacular Halloween Horror Special: Part III is held as another instalment in the channel's yearly Halloween traditions. The first episode of what would become <b>A Murder Not Too Nice</b> is released, a spoof and pastiche of the original <i>Scooby-Doo, Where Are You!</i> from the 1960s.",
+            },
+            {
+                "title": "A Murder Not Too Nice - Part 1",
+                "content": "Princess Heavy, Takane Shijou, The Joke-Explainer™ 7000, Unregistered Hypercam 2, the Dancing Minion and Wolfgirl are invited by Wood Man to his mansion, purchased off the success of Wood Man's movie (see October 24 and November 1, 2017). Wood Man greets the group before receiving a mysterious and foreboding phone call. Soon after this, Wood Man is mysteriously abducted and a guest has been murdered; before any one can notice, the 8-Bit Beast sneaks up behind them and lunges for the kill...",
+                "class": "AIRTH"
+            },
+            {
+                "date": "October 30",
+                "content": "The second part of <b>A Murder Not Too Nice</b> is released.",
+            },
+            {
+                "title": "A Murder Not Too Nice - Part 2",
+                "time": "October 28",
+                "timeclass": "AIRTH",
+                "content": "Leading off from Part 1's cliffhanger, the group engages in a slapstick-inspired chase sequence to escape from the 8-Bit Beast, eventually ending up in the mansion's basement. They find Wood Man chained up within the basement and free him, but the other guests accuse him of being the 8-Bit Beast (see November 15, 2016 and October 29, 2017) and attempt to burn him at the stake. Wood Man pleas for the viewers to keep note of rips uploaded at times the Beast is known to appear before the episode cuts to black.",
+                "class": "AIRTH"
+            },
+            {
+                "date": "November 5",
+                "content": "The last part of <b>A Murder Not Too Nice</b> is released, marking both the end of the series and The SilvaGunner Spooktacular Halloween Horror Special: Part III.",
+            },
+            {
+                "title": "A Murder Not Too Nice - Part 3",
+                "time": "October 28",
+                "timeclass": "AIRTH",
+                "content": "The group manages to trap the 8-Bit Beast, who is revealed to be Jeff the Killer in costume. Soon after, John Notwoodman reveals that he was the mastermind behind the whole operation: he was the one who had sent the invitations, killed Protogent's brother and framed Wood Man before chaining him up in the basement. When that failed, he then tried to frame Wood Man as the 8-Bit Beast, which also failed. He claims that his motivation was jealousy over Wood Man outbidding him for the mansion so that he would have it for himself; shortly after, he is arrested by the police.",
+                "class": "AIRTH",
+            },
+            {
+                "content": "Reader and Jerome then appear, surprised that John Notwoodman and Wood Man are actually seperate characters (therefore invalidating <b>Unusual Circumstances</b> for some reason). Reader then discovers John Notwoodman had been hoarding all the Halloween rips from 2017 through to 2019 and proceeds to release them as part of an album.",
+                "class": "FOOLS"
+            },
+            {
+                "date": "November 17",
+                "title": "SilvaGunner: King for Another Day Tournament Overview: CHOOSE YOUR CHARACTER!",
+                "content": "John Notwoodman provides the viewers information on the King for Another Day Tournament, going over each character and their sourcelist and how to vote.",
+                "class": "AIRTH"
+            },
+            {
+                "date": "November 23",
+                "content": "The King for Another Day Tournament begins with 8 matches comprising half of Round 1. A change from the previous tournament is the institution of a 'Losers Bracket', where the losers of rounds would be given a chance to continue in the tournament. The tournament itself is dedicated to both Etika and Marrow.",
+                "class": "AIRTH"
+            },
+            {
+                "date": "December 4",
+                "content": "The arrangement <b>8 PM (Fishing Night in Heaven)</b> is uploaded as a tribute to Marrow.<br><br><b>Jazz Cats: The Ballads of Naxx and Doge</b> is also uploaded, leading off of <b>Jazz Cats: The Beginning</b> and focusing on Naxx Guyfieri and Doge Mayer.",
+            },
+            {
+                "title": "Jazz Cats: The Ballads of Naxx and Doge - SiIvaGunner: King for Another Day",
+                "time": "One day after the events of <b>Jazz Cats: The Beginning</b>",
+                "timeclass": "AIRTH",
+                "content": "Naxx and Doge meet up, both lamenting the fact they didn't get laid. The two decide to cope by writing a song together. They arrive at the practice rooms, where Shades DuPris is. Shades DuPris leaves and sees Doge and Naxx, briefly talking to them. Naxx and Doge get very far into writing their song and go to bed.<br><br>Meanwhile, Soph (or “Agent Blue”, as she is revealed here to be an undercover operative) talks to someone named Crowe, detailing the events of last night and how she was able to get so much information out of the date, especially something regarding a cat with strange abilities.",
+                "class": "OTHER"
+            },
+            {
+                "date": "December 20",
+                "title": "The FINAL BOSS approaches... - SiIvaGunner: King for Another Day",
+                "content": "The King for a Day Crown is revealed to be sentient and it decides to make the King for Another Day Tournament last forever, taking over Hypercam and transforming him into Unrestrained Hypercam 2.  John Notwoodman beseeches the viewers to power up the MF Like Button in order to defeat the Crown and Hypercam.",
+                "class": "AIRTH",
                 "note": ""
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
+                "date": "December 21",
+                "title": "THIS GAME'S WINNER IS... [FINAL BOSS BATTLE] - SiIvaGunner: King for Another Day",
+                "content": "The efforts of the viewers pay off, and the Crown is swiftly defeated through the use of the MF Like Button.",
+                "class": "AIRTH"
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
+                "title": "a̵c̖͠c͏i̡̲͚d̩͘e͚n̪̰̱t̶a̙̥͜l ̱̗a̰̲ͅn̠̞̕n̘̣͎o͔̜u̳̭͖n̴͖̳c͙͚ͅę̝̼m͓͕͚e̦̕ͅn̛t͎̰̠",
+                "content": "In an announcement formatted like a MOJO!! article, MissingNo. reveals to Phoenix (through time-travelling to the future) that both it and Law & Disorder will receive runners-up prizes despite not making it to the Grand Finals. John Notwoodman corroborates this in the video's description, saying that all of the final 4 (MissingNo., Law & Disorder, Mariya Takeuchi and DJ Professor K) will all receive prizes, whether it be a takeover, fusion collab or something else entirely.",
+                "class": "AIRTH"
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
+                "date": "December 24",
+                "title": "THE TOURNAMENT CHAMPION IS... - SiIvaGunner: King for Another Day",
+                "content": "The King for Another Day Tournament ends with DJ Professor K winning a convincing victory over Mariya Takeuchi.",
+                "class": "AIRTH",
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
+                "content": "A special KFAD2 arrangement of <b>Lifelight</b> from Super Smash Bros. Ultimate is uploaded as a tribute to Etika.<br><br>Supplementary videos relating to the tournament (i.e. victory screens, leftover arrangements, e.t.c.) continue to be posted after the end of actual competition.",
             },
             {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "",
-                "class": "",
-                "note": ""
-            },
-            {
-                "date": "",
-                "time": "",
-                "timeclass": "",
-                "title": "",
-                "content": "<span class=\"title\"></span><span style=\"color:#ddd\"></span>",
-                "class": "",
-                "note": ""
+                "date": "Some time during 2019",
+                "content": "Chaze the Chat completely disappears off the Internet, and his whereabouts since 2019 have remained a mystery. The channel's other managers continue in his absence, which is never brought up or discussed publicly.",
             }
         ]
     }

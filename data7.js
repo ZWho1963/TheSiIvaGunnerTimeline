@@ -75,7 +75,7 @@
             },
             {
                 "date": "September 3",
-                "content": "Nintendo uploads the <i>Super Mario Bros. 35th Anniversary Direct</i>, where they announce the release of games like <i>Super Mario 3D All-Stars</i> and <i>Super Mario Bros. 35</i>, which are to only be available for a limited time."
+                "content": "Nintendo uploads the <i>Super Mario Bros. 35th Anniversary Direct</i>, where they announce the release of games like <i>Super Mario 3D All-Stars</i> and <i>Super Mario Bros. 35</i>, which are to only be available until March 31, 2021."
             },
             {
                 "date": "September 7",
@@ -111,7 +111,20 @@
             },
             {
                 "title": "I Wanna Thank Me - A SilvaGunner Christmas Comeback Crisis Side Story",
-                "content": ""
+                "content": "Snoop Dogg prepares his campaign for the presidency of Grandiose City with the Rapper's Union. During a discussion with HH over a potential campaign song, they are interrupted by a broadcast promoting the Poké Poké Literature Party headed by Misha and Monika - the Union is surprised they actually have opposition that isn't Haltmann. In reality, apart from the PPLP, the Mario Party, Team 10, the Fighting Polygon Party and the Dog Party are all contesting the presidency.",
+                "class": "CCC"
+            },
+            {
+                "content": "Whilst the Union is campaigning, Jake Paul and Nick Crompton from Team 10 discuss their party's low polling percentage. They are approached by Misha in disguise, who tells them that the Union has been sabotaging them and that they should retaliate against them. Team 10 ends up doing so, but all of them sans Crompton are shot dead by Snoop Dogg. Misha reports that his plan of driving a wedge between Team 10 and the Rapper's Union is a success.",
+                "class": "CCC"
+            },
+            {
+                "content": "As the campaign comes to a close, the election becomes a two-horse race between the Rapper's Union and the PPLP, and the two parties give a final speech before the polls close. Both of their speeches end up faring disastrously, but before the results can be read out, an explosion erupts from the Voice's tower, and chaos erupts. Soulja Boy rushes towards the tower and the Rapper's Union flees the scene.",
+                "class": "CCC"
+            },
+            {
+                "date": "December 31",
+                "content": "Mariya Takeuchi receives her second-place prize: a fusion collab titled <b>[11 Minutes of City Pop [Full Collab, VHS Rip]]</b>."
             }
         ]
     }

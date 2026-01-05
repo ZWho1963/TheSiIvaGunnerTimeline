@@ -132,6 +132,10 @@
                 "content": "Following a series of events concerning his mental health, the team announces that Etika will be removed from the King for Another Day Tournament due to concerns that the unwanted attention from the event could negatively affect his well-being."
             },
             {
+                "date": "June 14",
+                "content": "The idea of a 'Pussy Yankover' - a takeover primarily focused on the rapper Lady and her song <i>Yankin'</i> - is first thought up on SiIvaCord."
+            },
+            {
                 "date": "June 17",
                 "content": "SiIvaGunner contributor and speedrunner Marrow's passing is announced on the channel's Twitter."
             },

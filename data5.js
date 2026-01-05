@@ -4,7 +4,7 @@
         "events": [
             {
                 "date": "January 1",
-                "content": "The video \"...of 2017\" is released, with Chaze formally announcing and beginning a Season 3. Chaze also make notes of some changes to the channel: an increased upload schedule (up to 8 rips a day), the SiIvaGunner team's participation in MAGFest 2018, and the return of SiIvaGunner as the channel host.",
+                "content": "The video <b>...of 2017</b> is released, with Chaze formally announcing and beginning a Season 3. Chaze also make notes of some changes to the channel: an increased upload schedule (up to 8 rips a day), the SiIvaGunner team's participation in MAGFest 2018, and the return of SiIvaGunner as the channel host.",
                 "class": "double-entry"
             },
             {
@@ -18,7 +18,7 @@
             {
                 "date": "January 6",
                 "title": "The SiIvaGunner Panel at Super MAGFest 2018: Official Cringe Compilation",
-                "content": "The SiIvaGunner members at MAGFest host a panel, providing insights on rip creation, channel maintenance and lore. \"NOW THAT'S WHAT I CALL QUALITY\" is also released."
+                "content": "The SiIvaGunner members at MAGFest host a panel, providing insights on rip creation, channel maintenance and lore. <b>NOW THAT'S WHAT I CALL QUALITY</b> is also released."
             },
             {
                 "date": "January 7 - 21",
@@ -33,12 +33,17 @@
             },
             {
                 "date": "January 9",
-                "content": "<b>Sample [FILE-08]</b> is uploaded. It presents itself as a sample analysis of SiIvaGunner himself, detailing his origins and abilities under the file [000001_.hqr], which is injected into another computer or system at the end of the analysis. The SiIvaGunner Twitter account ignores this video and posts a seemingly normal tweet."
+                "content": "<b>Sample [FILE-08]</b> is uploaded. <span class=\"CCC\">It presents itself as a sample analysis of SiIvaGunner himself, detailing his origins and abilities under the file [000001_.hqr], which is injected into another computer or system at the end of the analysis.</span> The SiIvaGunner Twitter account ignores this video and posts a seemingly normal tweet."
             },
             {
                 "date": "January 21",
-                "content": "Haltmann announces SiIvaGunner's Twitter account that Wood Man is the cause of the channel's recent abnormalities and that he has installed improved anti-virus software to guard against future attacks.",
+                "content": "Haltmann announces on SiIvaGunner's Twitter account that Wood Man is the cause of the channel's recent abnormalities and that he has installed improved anti-virus software to guard against future attacks. However, <b>Project AIRTH [FILE-09]</b> is released on the same day. ",
                 "class": "CCC"
+            },
+            {
+                "title": "Project AIRTH [FILE-09] - Haltmann's Archives",
+                "content": "Taking place sometime after [FILE-08] is written, the sample extraction depicted in that article was deemed succesful and HWC has moved into its next phase of its plan: [Project AIRTH]. However, the project could not move forward without 'further testing' of the sample by 'third parties'; this testing resulted in the production of AIRTH Prototypes: AIs modelled on SiIvaGunner's modus operandi, albeit with different themings and running jokes.",
+                "class": "CCC",
             },
             {
                 "date": "January 28",
@@ -83,6 +88,15 @@
                 "title": "An AWESOME Announcement!",
                 "content": "Due to allegations levied against both him and Inspector Gadget, the Nostalgia Critic willingly relinquishes his control of the channel. The SiIva AI reboots itself to fix the glitches, having been given an upgrade to its CPU.",
                 "class": "AIRTH"
+            },
+            {
+                "date": "April 30",
+                "content": "<b>The Joke-Explainer™ 7000 [FILE-11]</b> is released, providing more context into the the titular robot's origins, alongside revealing the mysterious writer behind the FILEs."
+            },
+            {
+                "title": "The Joke-Explainer™ 7000 [FILE-11] - Haltmann's Archives",
+                "content": "A detailed description of the Joke-Explainer™ 7000 reveals that she was created by Chad Warden on June 1, 2016 to (quite obviously) explain the obscure jokes behind SiIvaGunner rips. Dr. Andonuts (revealed to be the writer behind the FILEs) remarks on some of her more mysterious attributes, such as her knowledge of a 'world beyond ours' and power source, the latter of which has remained a mystery to this day. Andonuts ends the file by resolving to keep her hidden from Haltmann to study her more.",
+                "class": "CCC"
             },
             {
                 "date": "May 13 - May 22",

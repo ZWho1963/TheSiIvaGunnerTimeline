@@ -496,6 +496,8 @@
             },
             {
                 "date": "December 31",
+                "time": "December 22, as per [FILE-13]",
+                "timeclass": "CCC",
                 "title": "Advent of Hell [Episode 6] - The SilvaGunner Christmas Comeback Crisis",
                 "content": "Meta Knight and Smol Nozomi reach the North Pole as The Voice's forces besiege Santa's Workshop. They retrieve Santa, who destroys the factory as a scorched-earth tactic to prevent Christmas Spirit, a powerful energy source, from falling into the Voice's hands. Angry Joe steals Santa's sleigh, inconveniencing them. Before they escape the soon-to-be destroyed workshop on the Smolitzer, they do battle with and defeat Nathaniel Welchert, who dies in the ensuing workshop explosion.<br><br>Santa explains Christmas Spirit to Meta Knight and Nozomi. The Voice's possible intentions are revealed.",
                 "class": "CCC"

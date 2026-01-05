@@ -6,9 +6,12 @@ import { data4 } from "./data4.js";
 import { data5 } from "./data5.js";
 import { data6 } from "./data6.js";
 import { data7 } from "./data7.js";
+import { data8 } from "./data8.js";
+import { data9 } from "./data9.js";
+
 
 const databases = {
-    data7
+    data9
 }
 
 const table = document.getElementById("timeline");
@@ -23,7 +26,7 @@ for (const key in databases) {
         year.innerHTML = entry.year;
         year.style.marginBottom = "20px";
         row.appendChild(year);
- 
+
         for (const event of entry.events) {
             const obj = document.createElement("td");
             if (event.date) {
@@ -31,35 +34,35 @@ for (const key in databases) {
                 date.innerHTML = event.date + "&nbsp;";
                 date.className = "date";
                 obj.appendChild(date);
-                if (!event.title && event.time) {
-                    const time = document.createElement("i");
-                    time.innerHTML = "("+event.time+")";
-                    time.className = event.timeclass;
-                    date.append(time);
-                }
             }
 
             if (event.note) {
                 const note = document.createElement("p");
                 note.innerHTML = event.note;
-                note.className="note";
+                note.className = "note";
                 obj.appendChild(note);
             }
 
+            if (!event.title && event.time) {
+                const time = document.createElement("i");
+                time.innerHTML = "(" + event.time + ")";
+                time.className = event.timeclass;
+                obj.appendChild(time);
+            }
             if (event.title) {
                 const title = document.createElement("p");
                 title.innerHTML = event.title + "&nbsp;";
                 title.className = "title";
                 if (event.time) {
                     const time = document.createElement("i");
-                    time.innerHTML = "("+event.time+")";
+                    time.innerHTML = "(" + event.time + ")";
                     time.className = event.timeclass;
                     title.append(time);
                 }
                 obj.appendChild(title);
             }
 
-            
+
             if (event.content) {
                 const content = document.createElement("p");
                 content.className = "content";

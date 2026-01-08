@@ -13,6 +13,18 @@ import { data11 } from "./data11.js"; //2024 pain
 import { data12 } from "./data12.js"; //2025 even more pain thank you gork, nugget, monokuma and missingno
 
 const databases = {
+    data,
+    data1,
+    data2,
+    data3,
+    data4,
+    data5,
+    data6,
+    data7,
+    data8,
+    data9,
+    data10,
+    data11,
     data12
 }
 

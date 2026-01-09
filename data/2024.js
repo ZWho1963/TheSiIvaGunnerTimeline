@@ -153,9 +153,7 @@
             },
             {
                 "date": "July 25",
-                "title": "Boykisser and Desmond the Moon Bear begin dating. Their relationship doesn't last very long, however.",
                 "content": "Many people discover that Charlie, the Steak is lost media. A search for the game is started.",
-                "class": ""
             },
             {
                 "date": "July 29",

@@ -8,7 +8,7 @@ export const data2010 = [
             },
             {
                 "date": "June 29",
-                "content": "Jet Set Radio releases on the SEGA Dreamcast. DJ Professor K debuts as the titular radio station's DJ."
+                "content": "<i>Jet Set Radio</i> releases on the SEGA Dreamcast. DJ Professor K debuts as the titular radio station's DJ."
             },
             {
                 "date": "July 4",

@@ -39,7 +39,7 @@ export const data2015 = [
             },
             {
                 "date": "November 13",
-                "content": "Lady releases her second album <i>Bitch From Around The Way 2</i>, containing the song Yankin'."
+                "content": "Lady releases her second album <i>Bitch From Around The Way 2</i>, containing the song <i>Yankin'</i>."
             },
             {
                 "date": "November 25",
@@ -55,7 +55,7 @@ export const data2015 = [
         "year": "2011",
         "events": [
             {
-                "content": "JustinRPG releases his debut album, Linear Pair of Angles."
+                "content": "JustinRPG releases his debut album, <i>Linear Pair of Angles</i>."
             },
             {
                 "date": "February 7",
@@ -94,7 +94,7 @@ export const data2015 = [
             },
             {
                 "date": "July 15",
-                "content": "Korean pop artist PSY releases <i>Gangnam Style</i> on his album PSY 6 (Six Rules), Part 1."
+                "content": "Korean pop artist PSY releases <i>Gangnam Style</i> on his album <i>PSY 6 (Six Rules), Part 1</i>."
             },
             {
                 "date": "July 24",

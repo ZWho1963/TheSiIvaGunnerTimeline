@@ -11,7 +11,7 @@
                 "time": "Between December 22 and December 23, 2016",
                 "timeclass": "CCC",
                 "title": "[The SilvaGunner Timeline: A Summary of Events]",
-                "content": "<span style=\"color:#ddd\">SiIvaGunner celebrates the one year anniversary of GiIvaSunner. To commemorate the occasion, a timeline video recapping the entirety of SiIvaGunner's history (which this timeline is directly inspired by) is released.</span> In it, The Voice offers his own reflections on the anniversary, remarking on how SiIvaGunner truly deserved his rest.",
+                "content": "<span style=\"color:#ddd\">SiIvaGunner celebrates the one year anniversary of GiIvaSunner. To commemorate the occasion, a timeline video recapping the entirety of SiIvaGunner's history (which this timeline is inspired by) is released.</span> In it, The Voice offers his own reflections on the anniversary, remarking on how SiIvaGunner truly deserved his rest.",
                 "class": "CCC",
                 "note": ""
             },

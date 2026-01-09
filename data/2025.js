@@ -1,4 +1,4 @@
-﻿export const data12 = [
+﻿export const data2025 = [
     {
         "year": "2025",
         "events": [
@@ -13,6 +13,20 @@
                 "content": "Solver mothgang discovers new content in the NOAKA folder, effectively making NOAKA a branch of the ARG.",
                 "class": "NOAKA"
             },
+            {
+                "date": "11:30 PM",
+                "content": "In order to better summarise the events of the PAINT branch, the video <b>Car Doors of Time</b> is released, providing a more comprehensive tmeline of events.",
+                "class": "PAINT",
+            },
+            {
+                "title": "Car Doors of Time - Side Story - Mr Rental: The Video Game",
+                "content": "Sometime after <i>NieR: Automata</i>'s true ending, The Voice attempts to summon 2B to keep Haltmann in line (see <b>Haltmann</b>, December 22, 2016). However, a GTP appears instead and 9S jumps in it to save 2B. He arrives at SiIvaGunner's house before the events of <b>Opening Scene - Waluigi's Taco Stand</b> and is apprehended by the Voice's troops. The Voice recruits 9S anyway doesn't bother to try again.<br><br>9S tries to hijack the Figment Transportation Device to send him back to the <i>NieR</i> universe, but is discovered before he can finish it, meaing that he lands in Mundus from <i>Skyrim</i> when he is forced to launch it. Meanwhile, 2B is picked up by Lifevest Kid (referred to as Eggnog) and sent to the MS Paint Universe around the time <b>A \"Hard Day's Work\"</b> happens and is told to keep driving the Crappily Drawn Car no matter what. This leads to a loop where 2B continually cycles between the Looney Tunes and the MS Paint universe before the multiverse sends her to the CCC to prevent a paradox. The two Crappily Drawn Cars merge into one Figment, losing its ability to travel across universes.<br><br>She then discovers the Garlic Taco in HWC's possession and stumbles upon Wade L.D, who protects her to the bitter end whilst she escapes the CCC (see <b>The Life and Times of Wade L.D., March 24, 2019</b>). 9S eventually finds the Elder Scroll and contacts Lifevest Kid, who picks up 2B during the events of <b>Ransomware - Undertale 2</b> and sends her to Mundus to reunite with 9S. The two then use the Elder Scroll to return to the <i>NieR</i> universe.",
+                "class": "PAINT",
+            },
+            {
+                "content": "The video then covers the Kirby Fighters and the e∩Ω parts of the PAINT branch, which have already been covered in this timeline, but it reveals an extra detail that was not known during the ARG: that Susie sent the emails to the Numberphile and the Omegas.",
+                "class": "PAINT"
+            },  
             {
                 "date": "January 18, 1:40 PM",
                 "content": "<b>Aria Math Fusion Collab</b> is released. It isn't actually a real Fusion Collab, but a very long let's-play video parodying <i>AdamzoneTopMarks</i>' Gamechap and Bertie. As of writing it has been renamed to <b>Aria Math (PAL Version)</b>.",
@@ -39,7 +53,7 @@
             },
             {
                 "date": "January 21, 1:30 PM",
-                "content": "The ARG's solvers discover a bridge left over by Wood Man prior to his disappearance (see February 1, 2023) at the directory C:/MM2WD/BRIDGE/DESKTOP/BACKUP, which they send to Susie.",
+                "content": "The ARG's solvers discover a bridge left over by Wood Man prior to his disappearance (see <b>The Disappearance of Wood Man</b>, February 1, 2023) at the directory C:/MM2WD/BRIDGE/DESKTOP/BACKUP, which they send to Susie.",
                 "class": "RESPH"
             },
             {
@@ -126,6 +140,10 @@
                 "title": "News of Jay's Death - The Ignition Factor",
                 "content": "Gegagedigedagedago and Omega Roasted Chicken use an \"e\" tile to travel to the depths of Hell with the goal of reviving The numberphile. Greeting his old nemesis at the bottom of an infinite hole, the numberphile is revived and thanks the Omega Nugget. Both parties end up leaving Hell, with the numberphile jumping off and Gegagedigedagedago and Omega Roasted Chicken leaving by opening another \"e\" portal.",
                 "class": "NUGGET"
+            },
+            {
+                "date": "March 19",
+                "content": "SiIvaGunner celebrates the 21st anniversary of <i>Katamari Damacy</i>. <b>Lonely Rolling Star Fusion Collab</b> is released - unique in that it is the first fusion collab to be produced by SGFR."
             },
             {
                 "date": "March 25",
@@ -305,12 +323,17 @@
                 "class": "CCC",
             },
             {
-                "content": "Pulling from the Voice's visions of the Genocide timeline and the Three Moons Timeline (see April 1, 2023), Andonuts questions how alternate timelines like CCC-FOOLS could be created, alongside expressing surprise regarding their knowledge of his relationship with Pomni.",
+                "content": "Pulling from the Voice's visions of the Genocide timeline and the Three Moons Timeline (see <b>Seasonal Return [Episode 1] (Beta Mix)</b>, April 1, 2023), Andonuts questions how alternate timelines like CCC-FOOLS could be created, alongside expressing surprise regarding their knowledge of his relationship with Pomni.",
                 "class": "CCC"
             },
             {
                 "date": "May 8",
                 "content": "The Joke-Explainer™ 7000 announces that the SiIvaGunner channel would undergo a bout of 'spring cleaning', uploading soundtracks and compilations of previous lore videos in order to better document and preserve them."
+            },
+            {
+                "date": "May 12",
+                "content": "<b>Last Warning [FILE-22]</b> is uploaded to the channel, which contains a demand for Homer Simpson to give 777 tons of donuts and a shipment of coffee grounds back to HWC. No one pays it any mind.",
+                "class": "CCC"
             },
             {
                 "date": "May 22",
@@ -345,6 +368,10 @@
                 "content": "Deltarune's third and fourth chapters are released."
             },
             {
+                "date": "June 7",
+                "content": "SGFR releases <i>LazyTunes</i>, containing arrangements of tracks from across the <i>LazyTown</i> series."
+            },
+            {
                 "date": "June 17",
                 "title": "Ice Land (NES 2 Version) - Super Mario Bros. 3",
                 "content": "The Walmart Yodel Boy, trapped in a mountainous environment, ponders his situation.",
@@ -356,12 +383,13 @@
             },
             {
                 "date": "June 22",
-                "title": "Birthday Surprise! ~ Side Story - A Date with Boykisser!",
+                "title": "Birthday Surprise! - Side Story - A Date with Boykisser!",
                 "content": "Y/N attends Boykisser's birthday party. They and the rest of the guests begin eating (salmon) cake and give their respective gifts to Boykisser. Y/N gives Boykisser their present, a copy of DOOM (2016): Boykisser Edition for the XBOX 720. Boykisser thanks Y/N for their present.",
                 "class": "NUGGET"
             },
             {
-                "content": "After the party is over, Boykisser reveals to Y/N he also got a gift for them; tickets to a vacation in Poland. Y/N accepts their gift as well as the vacation, leaving Boykisser overjoyed."
+                "content": "After the party is over, Boykisser reveals to Y/N he also got a gift for them; tickets to a vacation in Poland. Y/N accepts their gift as well as the vacation, leaving Boykisser overjoyed.",
+                "class": "NUGGET"
             },
             {
                 "date": "June 26",
@@ -397,6 +425,10 @@
                 "class": "GORK"
             },
             {
+                "date": "July 7",
+                "content": "Due to a massive backlog, the SiIvaGunner team announces that email submissions will be temporarily closed, meaning no new rips past July 7 would be accepted."
+            },
+            {
                 "date": "July 24",
                 "time": "Some time after November 29, 2024 and January 19, 2025",
                 "timeclass": "HCB",
@@ -413,12 +445,12 @@
             {
                 "title": "Kirby Dance (Long) (Alternate Version) - Kirby: Squeak Squad",
                 "content": "The Itsy Bitsy Spider climbs up the water spout.",
-                "class": "ITSY"
+                "class": "SPIDA"
             },
             {
                 "date": "August 4",
                 "title": "Opening Broadcast - SiIvaGunner: Law & Disorder – Lethal Proceedings",
-                "content": "Monokuma announces the start of the Law and Disorder Takeover. Phoenix questions why they're getting a takeover despite not winning the tournament. Monokuma shuts the question down, claiming there is no mystery to solve. Using his magatama, Phoenix sees five psyche-locks surround Monokuma, confirming he's hiding something. He decides to investigate on the side.",
+                "content": "Monokuma announces the start of the Law and Disorder Takeover. Phoenix questions why they're getting a takeover although they didn't win, but Monokuma says otherwise, claiming there is no mystery to solve. However, Phoenix sees five psyche-locks surround Monokuma, confirming he's hiding something. He decides to investigate on the side.",
                 "class": "AIRTH"
             },
             {
@@ -427,15 +459,15 @@
                 "class": "AIRTH"
             },
             {
-                "content": "During the killing game, students fell to the wayside one by one while the audience indulged in the despair of the tournament and cheered on the \"true hero of despair\" Monokuma, portrayed as a handsome boy. Monokuma then talks about how he worked with Phoenix Wright, nicknamed \"Lawyer Boy\" and portrayed as a stereotypical nerd, to bulldoze the competition until the final round.",
+                "content": "During the killing game, students fell to the wayside one by one while the audience indulged in the despair of the tournament and cheered on Monokuma. Monokuma then talks about how he worked with Phoenix Wright to bulldoze the competition until the final round.",
                 "class": "AIRTH"
             },
             {
-                "content": "In this final round, Monokuma and his sidekick faced off against his arch rival, DJ Professor K, who kept getting on Monokuma's skin due to constantly preaching about spreading \"hope and love\" and getting higher scores than him. By the time of the killing game's conclusion, DJ Professor K managed to win over the hearts of the audience, saved the losers from getting mauled by bears and banished Monokuma and Lawyer Boy to the loser's clubs, things Monokuma rants about during his story.",
+                "content": "In this final round, Monokuma and his sidekick faced off against his arch rival, DJ Professor K, who kept getting on Monokuma's skin due to constantly preaching about spreading \"hope and love\" and getting higher scores than him.In the end, DJ Professor K won over the audience's hearts and the competition.",
                 "class": "AIRTH"
             },
             {
-                "content": "Attempting to regain his composure somewhat, Monokuma tries to convince himself that he won in the end due to him and his fans getting to experience \"the despair of losing\". He doesn't keep his composure for long, as he soon falls back into ranting about losing the tournament despite putting in his best efforts, with him even saying DJ Professor K sucks, and trying to deny that he lost in the first place.",
+                "content": "Attempting to regain his composure somewhat, Monokuma tries to convince himself that he won in the end, but it doesn't work and he falls back into a denial-fueled rant over losing.",
                 "class": "AIRTH"
             },
             {
@@ -446,7 +478,7 @@
             {
                 "date": "August 5",
                 "title": "Monokuma Theater #2 - SilvaGunner: Law & Disorder - Lethal Proceedings",
-                "content": "John Apocalypse, Creator of the Apocalypse had only one dream, which he wanted to achieve despite people telling him it was impossible: to create the apocalypse. Unwilling to let others discourage him from completing his dream, he enrolled in \"Apocalypse's Peak Academy\", where he graduated as the top of his class, and gathered funds from those interested in the creation of the apocalypse to fund his own \"Apocalypse Creation\" company.",
+                "content": "John Apocalypse, Creator of the Apocalypse had only one dream: to create the apocalypse. Unwilling to let others discourage him from completing his dream, he enrolled in \"Apocalypse's Peak Academy\", where he graduated as the top of his class, and gathered funds from those interested in the creation of the apocalypse to fund his own \"Apocalypse Creation\" company.",
                 "class": "AIRTH"
             },
             {
@@ -486,9 +518,18 @@
                 "class": "AIRTH"
             },
             {
+                "title": "Credits - SiIvaGunner: Law & Disorder – Lethal Proceedings",
                 "date": "August 7",
-                "title": "Trial - Part 1 and Trial - Part 2",
-                "content": "Three days into their Takeover, Phoenix suddenly wakes up inside a courtroom with the Joke-Explainer beside him (who had moved him and his desk whilst asleep to prepare for the trial). Phoenix notices the door to the courthouse is open and tries to escape, only to be dragged to the defense stand as Monokuma reveals himself as the judge.",
+                "content": "Monokuma has visited DJ Professor K's studio to brag about the increased duration and scope of his takeover compared to K's, and plays Bomb Rush Cyberfunk while waiting for him to show up. While talking to the viewers, Monokuma repeatedly mentions a \"change of plans\" in the takeover and asks not to look in the video description.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "After a while, Monokuma switches his character to a DJ Professor K skin and begins to play terribly to show how much of a \"fraud\" he is. Once the real DJ Professor K arrives, Monokuma attempts to harken back to their rivalry from the King for Another Day Tournament; however, K is far less amicable after Monokuma's actions during the apocalypse. Monokuma brags about his takeover, but the conversation quickly descends into personal attacks and shouting matches. Eventually, DJ Professor K gets fed up and takes manners into his own hands, with Monokuma barely having time to announce his album before he is kicked out of the studio.",
+                "class": "AIRTH"
+            },
+            {
+                "title": "Trial - Part 1",
+                "content": "Three days into their Takeover, Phoenix suddenly wakes up inside a courtroom with the Joke-Explainer beside him (who had moved him and his desk whilst asleep to prepare for the trial). Phoenix tries to escape, but is dragged to the defense stand, where Monokuma reveals himself to be the presiding judge.",
                 "class": "AIRTH"
             },
             {
@@ -496,11 +537,11 @@
                 "class": "AIRTH"
             },
             {
-                "content": "Monokuma then reveals that he plans to leave AIRTH through a GTP and invites Phoenix to go with him since there were apparently no other survivors, but Phoenix snuffs him out by using both a newspaper and a photo of Monokuma with a Garlic Taco to question both his lines of thinking.",
+                "content": "Monokuma then reveals that he plans to leave AIRTH through a GTP and invites Phoenix to go with him since there were apparently no other survivors, but Phoenix snuffs him out by using both a newspaper detailing the apocalypse and a photo of Monokuma with a Garlic Taco to question both his lines of thinking.",
                 "class": "AIRTH"
             },
             {
-                "content": "He then mistakenly summons RepliJE to the stand (thinking that she wrote FILE-22) accusing that she and Monokuma were in cahoots. She profusely denies this, and Monokuma traps her in a cage for contempt of court. Phoenix then realises his mistake and pivots, arguing through the SiIva AI log that the AI created Monokuma as his proxy, which Monokuma denies.",
+                "content": "He then mistakenly summons the Joke-Explainerto the stand (thinking that she wrote FILE-22) accusing that she and Monokuma were in cahoots. She profusely denies this, and Monokuma traps her in a cage for contempt of court. Phoenix then realises his mistake and pivots, arguing through the SiIva AI log that the AI created Monokuma as his proxy, which Monokuma denies.",
                 "class": "AIRTH"
             },
             {
@@ -509,43 +550,6 @@
             },
             {
                 "content": "While pondering why Monokuma is so vague about the details of his plan alongside the Joke-Explainer's part in it, Phoenix realises that \"J.E.\" was Monokuma's co-conspirator in the \"new world\" feeding him information through the Joke-Explainer, painting them as a high-ranking scientist no different than a mastermind. Monokuma breaks down and attempts to call a mistrial, but before he can do so he is interrupted by the real \"J.E.\": Junko Enoshima.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "Phoenix realises that Junko was the one who wrote FILE-22 whilst she rants about how AIRTH is a dying simulation thanks to the SiIva AI's death, that she used FILE-22 as a coded signal for Monokuma to take over the SiIvaGunner channel and that she also tried to hijack the AI to generate despair but failed miserably, choosing instead to strongarm it into making Monokuma for the express purpose of bringing despair and that she eventually wanted to bring Monokuma to the CCC, all while taunting Phoenix for being a bad attorney.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "However, Junko's plan was thwarted by the AI spotting Monokuma and lumping him with Phoenix to create Law & Disorder as a team in KFAD2. Thanks to this and Junko being monitored by HWC meant that her plan could not move forward until after the SiIva AI died and Monokuma kidnapped the Joke-Explainer. Furthermore, Monokuma couldn't actually leave AIRTH alone since both the viewers saw him and Phoenix as a duo and they hadn't gotten their prize for third place.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "With Junko incriminating herself, she tries to end the trial by having Monokuma kill Phoenix, which he refuses. Junko convinces him to change his mind but only he adds an extra rule: the loser of the trial would be executed. Junko allows Phoenix to free the Joke-Explainer, confident in her impending victory.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "Phoenix presents Monokuma as his single piece of evidence, but he exploits the 'one piece of evidence allowed' rule by having the Joke-Explainer replicate the KFAD2 poster from earlier, using Monokuma's message (\"I made sure we would be together, again, to have this moment.\") to propose that he had willingly let himself be spotted by the AI, to which he admits is correct, debunking Junko's 'just following orders' testimony.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "Junko tries to save face but Phoenix retorts, saying that there was no need to convince him to come to the CCC if he wasn't part of the plan at all and that she could have killed him to end Law & Disorder, implying that Monokuma didn't want to kill Phoenix, meaning that his ideas didn't align with hers. Junko then claims that it was all a plan to extract despair from Phoenix but even this is rebuffed, with him stating that Monokuma did more than enough for a third-place prize.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "Junko, having grown frustrated, tells Monokuma to kill Phoenix (again) whilst opening a bridge from AIRTH to the CCC from the Voice's tower. She comes back to Monokuma being covered in a red substance, which he reveals is not blood, but jelly from the courthouse's donuts as Phoenix gives his closing argument: Junko's research into despair was flawed as she didn't account for hope, and that the people of AIRTH - including Monokuma - chose their own paths because they keep hoping.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "Junko breaks down in despair as Monokuma executes her by self-destruction, releasing the Joke-Explainer from his control. Phoenix and Monokuma have one final conversation before he floats away on a balloon, leaving Phoenix and the Joke-Explainer behind to ponder about hope and the future.",
-                "class": "AIRTH"
-            },
-            {
-                "title": "Credits - SiIvaGunner: Law & Disorder – Lethal Proceedings",
-                "content": "Monokuma has visited DJ Professor K's studio to brag about the increased duration and scope of his takeover compared to K's, and plays Bomb Rush Cyberfunk while waiting for him to show up. While talking to the viewers, Monokuma repeatedly mentions a \"change of plans\" in the takeover and asks not to look in the video description.",
-                "class": "AIRTH"
-            },
-            {
-                "content": "After a while, Monokuma switches his character to a DJ Professor K skin and begins to play terribly to show how much of a \"fraud\" he is. Once the real DJ Professor K arrives, Monokuma attempts to harken back to their rivalry from the King for Another Day Tournament; however, K is far less amicable after Monokuma's actions during the apocalypse. Monokuma brags about his takeover, but the conversation quickly descends into personal attacks and shouting matches. Eventually, DJ Professor K gets fed up and takes manners into his own hands, with Monokuma barely having time to announce his album before he is kicked out of the studio.",
                 "class": "AIRTH"
             },
             {
@@ -577,117 +581,181 @@
             },
             {
                 "title": "Game Over - Bad Tsunko no Doki Doki Omikuji",
-                "content": "The Kitty Inside Your Heart learns Tsunko and Pandaba were killed by a \"weird man\" and a \"talking steak\" by Pochi. After remembering how the numberphile and Charlie, who match said descriptions, appeared in a rip on his special day, the Kitty returns to his house to discover a follow-up to the aforementioned rip. By watching this rip, he confirms that Numberphile and Charlie were the killers and promises to bring them to justice for their crimes."
+                "content": "The Kitty Inside Your Heart learns Tsunko and Pandaba were killed by a \"weird man\" and a \"talking steak\" by Pochi. After remembering how the numberphile and Charlie, who match said descriptions, appeared in a rip on his special day, the Kitty returns to his house to discover a follow-up to the aforementioned rip. By watching this rip, he confirms that Numberphile and Charlie were the killers and promises to bring them to justice for their crimes.",
+                "class": "KITTY"
+            },
+            {
+                "title": "Trial - Part 2",
+                "time": "August 7",
+                "timeclass": "AIRTH",
+                "content": "Phoenix realises that Junko was the one who wrote FILE-22 whilst she rants about how AIRTH is a dying simulation thanks to the SiIva AI's death, that she used FILE-22 as a coded signal for Monokuma to take over the SiIvaGunner channel and that she also tried to hijack the AI to generate despair but failed miserably, choosing instead to strongarm it into making Monokuma for the express purpose of bringing despair and that she eventually wanted to bring Monokuma to the CCC, all while taunting Phoenix for being a bad attorney.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "However, Junko's plan was thwarted by the AI spotting Monokuma and lumping him with Phoenix to create Law & Disorder as a team in KFAD2. Thanks to this and Junko being monitored by HWC meant that her plan could not move forward until after the SiIva AI died and Monokuma kidnapped the Joke-Explainer. Furthermore, Monokuma couldn't actually leave AIRTH alone since both the viewers saw him and Phoenix as a duo and they hadn't gotten their prize for third place.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "With Junko incriminating herself, she tries to end the trial by having Monokuma kill Phoenix, which he refuses. Junko convinces him to change his mind but only he adds an extra rule: the loser of the trial would be executed. Junko allows Phoenix to free the Joke-Explainer, confident in her impending victory.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "Phoenix presents Monokuma as his single piece of evidence, but he exploits the 'one piece of evidence allowed' rule by having the Joke-Explainer replicate the KFAD2 poster from earlier, using Monokuma's message (\"I made sure we would be together, again, to have this moment.\") to propose that he had willingly let himself be spotted by the AI, to which he admits is correct, debunking Junko's 'just following orders' testimony.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "Junko tries to save face but Phoenix retorts, saying that there was no need to convince him to come to the CCC if he wasn't part of the plan at all and that she could have killed him to end Law & Disorder, implying that Monokuma didn't want to kill Phoenix, meaning that his ideas didn't align with hers. Junko then claims that it was all a plan to extract despair from Phoenix but even this is rebuffed, with him stating that Monokuma did more than enough for a third-place prize.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "Junko, having grown frustrated, tells Monokuma to kill Phoenix (again) whilst opening a bridge from AIRTH to the CCC from the Voice's tower. She comes back to Monokuma being covered in a red substance, which he reveals is not blood, but jelly from the courthouse's donuts as Phoenix gives his closing argument: Junko's research into despair was flawed as she didn't account for hope, and that the people of AIRTH - including Monokuma - chose their own paths because they keep hoping.",
+                "class": "AIRTH"
+            },
+            {
+                "content": "Junko breaks down in despair as Monokuma executes her by self-destruction, releasing the Joke-Explainer from his control. Phoenix and Monokuma have one final conversation before he floats away on a balloon, leaving Phoenix and the Joke-Explainer behind to ponder about hope and the future.",
+                "class": "AIRTH"
             },
             {
                 "date": "August 11",
                 "title": "Main Theme - Pokémon Showdown",
-                "content": "HCB disguises himself as a Dachsbun and participates in the Pokémon Showdown match between davidgaming132 and s3izeURm0m3nt. During this battle, the disguised HCB steals Blazikenite from s3izeURm0m3nt's Grandon."
+                "content": "HCB disguises himself as a Dachsbun and participates in the Pokémon Showdown match between davidgaming132 and s3izeURm0m3nt. During this battle, the disguised HCB steals Blazikenite from s3izeURm0m3nt's Grandon.",
+                "class": "HCB",
+            },
+            {
+                "date": "August 12",
+                "content": "SGFR releases <i>incompetracks</i>, an album derived from the works of Kevin MacLeod. The album was created in a similar way to a game jam, where arrangers were given one week to make arrangements for the album.",
+            },
+            {
+                "date": "August 29",
+                "content": "SGFR releases <i>Mii Plaza Palooza</i>, centered around games prominently featuring Miis. The album is the first to feature fan-submitted arrangements."
             },
             {
                 "date": "September 4",
                 "title": "Game Over (US Version) - New Super Mario Bros.",
-                "content": "Itsy reads a sign saying that all who climb the waterspout are destined to be washed in the rain. Despite this, Itsy climbs the waterspout anyway."
+                "content": "Itsy reads a sign saying that all who climb the waterspout are destined to be washed in the rain. Despite this, Itsy climbs the waterspout anyway.",
+                "class": "SPIDA"
             },
             {
-                "content": "After a while, it begins raining outside. More and more water comes through the waterspout until a flood sends Itsy hurdling down the tube. They land back at the base of the waterspout and leave, reading the sign again (now saying \"lmao. told you.\")."
+                "content": "After a while, it begins raining outside. More and more water comes through the waterspout until a flood sends Itsy hurdling down the tube. They land back at the base of the waterspout and leave, reading the sign again (now saying \"lmao. told you.\").",
+                "class": "SPIDA"
             },
             {
-                "content": "Itsy keeps walking, meeting Teto. Teto recognizes she should leave but decides not to because she doesn't like moving. She continues ranting about rain until she notices the spider isn't moving, calling it a dumbass. Itsy responds by moving, and the two spend some time together. Teto asks about the waterspout and why they keep trying to climb it, leading to the conclusion that Itsy is trying to reach Beyond the Blue, a whole new world beyond the building."
+                "content": "Itsy keeps walking, meeting Teto. Teto recognizes she should leave but decides not to because she doesn't like moving. She continues ranting about rain until she notices the spider isn't moving, calling it a dumbass. Itsy responds by moving, and the two spend some time together. Teto asks about the waterspout and why they keep trying to climb it, leading to the conclusion that Itsy is trying to reach Beyond the Blue, a whole new world beyond the building.",
+                "class": "SPIDA"
             },
             {
-                "content": "Teto wonders if Itsy wants help, and directs it towards a shopkeeper that's \"really fuckin tall\". Teto also talks about Rinkydink Valtruvian, who had shown up recently, and tells Itsy to check him out at the theater. Itsy leaves after Teto says she has nothing more to say."
+                "content": "Teto wonders if Itsy wants help, and directs it towards a shopkeeper that's \"really fuckin tall\". Teto also talks about Rinkydink Valtruvian, who had shown up recently, and tells Itsy to check him out at the theater. Itsy leaves after Teto says she has nothing more to say.",
+                "class": "SPIDA"
             },
             {
                 "title": "The Dark Truth (PS4 Version) - Deltarune",
-                "content": "The prophecy of a battle between the numberphile and the Kitty Inside Your Heart is told, revealing them to be the \"Angel\" and \"Devil\" the Egg of All-Devouring Darkness warned Charlie about. It is further explained that this battle would result in the world being covered in All-Devouring Darkness and the Omegas becoming inanimate, leaving Charlie to fend for himself."
+                "content": "The prophecy of a battle between the numberphile and the Kitty Inside Your Heart is told, revealing them to be the \"Angel\" and \"Devil\" the Egg of All-Devouring Darkness warned Charlie about. It is further explained that this battle would result in the world being covered in All-Devouring Darkness and the Omegas becoming inanimate, leaving Charlie to fend for himself.",
+                "class": "NUGGET"
             },
             {
                 "date": "September 5",
                 "title": "Blackpath (Devil Room) - The Binding of Isaac: Antibirth",
-                "content": "HCB travels from Terraria to The Binding of Isaac: Antibirth and uses their new Rocket Boots to snatch the Teleporter 2.0, a quarter and the Star of Bethlehem from the game's Devil and Angel Rooms."
+                "content": "HCB travels from Terraria to The Binding of Isaac: Antibirth and uses their new Rocket Boots to snatch the Teleporter 2.0, a quarter and the Star of Bethlehem from the game's Devil and Angel Rooms.",
+                "class": "HCB"
             },
             {
                 "date": "September 13",
                 "title": "Party Time - Baldi's Basics Classic Remastered",
-                "content": "As part of the final preparations for his plan, HCB uses the quarter he obtained previously to get the Dangerous Teleporter from a vending machine in Baldi's Basics Classic Remastered. He is then caught by Baldi, which causes the game to suffer from a critical error."
+                "content": "As part of the final preparations for his plan, HCB uses the quarter he obtained previously to get the Dangerous Teleporter from a vending machine in Baldi's Basics Classic Remastered. He is then caught by Baldi, which causes the game to suffer from a critical error.",
+                "class": "HCB"
             },
             {
                 "date": "September 14",
                 "title": "Howdy! and... Good-Die! - Underveil",
-                "content": "Charlie has a nightmare about the numberphile coming back to torture him as revenge for his betrayal during the battle against the Omegas. Upon waking up from this nightmare, Charlie decides he needs to go on vacation and opens an \"e\" portal to ei ei ei vacation island, not knowing that Numberphile was following him."
+                "content": "Charlie has a nightmare about the numberphile coming back to torture him as revenge for his betrayal during the battle against the Omegas. Upon waking up from this nightmare, Charlie decides he needs to go on vacation and opens an \"e\" portal to ei ei ei vacation island, not knowing that Numberphile was following him.",
+                "class": "NUGGET"
             },
             {
                 "date": "September 19",
-                "content": "Stingy takes over the channel for a third time to celebrate Talk Like a Pirate Day 2025. Similarly to the 2016 event, the channel is renamed (this time to \"Swashbucklin' Stingy\") and the metadata of the uploaded rips uses words related to pirates."
+                "content": "Stingy takes over the channel for a third time to celebrate Talk Like a Pirate Day 2025. Similarly to the 2016 event, the channel is renamed (this time to \"Swashbucklin' Stingy\") and the metadata of the uploaded rips uses words related to pirates.",
+                "class": "NUGGET"
             },
             {
                 "title": "Mission Four - X",
-                "content": "The numberphile disguises himself as a pirate and starts sailing towards ei ei ei vacation island on a boat so there won't be anyone in the way of his reunion with Charlie."
+                "content": "The numberphile disguises himself as a pirate and starts sailing towards ei ei ei vacation island on a boat so there won't be anyone in the way of his reunion with Charlie.",
+                "class": "NUGGET",
             },
             {
                 "date": "October 2",
                 "title": "In-Game - Fisher-Price: Perfect Fit",
-                "content": "HCB is booted back to the Fisher-Price Hacker's desktop and uses the Teleporter 2.0 to upgrade the Channel Connection Establisher to the Universe Connection Establisher 2.0. By using a Brainless-infected rip as the artifact for the device, HCB creates a portal to the Omega Universe, ready to execute their plan to regain control over SiIvaGunner."
+                "content": "HCB is booted back to the Fisher-Price Hacker's desktop and uses the Teleporter 2.0 to upgrade the Channel Connection Establisher to the Universe Connection Establisher 2.0. By using a Brainless-infected rip as the artifact for the device, HCB creates a portal to the Omega Universe, ready to execute their plan to regain control over SiIvaGunner.",
+                "class": "HCB",
             },
             {
                 "date": "October 8",
-                "title": "Try Again - Balloon Fight",
-                "content": "Itsy goes to the theater, which is hosting the 3rd Kita vs. Valtruvian debate. When Itsy arrives, they get the news that the theater staff have turned the theater into an ARG, and that to reach the debate room they have to find all 10 hidden Marmalades."
+                "content": "The SiIvaGunner team reopens email submissions for high-quality rips, having fully cleared its submissions backlog."
             },
             {
-                "content": "After finding all 10 Marmalades, Itsy goes to the gift shop to purchase a tiny poncho, though they're all out as Shallots purchased the last one. Stuffwell and Itsy attempt to come to a compromise, but E. Gadd interrupts them and sends Shallots to the Palace of Bad Ideas. After this, Tall Marm offers to send the Spider to the palace; once outside the theater, the Itsy Bitsy Spider lands on top of Xx_KartDriver532_xX and the two set off on their way."
+
+                "title": "Try Again - Balloon Fight",
+                "content": "Itsy goes to the theater, which is hosting the 3rd Kita vs. Valtruvian debate. When Itsy arrives, they get the news that the theater staff have turned the theater into an ARG, and that to reach the debate room they have to find all 10 hidden Marmalades.",
+                "class": "SPIDA"
+            },
+            {
+                "content": "After finding all 10 Marmalades, Itsy goes to the gift shop to purchase a tiny poncho, though they're all out as Shallots purchased the last one. Stuffwell and Itsy attempt to come to a compromise, but E. Gadd interrupts them and sends Shallots to the Palace of Bad Ideas. After this, Tall Marm offers to send the Spider to the palace; once outside the theater, the Itsy Bitsy Spider lands on top of Xx_KartDriver532_xX and the two set off on their way.",
+                "class": "SPIDA"
             },
             {
                 "date": "October 14",
                 "title": "Your World - KinitoPET",
-                "content": "The Universe Connection Establisher 2.0 appears above the skies of ei ei ei vacation island and HCB enters the Omega Universe through it. When the Walmart Yodelling Kid discovers that HCB's plans would likely destroy his universe, he is punched by the latter all the way to Iceland. After teleporting around the world in search of an energy source, HCB decides to disguise himself as an Omega."
+                "content": "The Universe Connection Establisher 2.0 appears above the skies of ei ei ei vacation island and HCB enters the Omega Universe through it. When the Walmart Yodelling Kid discovers that HCB's plans would likely destroy his universe, he is punched by the latter all the way to Iceland. After teleporting around the world in search of an energy source, HCB decides to disguise himself as an Omega.",
+                "class": "HCB"
             },
             {
-                "content": "Meanwhile, the Larva Yakuza begins their plan to steal back ei ei ei vacation island and get revenge on Charlie."
+                "content": "Meanwhile, the Larva Yakuza begins their plan to steal back ei ei ei vacation island and get revenge on Charlie.",
+                "class": "NUGGET"
             },
             {
                 "title": "Calm Down - Go Vacation",
-                "content": "Using a zesty disguise, Krater ambushes Charlie and the Larva Yakuza takes him hostage, threatening to torture him if they don't get their ransom money. The Kitty Inside Your Heart arrives in the Omega Universe and learns the steak's location thanks to the Larva Yakuza's livestream, while the Peanut Omega learns that the former is after Charlie."
+                "content": "Using a zesty disguise, Krater ambushes Charlie and the Larva Yakuza takes him hostage, threatening to torture him if they don't get their ransom money. The Kitty Inside Your Heart arrives in the Omega Universe and learns the steak's location thanks to the Larva Yakuza's livestream, while the Peanut Omega learns that the former is after Charlie.",
+                "class": "NUGGET"
             },
             {
                 "date": "October 23",
                 "title": "Ice Land (Interesting Version) - Super Mario Bros. 3",
-                "content": "The Walmart Yodelling Kid boards Ninja's bus in Iceland and warns him of HCB's plans. Ninja decides to join the Walmart Yodelling Kid's quest to stop HCB even if it involves killing him, which shocks Omega Milkshake."
+                "content": "The Walmart Yodelling Kid boards Ninja's bus in Iceland and warns him of HCB's plans. Ninja decides to join the Walmart Yodelling Kid's quest to stop HCB even if it involves killing him, which shocks Omega Milkshake.",
+                "class": "NUGGET"
             },
             {
                 "date": "October 25",
                 "title": "Sea of Secrets - Episode 1",
-                "content": "Dr. Andonuts guides The Joke-Explainer™ 7000 to a submersible docked at the Grandiose Bay Harbor. He explains in a briefing that Haltmann Works Co.'s detection technology was upgraded due to recent initiatives to protect Grandiose City from anomalies. Some unidentified signals have been triangulated to the Grandiose Bay Area, and Joke-Explainer is tasked with finding, gathering data on, and potentially capturing the anomalous entity that's suspected of sending out the signals."
+                "content": "Dr. Andonuts briefs the Joke-Explainer™ 7000 on a mission to investigate unidentified signals in Grandiose Bay detected by HWC systems. JE is already aware of this, given her repeated requests to go on a field mission; Andonuts worries about her safety given recent events (see <b>Cognitive Dissonance</b>, December 21, 2024), but she reassures him that she'll be safe, promising to update him with regular reports.",
+                "class": "CCC"
             },
             {
-                "content": "While Joke-Explainer is already aware of what to do, having repeatedly requested to go on a field mission herself, Dr. Andonuts confesses that he's worried for her safety, given recent events. Joke-Explainer reassures Andonuts that she'll be safe, and that she'll contact him with a report as soon as she can. After looking over the submarine one last time, she sets off. As the submarine makes its way to the signal, Joke-Explainer continues running tests to ensure everything's working properly. Joke-Explainer swims out into the ocean, discovering the anomaly is residing in the remains of GiIvaSunner's plane after it crashed back in 2016."
+                "content": "After journeying out into the bay, JE traces the signal to the wreckage of GiIvaSunner's plane (see [FILE-02], October 8, 2017), where she spots a mysterious figure whilst she heads into the wreckage. She initially presumes it to be the anomaly, but it turns out to be Bubble Man, sent by Dr. Wily on the same mission as JE. The former tries to get JE to leave, but the real anomaly - Krab-Borg, lashes out from the back of the plane and attacks Bubble Man. JE manages to blow up Krab-Borg in the same way Spongebob did (using its coin-operated self-destruct mechanism).",
+                "class": "CCC"
             },
             {
-                "content": "As she heads into the wreckage, she sees a figure up ahead of her. Presuming it's the anomaly, Joke-Explainer tries to approach it, just in case it ends up being friendly. The figure turns out to be Bubble Man, sent by the doctor to retrieve the anomaly as well. Joke-Explainer introduces herself, but having been warned of Haltmann Works Co. by Dr. Wily, Bubble Man tries to get her to leave. But then, Bubble Man's tracker goes off, as the anomaly bursts in from the back of the plane; revealed to be Krab-Borg. Krab-Borg rams into Bubble Man, who yells for Joke-Explainer to escape. She jumps in, inserting a 1 euro cent into Krab-Borg's self-destruct slot like in the original Spongebob episode (explaining the joke while she does)."
+                "content": "The robot leaves behind the skeletons of an Aerodactyl and Kabutops, which are the true source of the signal; Bubble Man and JE work together and capture the anomaly in a specialised cartridge. Right after, JE's radar senses another anomalous signal whilst Bubble Man rummages through the Krab-Borg's remains to find a hard drive. JE questions his motive, to which he responds that Dr. Wily needs it. JE then offers to analyze the drive and give Bubble Man a ride to the surface, which he accepts.",
+                "class": "CCC"
             },
             {
-                "content": "The robot Krabs explodes into pieces, revealing the full skeletal structure of an Aerodactyl and Kabutops. With the bones now revealed as the true source of the signal, Joke-Explainer tells Bubble Man to put them in a bubble while she captures them. The bones are converted into data and absorbed into the first capture cartridge. Right after, Joke-Explainer's radar goes off, sensing another anomalous signal. As she remarks this, Bubble Man rummages through Robo-Krabs' remains to collect the hard drive. Bubble Man quickly says his goodbyes and tries to leave, but when Joke-Explainer asks about the hard drive, he stutters and says that Dr. Wily needs it. Joke-Explainer offers to analyze the drive on her submersible, then give Bubble Man a ride back to the surface. Bubble Man accepts, preferring not to swim all the way back to shore."
-            },
-            {
-                "content": "After the computer finishes scanning, Joke-Explainer notices that Krab-Borg had a set of coordinates marked, labeled \"Underwater Village\", which matched where the next signal was located. She hands back the drive to Bubble Man, who offers for her to come hang out when she returns from her mission. She jokingly says that she'll have to make it through the mission intact, which concerns Bubble Man. Despite assuring him that she can handle it, Bubble Man isn't convinced given the uncertainty of what the anomaly is capable of and if the other pieces are inside other robots. He decides to postpone his meeting with Dr. Wily and come along on the journey to watch her back. Joke-Explainer accepts Bubble Man's help, welcoming him aboard as they set off to the anomaly's next location."
+                "content": "The two then converse in the submersible: JE notices that a nearby \"Underwater Village\" matched the new contact's location, and Bubble Man offers for her to hang out at mission's end. JE jokingly replies that she'll have to make it out intact, which Bubble Man is concerned with. Despite JE's assurances that she can handle the mission, Bubble Man decides to postpone his meeting with Wily to protect JE as the two head to the Underwater Village.",
+                "class": "CCC"
             },
             {
                 "date": "October 29",
                 "title": "Sea of Secrets - Episode 2",
-                "content": "On their way to the underwater village, The Joke-Explainer™ 7000 contacts Dr. Andonuts to inform him of the incident with Imitation Krabs, noting that its data banks featured Haltmann Works Company branding. Dr. Andonuts calls in Plankton, another Haltmann Works employee, to explain himself. He confesses to building the Imitation Krabs to infiltrate the Underwater Village (which Mr. Krabs lived in) to steal the Krabby Patty secret formula, and is angered that Joke-Explainer and Bubble Man destroyed it. After Plankton is dismissed, Andonuts turns his attention to Bubble Man, questioning his intentions on joining Joke-Explainer on her mission due to Dr. Wily's conflicts with the Haltmann Works Company. Joke-Explainer backs Bubble Man up, trusting that he wants to protect her. Suddenly, the anomaly radar pings many times as the duo reaches the village. Joke-Explainer ends the call as the submersible goes into enemy territory."
+                "content": "JE contacts Andonuts to inform him of the Krab-Borg incident, noting that it was somehow related to HWC. Andonuts summons Plankton, who reveals that it was one of his hare-brained schemes to steal the Krabby Patty formula. Andonuts then turns to Bubble Man, concerned that he may betray JE given HWC's tense history with Dr. Wily, but JE vouches for him, ending the report just as the submersible enters the Underwater Village.",
+                "class": "CCC"
             },
             {
-                "content": "The two find the village being attacked by robots based on Crazy Frog, with insignia of The Voice on them. Bubble Man fends off the robots by trapping them in bubbles while Joke-Explainer leads nearby citizens to refuge. However, the robots are freed from their bubbles by other laser-wielding robots. Just as the duo are overwhelmed, they are saved by Undyne, who has fought off the Crazy Frog robots numerous times before. The legion of Crazy Frogs flee as Undyne comes down to greet Joke-Explainer and Bubble Man, but turns hostile assuming they were the enemy forces. The two explain that they want to help. Undyne decides to give them a chance, taking them to the Krusty Krab for a meal. There, Undyne recalls how the Crazy Frog robots always show up from the northwest, and only started appearing after Undyne had found someone who came from the same direction and took them in. Believing that this person may be a lead, Undyne takes Joke-Explainer and Bubble Man to this mystery person's house."
+                "content": "The two find the Village besieged by Voice-branded Crazy Frog robots and try to fend them off, but they are nearly overwhelmed before being saved by Undyne. After the two assure her that they mean no harm, Undyne notes that the robots only come from the northwest and only started appearing after an individual came from the same direction that Undyne took in. This individual is revealed to be a Waddle Dee named Sailor Dee, a navigator on the Halberd during its fight and subsuquent defeat at the hands of the Voice. One week after the ship's sinking, a glitchy entity moved in and \"corrupted\" the world, with Sailor Dee barely managing to escape, eventually meeting Undyne and settling down in the Village.",
+                "class": "CCC"
             },
             {
-                "content": "The person in question was a Waddle Dee named Sailor Dee, a navigator on the battleship Halberd. Undyne convinces him to tell his story, and the trio learns from Sailor Dee that he was on the Halberd during its fight against The Voice. When the battleship was shot down and crashed into the water, most of the other crew members perished due to a lack of oxygen while the survivors had to form their own community. One week later, the Halberd's systems and robots went haywire and the world seemingly became \"corrupted\" alongside the arrival of a glitchy entity. Having escaped the Halberd while being dazed and confused, Sailor Dee was found by Undyne and eventually moved into the Underwater Village, though still traumatized about his experiences."
+                "content": "JE determines that the Halberd must be the location of the second anomaly and asks Sailor Dee for its coordinates. He initially refuses out of fear for the group's safety but eventually yields after being convinced by JE. Before they can make the journey, an even larger swarm of Crazy Frog robots attacks: JE realises that they are after the captured first anomaly in their possesion and apologises to Undyne, who encourages her to come up with a plan.",
+                "class": "CCC"
             },
             {
-                "content": "The Joke-Explainer determines that the anomalous signals must've originated from the Halberd and asks him for the battleship's coordinates. He initially refuses to do so out of fear for their safety, but eventually yields after the Joke-Explainer states that the coordinates are valuable information others can use even if they fail. It is at this moment that an even larger swarm of Crazy Frog robots attack the Underwater Village once more, with the Joke-Explainer, Bubble Man and Undyne heading out to fight them. Joke-Explainer realizes that they came to retrieve the capture cartridge with the anomaly she and Bubble Man previously captured. She tries to apologize to Undyne for inadvertently bringing the robots to the village, but Undyne encourages Joke-Explainer to focus and come up with a plan."
-            },
-            {
-                "content": "Joke-Explainer deduces that the Crazy Frog robots need to be brought together in one stop and taken out all at once, and comes up with the plan. Bubble Man holds the cartridge with the anomaly piece inside and lure all of the robots outside of the village, allowing Undyne to pierce them all with a hellzone grenade of spears. The robots are vaporized, leaving a mass of pixelated clumps remaining, which are safely contained in bubbles by Bubble Man, and brought together into one giant bubble to be absorbed into the second capture cartridge. Joke-Explainer and Bubble Man plan on going to the Halberd to find the anomaly once and for all, with Undyne joining the party as well. The trio head back to the sub to check in with Dr. Andonuts before heading for the final destination of their journey."
+                "content": "JE figures out a plan and puts it into action, using Bubble Man and the first cartridge to lure the robots outside the Village in one mass, allowing Undyne to bring them all down in one fell swoop. The robots are vaporized, leaving pixellated clumps which are collected by Bubble Man and fused into a second cartridge. The group, now including Undyne,resolve to find the anomaly once and for all, heading back to the sub to check in with Dr. Andonuts before heading to the Halberd.",
+                "class": "CCC"
             },
             {
                 "date": "November 5",
@@ -700,26 +768,28 @@
             {
                 "date": "November 6",
                 "title": "Sea of Secrets - Episode 3",
-                "content": "On their way to the Halberd, The Joke-Explainer once again contacts Andonuts and learns that the Crazy Frog robots were rogue Haltmann Works machines. Undyne becomes angry after learning Joke-Explainer and Andonuts work for the company due to the Voice and President Haltmann's actions, but Andonuts reassures her that the company is changing its ways and that they genuinely want to help her. After the Joke-Explainer and Bubble Man ask if they are safe from the anomaly's corruption, Andonuts reveals he traced the anomalous signals' origins to a data leak during the SiIva AI Incident. When the SiIva AI tried to transfer data shards to the central computer system, an anomalous entity was accidentally fragmented and spread into the Haltmann Works Company's Machine Network Database. Using this information, Andonuts determines that the anomaly can't corrupt J.E. and Bubble Man without forming an internal connection with them, meaning that they are safe but still need to be careful."
+                "content": "On their way to the Halberd, JE once again contacts Andonuts and learns that the Crazy Frog robots were rogue Haltmann Works machines. Undyne becomes angry after learning Joke-Explainer and Andonuts work for HWC but Andonuts reassures her that they mean no harm and want to help them.",
+                "class": "CCC"
             },
             {
-                "content": "Approaching their destination, Andonuts calls the trio again and strongly advises them to wait for backup. Before Andonuts can interrupt the call, Alphys hears him talking about Undyne and enters a conversation with her girlfriend. The couple's tender conversation is interrupted by the Halberd's Main Cannon #2 attacking their submarine. The heroes dodge the cannon's projectiles only for its claw to grab their submarine and attempt to crush them to death. The heroes are unable to escape the submarine thanks to an argument between Bubble Man and Undyne as their vehicle is slammed into the bottom of the Halberd."
+                "content": "Andonuts calls the trio once they reach the Halberd and advises them to call for backup. Alphys overhears his conversation with Undyne and converses with her, but they are interrupted when the Halberd suddenly attacks them, attempting to crush them to death. The trio are unable to escape the submarine thanks to an argument between Undyne and Bubble Man, with the attack sending them down to the bottom of the Halberd.",
+                "class": "CCC"
             },
             {
-                "content": "With the anomalous signal distorting the Game Boy Fright's radar, the trio explores the sunken battleship and eventually an elevator. The Joke-Explainer refuses to take the elevator, so the trio walks further down the hallway and reaches a computer terminal. After the Joke-Explainer turns on the computer, a ghost appears on the screen and begins chasing our protagonists. Undyne drags Bubble Man and The Joke-Explainer to the elevator they found earlier, with the latter complaining about how nobody listens to him. The Joke-Explainer attempts to move the elevator up, but the ghost catches up to them and our protagonists are sent crashing down to the Halberd's hangar."
+                "content": "The trio explore the battleship, coming across an elevator which JE refuses to use. The trio walk further down a hallway and reach a computer terminal, which is infected by a ghost that subsuquently gives chase. They return to the elevator and attempt to go up but the ghost catches up and sends the trio down into the hangar.",
+                "class": "CCC"
             },
             {
-                "content": "While exploring the area, our heroes come across various vessels including the Heavy Lobster, which activates and attacks Bubble Man. Heavy Lobster's claws end up piercing Bubble Man's torso before it throws him aside and begins chasing Undyne and the Joke-Explainer. Heavily damaged, Bubble Man begins bleeding out oil and laments about how useless he is and that he'd only get in the way of his allies. Despite this, he refuses to let his friends be killed by the Heavy Lobster, firing his leaking oil at the Heavy Lobster to exploit its weakness to paint. Before the robot can charge at our heroes again, it is dragged away and the protagonists try to find a way to reach the ghost. Freaked out by her experiences, the Joke-Explainer's thought process comes to a screeching halt before Undyne gets her out of her mental lockdown. Undyne encourages the Joke-Explainer to keep her head calm and that they're here to watch her back, also coming up with the idea to have her lift Bubble Man to the bridge of the Halberd."
+                "content": "While exploring the hangar, the Heavy Lobster actives and attacks Bubble Man, maiming him and causing him to leak oil. He laments about his perceived uselesness but refuses to let his friends be killed, firing oil at the Lobster to exploit its weakness to paint. The trio then proceed to the bridge, where the find \"Meta Knight\": in reality the ghost the trio was chasing. It attacks Undyne and slashes her, but she manages to knock it back. The ghost enters a 'second phase' and gives chase to the trio, but Bubble Man catches it off-guard by trapping it in a bubble and sending it into the Halberd's reactor, knocking it out.",
+                "class": "CCC"
             },
             {
-                "content": "It is here they seemingly find Meta Knight, who is supposed to be in The Voice's Tower at this very moment. \"Meta Knight\" turns around only to reveal that it was the ghost the trio was chasing and begins attacking Undyne. The ghost manages to successfully slash the captain of the Royal Guard, but she manages to knock it back by slashing it several times with her spear. When the trio moves to capture the anomaly, the ghost enters its \"second phase\" and begins chasing them once more. As the trio reach a dead end at the Halberd's reactor, the Joke-Explainer quickly comes up with a plan to capture the anomaly. The ghost charges towards Undyne, but Bubble Man catches it off-guard by trapping it inside one of his bubbles and sends it crashing into the Halberd's reactor. With the ghost now knocked out, the Joke-Explainer moves in to capture it."
-            },
-            {
-                "content": "Having finally defeated the source of the anomalous activity, the Joke-Explainer, Bubble and Undyne swim back to the Underwater Village. Impressed by Bubble Man's skills, Undyne offers Bubble Man the opportunity to become a member of the village's \"Royal Guard\". While he initially hesitates because he needed to bring Robo-Krabs' hard drive back to Dr. Wily, Bubble Man decides to quit working for his creator and accepts Undyne's offer. As she needs to bring the captured anomaly back to Dr. Andonuts, the Joke-Explainer says goodbye to her travel companions, though not before promising that someone will set up a communicator for Undyne and Alphys."
+                "content": "Having finally defeated and captured the source of the anomalous activity, the trio swim back to the Underwater Village. Impressed by Bubble Man's skills, Undyne offers Bubble Man the opportunity to become a member of the village's \"Royal Guard\". While he initially hesitates, Bubble Man decides to quit working for Dr. Wily and accepts Undyne's offer. As she needs to bring the captured anomaly back to Dr. Andonuts, the Joke-Explainer says goodbye to her travel companions, though not before promising that someone will set up a communicator for Undyne and Alphys.",
+                "class": "CCC"
             },
             {
                 "title": "MissingNo. Fusion Collab",
-                "content": "Andonuts begins the process of fusing MissingNo together, which involves forcing it to relive all of its memories and and results in an audiovisual readout of its life. After being fully reformed, MissingNo is initially disoriented, then experiences a state of distress before breaking out and going missing.",
+                "content": "Andonuts and HWC fuse the three catridges containing the parts of MissingNo together, which involves forcing it to relive all of its memories and and results in an audiovisual readout of its life. After being fully reformed, MissingNo is initially disoriented, then experiences a state of distress before breaking out and going missing.",
                 "class": "CCC"
             },
             {
@@ -732,12 +802,14 @@
                 "class": "CCC"
             },
             {
-                "title": "Gensokyo, Past and Present ~ Flower Land - Touhou 9: Phantasmagoria of Flower View",
-                "content": "The disguised HCB parties with a few Omegas, including Gegagedigedagedago and Omega Milkshake, and a Brainless, though has trouble staying in-sync with the others."
+                "title": "Gensokyo, Past and Present - Flower Land - Touhou 9: Phantasmagoria of Flower View",
+                "content": "The disguised HCB parties with a few Omegas, including Gegagedigedagedago and Omega Milkshake, and a Brainless, though has trouble staying in-sync with the others.",
+                "class": "HCB"
             },
             {
                 "date": "November 10",
-                "content": "Stingy accidentally swaps his Golden Channel Access Ticket with the Know-It-All Kid's golden ticket at school. As a result, the channel is abruptly hijacked by Know-It-All Kid."
+                "content": "Stingy accidentally swaps his Golden Channel Access Ticket with the Know-It-All Kid's golden ticket at school. As a result, the channel is abruptly hijacked by Know-It-All Kid.",
+                "class": "CCC"
             },
             {
                 "date": "November 11",
@@ -745,7 +817,8 @@
             },
             {
                 "date": "November 12",
-                "content": "The Joke-Explainer™ 7000 and Stingy regain control of the channel."
+                "content": "The Joke-Explainer™ 7000 and Stingy regain control of the channel.",
+                "class": "CCC"
             },
             {
                 "date": "November 13",
@@ -776,19 +849,22 @@
             },
             {
                 "date": "November 24",
-                "content": "Freedom - Speak & Spell is uploaded, containing a spoken Google Drive link that acts as the beginning of the GORK ARG."
+                "content": "<b>Freedom - Speak & Spell</b> is uploaded, containing a spoken Google Drive link that acts as the beginning of the GORK ARG."
             },
             {
                 "date": "November 25",
-                "content": "The GORK ARG is completed, and two rewards are given to the solvers in the form of Tsurupettan rips - the Alpha Mix is a mostly cut and dry YTP(MV) primarily based on the adult swim staple Bird Up!, but the endings of the Alpha and Live Mix contain elements of lore that effectively canonise the live-action universe."
+                "content": "The GORK ARG is completed, and two rewards are given to the solvers in the form of Tsurupettan rips - the Alpha Mix is a mostly cut and dry YTP(MV) primarily based on the adult swim staple Bird Up!, but the endings of the Alpha and Live Mix contain elements of lore that effectively canonise the live-action universe.",
+                "class": "GORK",
             },
             {
                 "title": "Tsurupettan (Alpha Mix) - Umineko no Naku Koro ni",
-                "content": "Leonard tells Franklin to air the Bird Up! special and uses another five-leaf clover to travel to an unknown universe to confront Gork."
+                "content": "Leonard tells Franklin to air the Bird Up! special and uses another five-leaf clover to travel to an unknown universe to confront Gork.",
+                "class": "GORK"
             },
             {
                 "title": "Tsurupettan (Live Mix - Umineko no Naku Koro ni",
-                "content": "The Bird Up! special airs and Dick Goofy is fired."
+                "content": "The Bird Up! special airs and Dick Goofy is fired.",
+                "class": "GORK"
             },
             {
                 "date": "November 26",
@@ -801,23 +877,27 @@
             {
                 "date": "November 29",
                 "title": "Alphys Lab (Unused) (Used) - Undertale",
-                "content": "Ninja and the Yodelling Kid visit the Fisher-Price Hacker's laptop through the Universe Connection Establisher 2.0 in search for tools in their fight against HCB. Here they obtain a red square used to defeat the Fisher-Price Hacker and unintentionally summon Mr. Game & Watch, who joins their party. Upon leaving the laptop, the trio notices the Universe Connection Establisher 2.0 being moved and the skies turning grey."
+                "content": "Ninja and the Yodelling Kid visit the Fisher-Price Hacker's laptop through the Universe Connection Establisher 2.0 in search for tools in their fight against HCB. Here they obtain a red square used to defeat the Fisher-Price Hacker and unintentionally summon Mr. Game & Watch, who joins their party. Upon leaving the laptop, the trio notices the Universe Connection Establisher 2.0 being moved and the skies turning grey.",
+                "class": "HCB"
             },
             {
                 "title": "The Device - Fortnite Chapter 2",
-                "content": "The Star of Bethlehem leads HCB to the Agency from Fortnite and the Zero Point. Using the Zero Point as the energy source for the Redirector, HCB moves the Universe Connection Establisher 2.0 to above the device as it fires a beam at it. This results in the Universe Connection Establisher 2.0 becoming the Channel Connection Establisher 2.0, which connects to the SiIvaGunner channel and allows HCB to begin his takeover."
+                "content": "The Star of Bethlehem leads HCB to the Agency from Fortnite and the Zero Point. Using the Zero Point as the energy source for the Redirector, HCB moves the Universe Connection Establisher 2.0 to above the device as it fires a beam at it. This results in the Universe Connection Establisher 2.0 becoming the Channel Connection Establisher 2.0, which connects to the SiIvaGunner channel and allows HCB to begin his takeover.",
+                "class": "HCB"
             },
             {
                 "date": "December 3",
                 "title": "Bliss - KinitoPET",
-                "content": "After 2.5 days of hosting, HCB notices that reality is starting to break down and prepares to look for new universes to move his operation to. Before he can leave, he is confronted by Ninja, the Yodelling Kid and Mr. Game & Watch as a battle approaches. Nearly being subsumed by the red square, HCB uses Blazikenite to turn into a new form as the fight resumes. Despite his best efforts, HCB is distracted by Omega Milkshake and thrown into the Redirector's beam. This results in HCB being sent back to the Fisher-Price Hacker's laptop, alongside losing his items and connection with the SiIvaGunner channel."
+                "content": "After 2.5 days of hosting, HCB notices that reality is starting to break down and prepares to look for new universes to move his operation to. Before he can leave, he is confronted by Ninja, the Yodelling Kid and Mr. Game & Watch as a battle approaches. Nearly being subsumed by the red square, HCB uses Blazikenite to turn into a new form as the fight resumes. Despite his best efforts, HCB is distracted by Omega Milkshake and thrown into the Redirector's beam. This results in HCB being sent back to the Fisher-Price Hacker's laptop, alongside losing his items and connection with the SiIvaGunner channel.",
+                "class": "HCB"
             },
             {
                 "content": "HCB's 'takeover' ends with only 22 rips to his name, something that SiIvaCord users disapprove of, given the grand scale of prior events like Sea of Secrets and the large amount of attention given by the SiIva team towards him throughout the year."
             },
             {
                 "title": "Terminal | SiIvaSwim",
-                "content": "The Gork files are released publicly."
+                "content": "The Gork files are released publicly.",
+                "class": "GORK"
             },
             {
                 "date": "December 7",
@@ -826,19 +906,23 @@
             {
                 "date": "December 15:",
                 "title": "The Plan - End of the Line",
-                "content": "Charlie explains his situation involving The Kitty Inside Your Heart and The numberphile to Gegagedigedagedago. In response, the Omega Nugget calls Boykisser and Pomni so that they can help him in his plan to prevent Charlie's death by appealing to his enemies' interests. Using one of Young Gegagedi's \"e\" tiles, Boykisser travels to the Sanrio Universe with the goal of convincing Hello Kitty to come with him and talk down the Kitty Inside Your Heart. Meanwhile, Pomni is given the task to teach Charlie math and Gegagedigedagedago himself stays on guard for the Numberphile and Kitty Inside Your Heart."
+                "content": "Charlie explains his situation involving The Kitty Inside Your Heart and The numberphile to Gegagedigedagedago. In response, the Omega Nugget calls Boykisser and Pomni so that they can help him in his plan to prevent Charlie's death by appealing to his enemies' interests. Using one of Young Gegagedi's \"e\" tiles, Boykisser travels to the Sanrio Universe with the goal of convincing Hello Kitty to come with him and talk down the Kitty Inside Your Heart. Meanwhile, Pomni is given the task to teach Charlie math and Gegagedigedagedago himself stays on guard for the Numberphile and Kitty Inside Your Heart.",
+                "class": "NUGGET"
             },
             {
                 "title": "UndefinedSprite_2.71828 (Unused) - Bad Tsunko no Doki Doki Omikuji",
-                "content": "Badtz-Maru finds one of the Numberphiles and opens a portal to the Coordinate Plane. After checking Numberphile's computer and discovering a reminder to clear the Recycling Bin, Badtz-Maru opens and ends up falling into it."
+                "content": "Badtz-Maru finds one of the Numberphiles and opens a portal to the Coordinate Plane. After checking Numberphile's computer and discovering a reminder to clear the Recycling Bin, Badtz-Maru opens and ends up falling into it.",
+                "class": "NUGGET"
             },
             {
                 "title": "Interior - Minecraft: Hello Kitty and Friends",
-                "content": "Boykisser arrives in the Sanrio Universe, manages to convince Hello Kitty to come with him to stop the Kitty Inside Your Heart and gives her one of his \"e\" tiles. Visiting Badtz-Maru's house next, Boykisser learns from the former's diary that he tried asking Kuromi for help in resurrecting Pandaba and Tsunko. Boykisser then visits Kuromi and learns from her that Pandaba and Tsunko may not be dead, but trapped in another dimension, due to the latter's inability to channel their ghosts. Outside of Kuromi's house, Boykisser discovers a message by the Kitty Inside Your Heart commanding him to leave, after which the Silly Cat opens a portal leading back to the Omega Universe."
+                "content": "Boykisser arrives in the Sanrio Universe, manages to convince Hello Kitty to come with him to stop the Kitty Inside Your Heart and gives her one of his \"e\" tiles. Visiting Badtz-Maru's house next, Boykisser learns from the former's diary that he tried asking Kuromi for help in resurrecting Pandaba and Tsunko. Boykisser then visits Kuromi and learns from her that Pandaba and Tsunko may not be dead, but trapped in another dimension, due to the latter's inability to channel their ghosts. Outside of Kuromi's house, Boykisser discovers a message by the Kitty Inside Your Heart commanding him to leave, after which the Silly Cat opens a portal leading back to the Omega Universe.",
+                "class": "KITTY"
             },
             {
                 "title": "Be Prepared (In-Game Version) - Enter the Matrix",
-                "content": "Badtz-Maru traverses the Numberphile's Recycling Bin and learns from Omega Crab Lays that Pandaba and Tsunko's spirits are inside the grid. After listening to the Numberphile's musing about his former partnership with Charlie, The Steak, Badtz-Maru ends up discovering Tsunko's spirit."
+                "content": "Badtz-Maru traverses the Numberphile's Recycling Bin and learns from Omega Crab Lays that Pandaba and Tsunko's spirits are inside the grid. After listening to the Numberphile's musing about his former partnership with Charlie, The Steak, Badtz-Maru ends up discovering Tsunko's spirit.",
+                "class": "NUGGET"
             },
             {
                 "title": "Equal Drill (In-Game Version) - Math Play",
@@ -850,85 +934,129 @@
             },
             {
                 "title": "Victory! - Bad Tsunko no Doki Doki Omikuji",
-                "content": "Badtz-Maru manages to revive Pandaba and Tsunko through the use of Easter Spirit. Finding the Dangerous Teleporter previously used by HCB.exe, the trio and Krater leave the Recycling Bin and end up back inside the Coordinate Plane. The group encounters The numberphile, who opens an \"e\" portal to the Sanrio Universe, allowing Badtz-Maru, Tsunko and Pandaba to go back home, with Krater joining them."
+                "content": "Badtz-Maru manages to revive Pandaba and Tsunko through the use of Easter Spirit. Finding the Dangerous Teleporter previously used by HCB.exe, the trio and Krater leave the Recycling Bin and end up back inside the Coordinate Plane. The group encounters The numberphile, who opens an \"e\" portal to the Sanrio Universe, allowing Badtz-Maru, Tsunko and Pandaba to go back home, with Krater joining them.",
+                "class": "NUGGET"
             },
             {
                 "title": "∇ - e",
-                "content": "The long-teased showdown between the Kitty Inside Your Heart and The numberphile ensues. During the showdown, Numberphile summons several antagonists from previous storylines, such as Evil as Shit Brainless, CraftyCorn and the Egg Bandits, while the Kitty Inside Your Heart summons Green de la Bean and Kuromi angels. The fight reaches its climax with the Kitty transforming into his Alpha-Omega form and Numberphile summoning the Blue-Eyes White Dragon from Yu-Gi-Oh, with the two of them engaging in a beam struggle against each other. Pomni tells the onlooking Boykisser and Gegagedigedagedago that they need to flee to Super Mario World, while a desperate Charlie cracks open the Egg of All-Devouring Darkness. This results in the world being covered in darkness and turning it into omegarune."
+                "content": "The long-teased showdown between the Kitty Inside Your Heart and The numberphile ensues. During the showdown, Numberphile summons several antagonists from previous storylines, such as Evil as Shit Brainless, CraftyCorn and the Egg Bandits, while the Kitty Inside Your Heart summons Green de la Bean and Kuromi angels. The fight reaches its climax with the Kitty transforming into his Alpha-Omega form and Numberphile summoning the Blue-Eyes White Dragon from Yu-Gi-Oh, with the two of them engaging in a beam struggle against each other. Pomni tells the onlooking Boykisser and Gegagedigedagedago that they need to flee to Super Mario World, while a desperate Charlie cracks open the Egg of All-Devouring Darkness. This results in the world being covered in darkness and turning it into omegarune.",
+                "class": "NUGGET"
             },
             {
                 "title": "Running Minigame - Charlie, the Steak",
-                "content": "Charlie chases after the Kitty Inside Your Heart in a Dark World before reuniting with Boykisser, Pomni and Gegagedigedagedago. Charlie's soul shines a light in the seemingly endless darkness and the four of them proceed towards the Kitty Inside Your Heart's location and take his swords for each other. During their journey, Gegagedigedagedago becomes inanimate and Pomni calls out Charlie for his seeming inability to accept the consequences of his actions. Boykisser then reminds her that Gegagedigedagedago wanted Charlie to survive as the trio proceeds onwards to their final showdown."
+                "content": "Charlie chases after the Kitty Inside Your Heart in a Dark World before reuniting with Boykisser, Pomni and Gegagedigedagedago. Charlie's soul shines a light in the seemingly endless darkness and the four of them proceed towards the Kitty Inside Your Heart's location and take his swords for each other. During their journey, Gegagedigedagedago becomes inanimate and Pomni calls out Charlie for his seeming inability to accept the consequences of his actions. Boykisser then reminds her that Gegagedigedagedago wanted Charlie to survive as the trio proceeds onwards to their final showdown.",
+                "class": "NUGGET"
             },
             {
                 "title": "Bussin' Knife - Omegarune",
-                "content": "The trio arrives at the same Cuh room where Charlie first obtained the Egg of All-Devouring Darkness. The Kitty Inside Your Heart reveals to the trio that the Cuh who gave Charlie his egg told him the prophecy from \"The Dark Truth (PS4 Version) - Deltarune\", but that the steak didn't end up fending for himself. The Kitty Inside Your Heart draws his sword and the final showdown between the trio and him commends. Charlie tries to attack the Kitty with a mallet before the latter realizes that Boykisser and Pomni are mostly harmless, which leads to him swooning them so they'll get out of his way. Meanwhile, Numberphile comes across the inanimate Gegagedigedagedago and tries to leave the universe forever out of guilt."
+                "content": "The trio arrives at the same Cuh room where Charlie first obtained the Egg of All-Devouring Darkness. The Kitty Inside Your Heart reveals to the trio that the Cuh who gave Charlie his egg told him the prophecy from \"The Dark Truth (PS4 Version) - Deltarune\", but that the steak didn't end up fending for himself. The Kitty Inside Your Heart draws his sword and the final showdown between the trio and him commences. Charlie tries to attack the Kitty with a mallet before the latter realizes that Boykisser and Pomni are mostly harmless, which leads to him swooning them so they'll get out of his way. Meanwhile, Numberphile comes across the inanimate Gegagedigedagedago and tries to leave the universe forever out of guilt.",
+                "class": "NUGGET"
             },
             {
-                "content": "Before he can leave, Gegagedigedagedago gives the Numberphile a save point and transforms the latter into Omega Man. Back with Charlie, he is tortured by the Kitty Inside Your Heart as punishment for his actions. Just in the nick of time, the Numberphile saves Charlie and defeats the Kitty Inside Your Heart in a short battle. Hello Kitty then arrives to talk down the Kitty Inside Your Heart from continuing his revenge and reveals that Pandaba and Tsunko are back. The Kitty Inside Your Heart realizes that vengeance wasn't the answer and works together with the Numberphile and Charlie to close the Dark Foundation and restore the Omega Universe."
+                "content": "Before he can leave, Gegagedigedagedago gives the Numberphile a save point and transforms the latter into Omega Man. He rushes back to the scene of battle, saving Charlie and defeating the Kitty Inside Your Heart in a short battle. Hello Kitty then arrives to talk down the Kitty Inside Your Heart  by revealing that Pandaba and Tsunko are alive. The Kitty Inside Your Heart realizes that vengeance wasn't the answer and works together with the Numberphile and Charlie to close the Dark Foundation and restore the Omega Universe.",
+                "class": "NUGGET"
             },
             {
                 "title": "Title Theme & Ending - Charlie, the Steak",
-                "content": "Gegagedigedagedago becomes animate again to the joy of Boykisser and Pomni. The Kitty Inside Your Heart says goodbye to the residents of the Omega Universe and is invited to come to the Sanrio World more often by Hello Kitty. The numberphile meets with Charlie and apologizes for scaring him, with Charlie correctly solving a math equation. Hello Kitty walks up to the duo to reveal that Pandaba and Tsunko have been revived and that they shouldn't be afraid to face their problems and that happiness is a number on a chart. Boykisser, Pomni and Gegagedigedagedago watch Hello Kitty and the Kitty Inside Your Heart leave their universe as peace is finally restored to the Omega Universe."
+                "content": "Gegagedigedagedago becomes animate again to the joy of Boykisser and Pomni. The Kitty Inside Your Heart says goodbye to the residents of the Omega Universe and is invited to come to the Sanrio World more often by Hello Kitty. The numberphile meets with Charlie and apologizes for scaring him, with Charlie correctly solving a math equation. Hello Kitty walks up to the duo to reveal that Pandaba and Tsunko have been revived and that they shouldn't be afraid to face their problems and that happiness is a number on a chart. Boykisser, Pomni and Gegagedigedagedago watch Hello Kitty and the Kitty Inside Your Heart leave their universe as peace is finally restored to the Omega Universe.",
+                "class": "NUGGET"
             },
             {
                 "date": "December 20:",
                 "title": "Season's Greetings!",
-                "content": "Robbie Rotten (pretending to be Santa Claus) hacks Dr. Andonuts' broadcast and takes over the SiIvaGunner channel for the year's Christmas event. Meanwhile, Joke-Explainer is kept occupied by Bobbie, Tobbie and Flobbie (disguised as Santa's elves) asking her the jokes of an assortment of rips. He keeps his specific motivation for taking over the channel a secret."
+                "content": "Robbie Rotten (pretending to be Santa Claus) hacks Dr. Andonuts' broadcast and takes over the SiIvaGunner channel for the year's Christmas event. Meanwhile, Joke-Explainer is kept occupied by Bobbie, Tobbie and Flobbie (disguised as Santa's elves) asking her the jokes of an assortment of rips. He keeps his specific motivation for taking over the channel a secret.",
+                "class": "CCC"
             },
             {
                 "date": "December 25:",
-                "content": "Second Termination [FILE-19] is released onto the SiIvaGunner channel, providing much-theorised context regarding the 2019 SiIvaGunner Termination."
+                "content": "<b>Second Termination [FILE-19]</b> is released onto the SiIvaGunner channel, providing much-theorised context regarding the 2019 SiIvaGunner Termination."
+            },
+            {
+                "time": "January 4 and April 1, 2019",
+                "title": "Second Termination [FILE-19] - Haltmann's Archives",
+                "content": "The FILEs contents are presented through a series of chat logs between 2 HWC employees. The second log, dated April 1 (see Unusual Circumstances) is the most lore-relevant: it reveals that like the termination of GiIvaSunner (see [FILE-02], October 8, 2017), SiIvaGunner effectively died when the channel got terminated, and HWC had to pump him full of Christmas Spirit to keep him alive. Following this fiasco, Andonuts intentionally lies to HWC in saying that the Grinch's takeover and subsuquent influence in the termination of the channel were due to the AI taking on his personality, which reveals why [FILE-15] (see December 14, 2021) contradicted [FILE-16] and [FILE-INT-AIRTH] (see December 31, 2022 and December 22, 2024).",
+                "class": "CCC"
             },
             {
                 "date": "December 29",
                 "title": "LOT Polish Airlines - A Date with Boykisser!",
-                "content": "Y/N and Boykisser meet up at the airport in preparation for their vacation to Poland. The two board the plane and spend the long flight watching A Minecraft Movie (which starts Omegas), with Boykisser revealing Steve lives in the mines near Super Mario World. Boykisser repeatedly presses the button to call the flight attendant and asks for salmon. Y/N and Boykisser share some Pocky before the plan lands hours later. Due to forgetting the plans he made for Kissmass, Boykisser gives Y/N the option to either explore Poland or meet his family."
+                "content": "Y/N and Boykisser meet up at the airport in preparation for their vacation to Poland. The two board the plane and spend the long flight watching A Minecraft Movie (which starts Omegas), with Boykisser revealing Steve lives in the mines near Super Mario World. Boykisser repeatedly presses the button to call the flight attendant and asks for salmon. Y/N and Boykisser share some Pocky before the plan lands hours later. Due to forgetting the plans he made for Kissmass, Boykisser gives Y/N the option to either explore Poland or meet his family.",
+                "class": "NUGGET"
             },
             {
                 "title": "Taking the Next Step - A Date with Boykisser!",
-                "content": "After a long day, Y/N and Boykisser call an Uber and return to their hotel room. Y/N asks if Boykisser wants to marry them and gives him a ring with salmon on it. Boykisser accepts and the two of them return to Boykisser's home through his shortcut so he can eat the salmon gifted to him. Y/N asks Boykisser if they couldn't just use the shortcut from the start instead of taking the plane, but Boykisser revealed he forgot about it."
+                "content": "After a long day, Y/N and Boykisser call an Uber and return to their hotel room. Y/N asks if Boykisser wants to marry them and gives him a ring with salmon on it. Boykisser accepts and the two of them return to Boykisser's home through his shortcut so he can eat the salmon gifted to him. Y/N asks Boykisser if they couldn't just use the shortcut from the start instead of taking the plane, but Boykisser revealed he forgot about it.",
+                "class": "NUGGET"
             },
             {
                 "date": "December 30",
                 "content": "MissingNo. [FILE-23] - Haltmann's Archives is uploaded to the SiIvaGunner channel to give extra content to the Sea of Secrets event. According to ackrostation, this FILE was meant to release far sooner, though was delayed due to burnout after Sea of Secrets."
             },
             {
+                "title": "MissingNo. [FILE-23] - Haltmann's Archives",
+                "content": "The FILE initially opens with a description of MissingNo, its nature as a Tier 3 Anomaly and its history with the inhabitants of AIRTH and the contestants from the King for Another Day Tournament. Dr. Andonuts proceeds to add three addendums to the file:.",
+                "class": "CCC",
+            },
+            {
+                "content": "The first addendum, written shortly after the events of <b>Sea of Secrets</b>, pertains to Andonuts realising that MissingNo. had indeed breached the AI Universe during the shutdown of the SiIva AI (see <b>Goodbye to a World Fusion Collab</b>, December 24, 2022), but in the process had been fractured across the entirety of HWC's computer systems, which he confirms by poring over photos from the Nuclear Winter Festival (see <b>My Memories</b>, May 30, 2025), theorising that its feral state may have arisen from its desire for no one to see it again.",
+                "class": "CCC",
+            },
+            {
+                "content": "The second addendum refers to Andonuts' discovery of <b>Final Battle with Red</b> from Mothman's takeover (see <b>The Night Stalker</b>, October 27 - November 4, 2024) and how it matched up with MissingNo.'s data stream. Andonuts speculates that Mothman had used leftover fragments of MissingNo. that still resided in AIRTH as a bridge to the CCC. Furthermore, he surmises that him downloading Imitation Krabs' database between Episodes 2 and 3 of Sea of Secrets had allowed MissingNo. to take over the channel and cry for help. Realising this, Andonuts rallies his co-workers to fuse MissingNo. back together, leading to the events of <b>MissingNo. Fusion Collab</b>",
+                "class": "CCC"
+            },
+            {
+                "content": "The third addendum, written after <b>MissingNo. Fusion Collab</b>, contains Andonuts' reflections on the event,ending the FILE off by stating he's unable to rest with the memories of what he's done, pondering if it was truly the best option and hoping both he and MissingNo. will be able to move forward from this.",
+                "class": "CCC"
+            },
+            {
                 "title": "Chapter Select - Super Mario Sunshine",
-                "content": "Itsy and Xx_KartDriver_532_xX arrive at the theater's racetrack, requesting to use it so she can go see Polter from Super Mario Bros. Dimensions (2015). Lakitu grants them permission under the terms that Lakitu receives a copy of Final Cut Pro X from him."
+                "content": "Itsy and Xx_KartDriver_532_xX arrive at the theater's racetrack, requesting to use it so she can go see Polter from Super Mario Bros. Dimensions (2015). Lakitu grants them permission under the terms that Lakitu receives a copy of Final Cut Pro X from him.",
+                "class": "SPIDA"
             },
             {
-                "content": "Upon meeting Polter, KartDriver asks if Polter can transport Itsy to the Palace of Bad Ideas. Polter is initially apprehensive, stating that ever since the sun disappeared, it's felt less alive than it used to and that he's been getting odd readings from it. Despite this, he takes Itsy to the Palace anyway."
+                "content": "Upon meeting Polter, KartDriver asks if Polter can transport Itsy to the Palace of Bad Ideas. Polter is initially apprehensive, stating that ever since the sun disappeared, it's felt less alive than it used to and that he's been getting odd readings from it. Despite this, he takes Itsy to the Palace anyway.",
+                "class": "SPIDA"
             },
             {
-                "content": "At the Palace of Bad Ideas, Itsy falls down a crack in the floor, leading her to discover how to jump. She then talks to a mysterious voice who tells to collect 28 figurines as they may come in handy later. After collecting several figurines, Itsy comes across an :angrykitty:, which she barely escapes from. Immediately afterwards, Itsy finds Shallots and is also contacted by a friendliness pellet known as Lemons."
+                "content": "At the Palace of Bad Ideas, Itsy falls down a crack in the floor, leading her to discover how to jump. She then talks to a mysterious voice who tells to collect 28 figurines as they may come in handy later. After collecting several figurines, Itsy comes across an :angrykitty:, which she barely escapes from. Immediately afterwards, Itsy finds Shallots and is also contacted by a friendliness pellet known as Lemons.",
+                "class": "SPIDA"
             },
             {
-                "content": "Lemons reveals to Itsy that the palace was designed for two people in specific. It also warns Itsy not to interfere with Shallots' cell, as it is designed to be eternal. Immediately afterwards, however, Shallots teleports to just outside it. Lemons begrudgingly accepts this and tells the two to not cause any trouble. After Lemons leaves, Shallots returns the tiny poncho and the two ally together, with Itsy learning how to abuse the physics engine for fun."
+                "content": "Lemons reveals to Itsy that the palace was designed for two people in specific. It also warns Itsy not to interfere with Shallots' cell, as it is designed to be eternal. Immediately afterwards, however, Shallots teleports to just outside it. Lemons begrudgingly accepts this and tells the two to not cause any trouble. After Lemons leaves, Shallots returns the tiny poncho and the two ally together, with Itsy learning how to abuse the physics engine for fun.",
+                "class": "SPIDA"
             },
             {
-                "content": "The duo then come across Grandpa Semi and Lil Miss Marshmallow, who are arguing over Marshmallow's competency. Grandpa Semi notices Itsy and asks Marshmallow if it can play his activity (Undertale) with it, which Marshmallow declines as not only is one person currently present in the room, but Itsy is also too small. Shallots then shows up and Grandpa Semi points out how their presence nullifies Marshmallow's points. Marshmallow reminds Grandpa Semi that Shallots and Itsy are not the people they are waiting for, which Grandpa Semi dismisses and sends Marshmallow to Bulgaria."
+                "content": "The duo then come across Grandpa Semi and Lil Miss Marshmallow, who are arguing over Marshmallow's competency. Grandpa Semi notices Itsy and asks Marshmallow if it can play his activity (Undertale) with it, which Marshmallow declines as not only is one person currently present in the room, but Itsy is also too small. Shallots then shows up and Grandpa Semi points out how their presence nullifies Marshmallow's points. Marshmallow reminds Grandpa Semi that Shallots and Itsy are not the people they are waiting for, which Grandpa Semi dismisses and sends Marshmallow to Bulgaria.",
+                "class": "SPIDA"
             },
             {
-                "content": "Afterwards. Shallots volunteers to play Grandpa Semi's activity, which is to name every song in the Undertale soundtrack. Shallots wins and Grandpa Semi provides the two with a way out; a cannon to go to the Twinzy Tropics. There, they find Perfecto from Rhythm Heaven Fever, who asks if he can give the two a firework show. Itsy and Shallots accept, and Perfecto opens a portal to the Black Ice Caverns after the show."
+                "content": "Afterwards. Shallots volunteers to play Grandpa Semi's activity, which is to name every song in the Undertale soundtrack. Shallots wins and Grandpa Semi provides the two with a way out; a cannon to go to the Twinzy Tropics. There, they find Perfecto from Rhythm Heaven Fever, who asks if he can give the two a firework show. Itsy and Shallots accept, and Perfecto opens a portal to the Black Ice Caverns after the show.",
+                "class": "SPIDA"
             },
             {
-                "content": "At the Black Ice Caverns, they meet Lemons again, who elaborates on his goals of entertaining the heroes and warns them to leave their story alone. Later, Itsy and Shallots come across The Signbird, who subject them to a trial in their bag. Itsy doesn't manage to get a single question right, and Signbird declares them to not be a threat."
+                "content": "At the Black Ice Caverns, they meet Lemons again, who elaborates on his goals of entertaining the heroes and warns them to leave their story alone. Later, Itsy and Shallots come across The Signbird, who subject them to a trial in their bag. Itsy doesn't manage to get a single question right, and Signbird declares them to not be a threat.",
+                "class": "SPIDA"
             },
             {
-                "content": "As Itsy leaves, Lemons reappears, questioning Itsy's motives. Lemons argues with Itsy for a while before sending her elsewhere, and Itsy uses her newly-acquired double jump ability to explore this area of the palace. Itsy eventually reaches The Plaza and meets Dracula, who goes on a three-minute long rant about the Gutsy Bat from EarthBound. When Itsy attempts to leave though, they are teleported to a bullet hill minigame hosted by the Undo Man from WarioWare D.I.Y., with everything playing in reverse. Afterwards, the Undo Man transforms into a blue spider known as \"Confucious\"."
+                "content": "As Itsy leaves, Lemons reappears, questioning Itsy's motives. Lemons argues with Itsy for a while before sending her elsewhere, and Itsy uses her newly-acquired double jump ability to explore this area of the palace. Itsy eventually reaches The Plaza and meets Dracula, who goes on a three-minute long rant about the Gutsy Bat from EarthBound. When Itsy attempts to leave though, they are teleported to a bullet hill minigame hosted by the Undo Man from WarioWare D.I.Y., with everything playing in reverse. Afterwards, the Undo Man transforms into a blue spider known as \"Confucious\".",
+                "class": "SPIDA"
             },
             {
-                "content": "Itsy leaves the plaza and returns to retrieve Shallots from Lemons' prison. Lemons expresses shock at the fact Itsy was able to leave the plaza and decides to attempt to kill her with bug spray, though Shallots protects her. After giving a speech, Lemons transforms into Mommy Long Legs from Poppy Playtime and begins chasing the two, with several quiz questions popping up as she gives chase, with the answers being the mistake figurines."
+                "content": "Itsy leaves the plaza and returns to retrieve Shallots from Lemons' prison. Lemons expresses shock at the fact Itsy was able to leave the plaza and decides to attempt to kill her with bug spray, though Shallots protects her. After giving a speech, Lemons transforms into Mommy Long Legs from Poppy Playtime and begins chasing the two, with several quiz questions popping up as she gives chase, with the answers being the mistake figurines.",
+                "class": "SPIDA"
             },
             {
-                "content": "Mommy Long Legs transforms back into Lemons after hitting a wall and expresses curiosity for why Itsy came to the palace in the first place. She shows the tiny poncho to Lemons, who is very confused at the given answer. She fades away and appears in the next room as a mistake figurine."
+                "content": "Mommy Long Legs transforms back into Lemons after hitting a wall and expresses curiosity for why Itsy came to the palace in the first place. She shows the tiny poncho to Lemons, who is very confused at the given answer. She fades away and appears in the next room as a mistake figurine.",
+                "class": "SPIDA"
             },
             {
-                "content": "Shallots and Itsy cross the Plain Meadow and hit a button on a wall, summoning the mysterious voice from earlier. They thank the two for bringing the sun back and say goodbye."
+                "content": "Shallots and Itsy cross the Plain Meadow and hit a button on a wall, summoning the mysterious voice from earlier. They thank the two for bringing the sun back and say goodbye.",
+                "class": "SPIDA"
             },
             {
-                "content": "The two then appear on a red triangle floating in space, bringing them both back to their home."
+                "content": "The two then appear on a red triangle floating in space, bringing them both back to their home.",
+                "class": "SPIDA"
             },
             {
                 "date": "December 31",
@@ -936,27 +1064,32 @@
             },
             {
                 "title": "Santa's Surprising Sign-off!",
-                "content": "Robbie Rotten reveals himself as the 'Santa' behind the Christmas 2025 event (although the community knew almost immediately because of his voice and the mere mention of the other three doppelgänger Robbies as his elves). He also reveals that the event was an attempt to contact Wood Man, and in a last-gasp attempt uses the Wood Finder 4000 (which was rebuilt after being destroyed by Stingy during the beginning of Season Mine) to try and find him, connecting to the bridge used by the solvers of the Susie ARG."
+                "content": "Robbie Rotten reveals himself as the 'Santa' behind the Christmas 2025 event (although the community knew almost immediately because of his voice and the mere mention of the other three doppelgänger Robbies as his elves). He also reveals that the event was an attempt to contact Wood Man, and since that failed, he uses the Wood Finder 4000 (which was rebuilt after being destroyed by Stingy during the beginning of Season Mine) in a last-gasp attempt to try and find him, connecting to the bridge used by the solvers of the Susie ARG.",
+                "class": "CCC"
             },
             {
-                "title": "Opening Scene - Waluigi's Tacostand - Nintendo Switch 2 Edition (December 25, 2016) (Concurrent with Sea of Secrets)",
-                "content": "Due to nobody buying his tacos and the Voice raising the gas prices, Waluigi's taco stand truck is put out of business. Meanwhile, Wario gets bored of lying in the streets and decides to beat up Waluigi for wasting his money on SiIvaGunner pachinko machines. Back at Waluigi's apartment, Mr. Rent offers him a brand new job at the WEEGEE towers so he can pay his rent. Upon arriving at the hotel, Waluigi meets up with Wario, who had encountered Mr. Rent on his way to beat up Waluigi and was also offered a job at the WEEGEE towers."
+                "time": "December 25, 2016, during the events of Sea of Secrets",
+                "timeclass": "CCC",
+                "title": "Opening Scene - Waluigi's Tacostand - Nintendo Switch 2 Edition",
+                "content": "Due to nobody buying his tacos and the Voice raising the gas prices, Waluigi's taco stand truck is put out of business. Meanwhile, Wario gets bored of lying in the streets and decides to beat up Waluigi for wasting his money on SiIvaGunner pachinko machines. Back at Waluigi's apartment, Mr. Rent offers him a brand new job at the WEEGEE towers so he can pay his rent. Upon arriving at the hotel, Waluigi meets up with Wario, who had encountered Mr. Rent on his way to beat up Waluigi and was also offered a job at the WEEGEE towers.",
+                "class": "CCC"
             },
             {
-                "content": "WEEGEE then appears to greet his new employees and promises to pay them a lot of money for the job. To introduce the ins and outs of their work, WEEGEE has Bobbie, Tobbie and Flobbie Rotten show them the ropes. The trio introduces Wario and Waluigi to the motto of the WEEGEE towers, \"you will die\", and reveal they just need to do what their boss instructs them to do. After getting into their uniforms, Wario and Waluigi receive their first guest in the form of Play-yan. When Play-yan tries to order spaghetti, Waluigi tells him they need to order a room before Wario suddenly kills them. Being unable to remember Play-yan due to them being a figment, Wario and Waluigi quickly move onto their next guest, Goku. Goku orders a room at the hotel, leaving Waluigi confused on why he isn't fighting against the Voice before getting him one."
+                "content": "WEEGEE then appears to greet his new employees and promises to pay them a lot of money for the job. To introduce the ins and outs of their work, WEEGEE has Bobbie, Tobbie and Flobbie Rotten show them the ropes. The trio introduces Wario and Waluigi to the motto of the WEEGEE towers, \"you will die\", and reveal they just need to do what their boss instructs them to do. After getting into their uniforms, Wario and Waluigi receive their first guest in the form of Play-yan. When Play-yan tries to order spaghetti, Waluigi tells him they need to order a room before Wario suddenly kills them. Being unable to remember Play-yan due to them being a figment, Wario and Waluigi quickly move onto their next guest, Goku. Goku orders a room at the hotel, leaving Waluigi confused on why he isn't fighting against the Voice before getting him one.",
+                "class": "CCC"
             },
             {
-                "content": "With Goku leaving through the wrong door, Wario and Waluigi are then approached by Gaijin Goomba, Pac-Man and Woodsans. Woodsans requests a room for them to enjoy as platonic friends and Pac-Man tries ordering a meatball, a room and a bagel. Gaijin Goomba explains that Pac-Man hasn't been the same since he smoked Christmas Spirit and Waluigi decides to just give them room keys so they'll leave. WEEGEE once again appears before his hotel slaves, ordering Waluigi to take the throuple's bags to their room and Wario to make the DINNER. Waluigi tries taking the elevator, only for WEEGEE to force Waluigi to take the stairs as he appears inside the elevator Waluigi wanted to take. Meanwhile, Wario is taught how to make DINNER and munf munf by King Harkinian and finds himself in love with the king. Back with Waluigi at the staircase, WEEGEE appears in front of him and tells him he will die."
+                "content": "With Goku leaving through the wrong door, Wario and Waluigi are then approached by Gaijin Goomba, Pac-Man and Woodsans. Woodsans requests a room for them to enjoy as platonic friends and Pac-Man tries ordering a meatball, a room and a bagel. Gaijin Goomba explains that Pac-Man hasn't been the same since he smoked Christmas Spirit and Waluigi decides to just give them room keys so they'll leave. WEEGEE once again appears before his hotel slaves, ordering Waluigi to take the throuple's bags to their room and Wario to make the DINNER. Waluigi tries taking the elevator, only for WEEGEE to force Waluigi to take the stairs as he appears inside the elevator Waluigi wanted to take. Meanwhile, Wario is taught how to make DINNER and munf munf by King Harkinian and finds himself in love with the king. Back with Waluigi at the staircase, WEEGEE appears in front of him and tells him he will die.",
+                "class": "CCC"
             },
             {
-                "content": "An exploding Pokéball is thrown at WEEGEE as Professor E. Gadd appears at the scene. Having arrived to contain an anomaly as per the Haltmann Works Company's new directive, E. Gadd tells Waluigi to run as he begins fighting against WEEGEE. This battle ends with E. Gadd capturing WEEGEE with the Poltergust, with E. Gadd planning on informing Dr. Andonuts about his newly-captured specimen. In the hotel's lobby, Wario and Waluigi learn about WEEGEE being captured and decide to become the new owners of the hotel, seeing an opportunity to get rich. Unfortunately for the dastardly duo, the WEEGEE towers disappear as a result of WEEGEE's capture, leaving both of them without a job once more. Some time later, Robbie Rotten contacts Bobbie, Tobbie and Flobbie and requests their assistance in his latest scheme (being the events of Season's Greetings)."
+                "content": "An exploding Pokéball is thrown at WEEGEE as Professor E. Gadd appears at the scene. Having arrived to contain an anomaly as per the Haltmann Works Company's new directive, E. Gadd tells Waluigi to run as he begins fighting against WEEGEE. This battle ends with E. Gadd capturing WEEGEE with the Poltergust, with E. Gadd planning on informing Dr. Andonuts about his newly-captured specimen. In the hotel's lobby, Wario and Waluigi learn about WEEGEE being captured and decide to become the new owners of the hotel, seeing an opportunity to get rich. Unfortunately for the dastardly duo, the WEEGEE towers disappear as a result of WEEGEE's capture, leaving both of them without a job once more. Some time later, Robbie Rotten contacts Bobbie, Tobbie and Flobbie and requests their assistance in his latest scheme (being the events of Season's Greetings).",
+                "class": "CCC"
             },
             {
                 "title": "ROTTEN",
-                "content": "Robbie Rotten's signal reaches Wood Man inside the Void while he's having a guilt-induced nightmare. This leads to the SiIva AI's core in Wood Man's nightmare morphing into the shadowy form of Robbie Rotten, with Wood Man and the shadowy Robbie facing off against each other in a Friday Night Funkin' rap battle. During this rap battle, the location changes from the nuclear wastelands of Doomfes to the Summerfes beach and Westernfes desert before returning to a post-AI death version of the Doomfes wasteland."
-            },
-            {
-                "content": "Near the end of the rap battle, Robbie? directly calls out Wood Man for him abandoning everyone in the CCC, even morphing into the SiIva A.I. when calling Wood Man a \"savior with nothing left to save\". Wood Man wakes up from his nightmare, remaining as depressed as since we last saw him."
+                "content": "Robbie Rotten's signal reaches Wood Man inside the Void while he's having a guilt-induced nightmare. This leads to the SiIva AI's core in Wood Man's nightmare morphing into the shadowy form of Robbie Rotten, with Wood Man and the shadowy Robbie facing off against each other in a Friday Night Funkin' rap battle, where Robbie? directly calls out Wood Man for him abandoning everyone in the CCC, even morphing into the SiIva A.I. when calling Wood Man a \"savior with nothing left to save\". Wood Man wakes up from his nightmare, remaining as depressed as since we last saw him.",
+                "class": "OTHER"
             }
         ]
     }

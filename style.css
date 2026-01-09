@@ -74,6 +74,9 @@ h4, .title {
 	color: #888888;
 }
 
+.archive {
+	color: yellow;
+};
 .date {
 	color: #888888;
 }
@@ -101,13 +104,13 @@ table {
 	margin-bottom: 1em;
 }
 .AIRTH {
-	color: #74ffc9;
+	color: #60D6A9;
 }
 .CCC {
-	color: #6735a5;
+	color: #8256B8;
 }
 .KIRBY {
-	color: #ffb3ff;
+	color: #DF6BDF;
 }
 .PAINT {
 	color: #008080;
@@ -119,13 +122,13 @@ table {
 	color: #a64d79;
 }
 .NUGGET {
-	color: #996515;
+	color: #E6A84B;
 }
 .GORK {
 	color: #D5CAB0;
 }
 .SPIDA {
-	color: #e3e253;
+	color: #F8DD85;
 }
 .HCB {
   color: #4d7780;

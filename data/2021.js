@@ -1,4 +1,4 @@
-﻿export const data8 = [
+﻿export const data2021 = [
     {
         "year": "2021",
         "events": [
@@ -93,7 +93,7 @@
             {
                 "date": "August 5 - 13",
                 "title": "",
-                "content": "Remixes and arrangements from SGFR's <i>Super Star Symphony</i> - an album dedicated to the Kirby franchise - are scattered amongst regular rips over a period of 8 days. On August 13, the full album is released on Bandcamp alongside the launch of SGFR's dedicated website.",
+                "content": "Remixes and arrangements from SGFR's <i>Super Star Symphony</i> - an album dedicated to the <i>Kirby</i> franchise - are scattered amongst regular rips over a period of 8 days. On August 13, the full album is released on Bandcamp alongside the launch of SGFR's dedicated website.",
                 "class": ""
             },
             {

@@ -1,31 +1,33 @@
-﻿import { data } from "./data.js"; //<2000
-import { data1 } from "./data1.js"; //2000-2010
-import { data2 } from "./data2.js"; //2010-2015
-import { data3 } from "./data3.js"; //2016
-import { data4 } from "./data4.js"; //2017
-import { data5 } from "./data5.js"; //2018
-import { data6 } from "./data6.js"; //2019
-import { data7 } from "./data7.js"; //2020
-import { data8 } from "./data8.js"; //2021
-import { data9 } from "./data9.js"; //2022
-import { data10 } from "./data10.js"; //2023
-import { data11 } from "./data11.js"; //2024 pain
-import { data12 } from "./data12.js"; //2025 even more pain thank you gork, nugget, monokuma and missingno
+﻿import { data2000 } from "./data/2000.js"; //<2000
+import { data2010 } from "./data/2010.js"; //2000-2010
+import { data2015 } from "./data/2015.js"; //2010-2015
+import { data2016 } from "./data/2016.js"; //2016
+import { data2017 } from "./data/2017.js"; //2017
+import { data2018 } from "./data/2018.js"; //2018
+import { data2019 } from "./data/2019.js"; //2019
+import { data2020 } from "./data/2020.js"; //2020
+import { data2021 } from "./data/2021.js"; //2021
+import { data2022 } from "./data/2022.js"; //2022
+import { data2023 } from "./data/2023.js"; //2023
+import { data2024 } from "./data/2024.js"; //2024 pain
+import { data2025 } from "./data/2025.js"; //2025 even more pain thank you gork, nugget, monokuma and missingno
+import { data2026 } from "./data/2026.js"; //2026 FREEDOM
 
 const databases = {
-    data,
-    data1,
-    data2,
-    data3,
-    data4,
-    data5,
-    data6,
-    data7,
-    data8,
-    data9,
-    data10,
-    data11,
-    data12
+    data2000,
+    data2010,
+    data2015,
+    data2016,
+    data2017,
+    data2018,
+    data2019,
+    data2020,
+    data2021,
+    data2022,
+    data2023,
+    data2024,
+    data2025,
+    data2026
 }
 
 const table = document.getElementById("timeline");
@@ -82,7 +84,9 @@ for (const key in databases) {
                 content.className = "content";
                 if (event.class) {
                     content.classList.add(...event.class.split(/\s+/));
-                };
+                } else {
+                    content.style.color = "#DDD"
+                }
                 content.innerHTML = event.content;
                 obj.appendChild(content);
             }

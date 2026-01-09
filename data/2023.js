@@ -1,4 +1,4 @@
-﻿export const data10 = [
+﻿export const data2023 = [
     {
         "year": "2023",
         "events": [
@@ -35,7 +35,7 @@
             },
             {
                 "title": "The SiIva AI [FILE-17] - Haltmann's Archives",
-                "content": "An auto-generated log from AIRTH confirms that the SiIva AI had indeed shut down after the events of the <b>Goodbye To A World Fusion Collab</b> due to \"irreversible damage\". The log also reveals that all 432 rips from the album <i>SiIvaGunner's Highest Quality Rips: Volume AI</i> were created by the AI itself, and that it exhibited a similar reaction to its corrupted metadata to its living counterpart during 2016 (see March 30 and October 29, 2016).<br><br>The log then introduces the Quality of Control network, made as a short term experiment in conjunction with Illucidity (a dream environment where the original SiIvaGunner could continue to make rips) to increase the AI's standards of quality. The system ended up creating a positive feedback loop that exponentially improved the quality of both the AI and the real SiIvaGunner's rips. After the shutdown of the AI, the system had fallen back to using only rips made in Illucidity, explaining the channel's hiatus after DoomFes.",
+                "content": "An auto-generated log from AIRTH confirms that the SiIva AI had indeed shut down after the events of the <b>Goodbye To A World Fusion Collab</b> due to \"irreversible damage\". The log also reveals that all 432 rips from the album <i>SiIvaGunner's Highest Quality Rips: Volume AI</i> were created by the AI itself, and that it exhibited a similar reaction to its corrupted metadata to its living counterpart during 2016 (see March 30 and <b>Title Theme & Ending - 7 GRAND DAD</b>, October 29, 2016).<br><br>The log then introduces the Quality of Control network, made as a short term experiment in conjunction with Illucidity (a dream environment where the original SiIvaGunner could continue to make rips) to increase the AI's standards of quality. The system ended up creating a positive feedback loop that exponentially improved the quality of both the AI and the real SiIvaGunner's rips. After the shutdown of the AI, the system had fallen back to using only rips made in Illucidity, explaining the channel's hiatus after DoomFes.",
                 "class": "CCC"
             },
             {
@@ -111,7 +111,7 @@
             },
             {
                 "title": "BOOK I: The Arrival - The SiIvaGunner Halloween Horror Special Part VI: The Cult of Proto",
-                "content": "Takane Shijou arrives in New Engrand in search of Wood Man after his mysterious disappearance (see December 25, 2022 and February 1, 2023), going from Harbor Town to Harbor Town in search of a 'National Harbor' (in reality the Gaylord National Hotel from KFAD1). She encounters a mysterious hooded individual preaching about the rise of a 'Forsaken One' who happens to a drop a book named 'The Protonomicon' - within it lay markings of the long-dead Protegent (see October 24, 2017). Takane retires for dinner soon after, pledging to uncover the mystery behind the Protonomicon.",
+                "content": "Takane Shijou arrives in New Engrand in search of Wood Man after his mysterious disappearance (see <b>The Disappearance of Wood Man</b>, February 1, 2023), going from Harbor Town to Harbor Town in search of a 'National Harbor' (in reality the Gaylord National Hotel from KFAD1). She encounters a mysterious hooded individual preaching about the rise of a 'Forsaken One' who happens to a drop a book named 'The Protonomicon' - within it lay markings of the long-dead Protegent (see <b>FEATURE PRESENTATION</b>, October 24, 2017). Takane retires for dinner soon after, pledging to uncover the mystery behind the Protonomicon.",
                 "class": "AIRTH"
             },
             {

@@ -1,4 +1,4 @@
-﻿export const data3 = [
+﻿export const data2016 = [
     {
         "year": "2016",
         "events": [
@@ -45,12 +45,12 @@
             },
             {
                 "date": "March 21",
-                "title": "Circus Theme - Five Nights At Freddy's",
                 "content": "The track <i>Circus</i> from <i>Five Nights at Freddy's</i> is ripped for the first time. Over time, rips of <i>Circus</i> would eventually follow the trend of being switcheroo edits of other non-VGM songs (usually mainstream songs). As of writing, there are 486 rips of <i>Circus</i> on the channel."
             },
             {
                 "date": "March 30",
-                "content": "<i>GiIvaSunner's Highest Quality Video Game Rips</i>: Volume 1, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class=\"CCC\">Notably, the file names are corrupted.</span>"
+                "title": "A N N O U N C E M E N T",
+                "content": "<i>GiIvaSunner's Highest Quality Video Game Rips: Volume 1</i>, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class=\"CCC\">Notably, the file names are corrupted.</span>"
             },
             {
                 "date": "April - May",

@@ -1,4 +1,4 @@
-export const data2 = [
+export const data2015 = [
     {
         "year": "2010",
         "events": [

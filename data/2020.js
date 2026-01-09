@@ -1,4 +1,4 @@
-﻿export const data7 = [
+﻿export const data2020 = [
     {
         "year": "2020",
         "events": [
@@ -20,7 +20,7 @@
             {
                 "date": "January 8",
                 "title": "Credits - SilvaGunner: King for Another Day Tournament",
-                "content": "The King for Another Day Tournament officially concludes, and with it Season 4. The next season is announced to be 'Season 4 Episode 2', based on <i>Sonic the Hedgehog 4: Episode II</i>'s title. After the credits roll, an animated post-credits scene plays where Notwoodman apologizes to Wood Man for framing him for murder, which Wood Man accepts (see November 5, 2019). John then reminds Wood Man of the promise he made to Robbie Rotten (see March 24, 2018). Wood Man bids Notwoodman farewell and leaves for Grandiose City, expressing hopes that he can meet him again some day.",
+                "content": "The King for Another Day Tournament officially concludes, and with it Season 4. The next season is announced to be 'Season 4 Episode 2', based on <i>Sonic the Hedgehog 4: Episode II</i>'s title. After the credits roll, an animated post-credits scene plays where Notwoodman apologizes to Wood Man for framing him for murder, which Wood Man accepts (see <b>A Murder Not Too Nice - Part 3</b>, November 5, 2019). John then reminds Wood Man of the promise he made to Robbie Rotten (see <b>Wood Man & Robbie Rotten</b>, March 24, 2018). Wood Man bids Notwoodman farewell and leaves for Grandiose City, expressing hopes that he can meet him again some day.",
                 "class": "AIRTH"
             },
             {
@@ -107,7 +107,7 @@
             {
                 "date": "December 19",
                 "title": "Illumination's The Grinch™ Presents: One Last Leak...",
-                "content": "The Grinch returns for one final time to announce the release of <i>Dr. Pavel's How the Grinch Took Over SiIvaGunner</i>, compiling all of the rips from his abortive 2018 takeover of the channel."
+                "content": "The Grinch announces that due to his heart growing three sizes, his doctor says he only has a week to live - he releases<i>Dr. Pavel's How the Grinch Took Over SiIvaGunner</i> while he still can, compiling all of the rips from his abortive 2018 takeover of the channel."
             },
             {
                 "date": "December 25",

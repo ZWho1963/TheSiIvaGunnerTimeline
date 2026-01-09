@@ -1,7 +1,11 @@
-﻿export const data9 = [
+﻿export const data2022 = [
     {
         "year": "2022",
         "events": [
+            {
+                "date": "January 8",
+                "content": "SGFR releases <i>Musical Monkey Madness</i>, compiling 41 arrangements of tracks from the <i>Super Monkey Ball</i> franchise, both as a album and a modpack for <i>Super Monkey Ball Banana Mania</i>."
+            },
             {
                 "date": "January 11",
                 "content": "The SiIvaGunner team announces a finale event for the Space Jam Charity SLAM! called JAM!uary."
@@ -150,7 +154,7 @@
             },
             {
                 "date": "December 4",
-                "content": "SGFR releases <i>Tactical Stealth Arrangements</i>, an album dedicated to remixes of the Metal Gear franchise."
+                "content": "SGFR releases <i>Tactical Stealth Arrangements</i>, an album dedicated to remixes of the <i>Metal Gear</i> franchise."
             },
             {
                 "content": "Wood Man and JE remain at the survivors' camp on Day 11, where the former recounts the campers sharing their stories of survival around a campfire. Wood Man remarks that Big Boss, one of the survivors, resembles \"an old friend.\"",

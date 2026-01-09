@@ -1,4 +1,4 @@
-﻿export const data6 = [
+﻿export const data2019 = [
     {
         "year": "2019",
         "events": [
@@ -220,7 +220,7 @@
                 "title": "A Murder Not Too Nice - Part 2",
                 "time": "October 28",
                 "timeclass": "AIRTH",
-                "content": "Leading off from Part 1's cliffhanger, the group engages in a slapstick-inspired chase sequence to escape from the 8-Bit Beast, eventually ending up in the mansion's basement. They find Wood Man chained up within the basement and free him, but the other guests accuse him of being the 8-Bit Beast (see November 15, 2016 and October 29, 2017) and attempt to burn him at the stake. Wood Man pleas for the viewers to keep note of rips uploaded at times the Beast is known to appear before the episode cuts to black.",
+                "content": "Leading off from Part 1's cliffhanger, the group engages in a slapstick-inspired chase sequence to escape from the 8-Bit Beast, eventually ending up in the mansion's basement. They find Wood Man chained up within the basement and free him, but the other guests accuse him of being the 8-Bit Beast (see <b>A Nice Announcement</b>, November 15, 2016 and <b>The Werewolf [FILE-05]</b>, October 29, 2017) and attempt to burn him at the stake. Wood Man pleas for the viewers to keep note of rips uploaded at times the Beast is known to appear before the episode cuts to black.",
                 "class": "AIRTH"
             },
             {

@@ -111,7 +111,7 @@
             {
                 "date": "June 15",
                 "title": "Journey's End - The Elder Scrolls V: Skyrim",
-                "content": "Todd Howard goes on a tirade about how every game that isn't a Bethesda release is diseased and “shit”. He says he will destroy the channel, but is swiftly defeated by Robin Hood Man.",
+                "content": "Todd Howard goes on a tirade about how every game that isn't a Bethesda release is diseased and \"shit\". He says he will destroy the channel, but is swiftly defeated by Robin Hood Man.",
                 "class": "OTHER"
             },
             {

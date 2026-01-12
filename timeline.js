@@ -13,87 +13,142 @@ import { data2024 } from "./data/2024.js"; //2024 pain
 import { data2025 } from "./data/2025.js"; //2025 even more pain thank you gork, nugget, monokuma and missingno
 import { data2026 } from "./data/2026.js"; //2026 FREEDOM
 
-const databases = {
-    data2000,
-    data2010,
-    data2015,
-    data2016,
-    data2017,
-    data2018,
-    data2019,
-    data2020,
-    data2021,
-    data2022,
-    data2023,
-    data2024,
-    data2025,
-    data2026
-}
 
-const table = document.getElementById("timeline");
-const table_cont = document.getElementById("timeline_container");
+let db = [
+    { key: "data2000", entries: data2000 },
+    { key: "data2010", entries: data2010 },
+    { key: "data2015", entries: data2015 },
+    { key: "data2016", entries: data2016 },
+    { key: "data2017", entries: data2017 },
+    { key: "data2018", entries: data2018 },
+    { key: "data2019", entries: data2019 },
+    { key: "data2020", entries: data2020 },
+    { key: "data2021", entries: data2021 },
+    { key: "data2022", entries: data2022 },
+    { key: "data2023", entries: data2023 },
+    { key: "data2024", entries: data2024 },
+    { key: "data2025", entries: data2025 },
+    { key: "data2026", entries: data2026 }
+]
 
-for (const key in databases) {
-    const db = databases[key];   // get the array
-    for (const entry of db) {
-        const row = document.createElement("tr");
+const databases = Array.from(db);
 
-        const year = document.createElement("h3");
-        year.innerHTML = entry.year;
-        year.style.marginBottom = "20px";
-        row.appendChild(year);
+function render_table() {
+    const table = document.getElementById("timeline");
+    table.innerHTML = ""; // clear old rows
 
-        for (const event of entry.events) {
-            const obj = document.createElement("td");
-            if (event.date) {
-                const date = document.createElement("p");
-                date.innerHTML = event.date + "&nbsp;";
-                date.className = "date";
-                obj.appendChild(date);
-            }
+    db.forEach(dataset => {
+        const { entries } = dataset;
+        entries.forEach(entry => {
+            const row = document.createElement("tr");
 
-            if (event.note) {
-                const note = document.createElement("p");
-                note.innerHTML = event.note;
-                note.className = "note";
-                obj.appendChild(note);
-            }
+            const year = document.createElement("h3");
+            year.innerHTML = entry.year;
+            year.style.marginBottom = "20px";
+            row.appendChild(year);
 
-            if (!event.title && event.time) {
-                const time = document.createElement("i");
-                time.innerHTML = "(" + event.time + ")";
-                time.className = event.timeclass;
-                obj.appendChild(time);
-            }
-            if (event.title) {
-                const title = document.createElement("p");
-                title.innerHTML = event.title + "&nbsp;";
-                title.className = "title";
-                if (event.time) {
+            entry.events.forEach(event => {
+                const obj = document.createElement("td");
+                if (event.date) {
+                    const date = document.createElement("p");
+                    date.innerHTML = event.date + "&nbsp;";
+                    date.className = "date";
+                    obj.appendChild(date);
+                }
+
+                if (event.note) {
+                    const note = document.createElement("p");
+                    note.innerHTML = event.note;
+                    note.className = "note";
+                    obj.appendChild(note);
+                }
+
+                if (!event.title && event.time) {
                     const time = document.createElement("i");
                     time.innerHTML = "(" + event.time + ")";
                     time.className = event.timeclass;
-                    title.append(time);
+                    obj.appendChild(time);
                 }
-                obj.appendChild(title);
-            }
-
-
-            if (event.content) {
-                const content = document.createElement("p");
-                content.className = "content";
-                if (event.class) {
-                    content.classList.add(...event.class.split(/\s+/));
-                } else {
-                    content.style.color = "#DDD"
+                if (event.title) {
+                    const title = document.createElement("p");
+                    title.innerHTML = event.title + "&nbsp;";
+                    title.className = "title";
+                    if (event.time) {
+                        const time = document.createElement("i");
+                        time.innerHTML = "(" + event.time + ")";
+                        time.className = event.timeclass;
+                        title.append(time);
+                    }
+                    obj.appendChild(title);
                 }
-                content.innerHTML = event.content;
-                obj.appendChild(content);
-            }
 
-            row.appendChild(obj);
-        }
-        table.appendChild(row);
-    }
+
+                if (event.content) {
+                    const content = document.createElement("p");
+                    content.className = "content";
+                    if (event.class) {
+                        content.classList.add(...event.class.split(/\s+/));
+                    } else {
+                        content.style.color = "#DDD"
+                    }
+                    content.innerHTML = event.content;
+                    obj.appendChild(content);
+                }
+
+                row.appendChild(obj);
+            });
+            table.appendChild(row);
+        });
+    });
 }
 
+render_table();
+
+const form = document.getElementById("select");
+
+//initialise form
+
+Array.from(form.elements).forEach((input) => {
+    const key = input.getAttribute("name");
+    if (input.checked) {
+        // Add dataset
+        toggleDataset(key, true); // true = show
+    } else {
+        // Remove dataset
+        toggleDataset(key, false); // false = hide
+    }
+});
+
+form.addEventListener("change", (event) => {
+    const checkbox = event.target;
+    const key = checkbox.getAttribute("name");
+
+    if (checkbox.checked) {
+        // Add dataset back
+        toggleDataset(key, true); // true = show
+    } else {
+        // Remove dataset
+        toggleDataset(key, false); // false = hide
+    }
+});
+
+function toggleDataset(key, show) {
+    const indexInWorking = db.findIndex(d => d.key == key);
+
+    if (!show && indexInWorking !== -1) {
+        // Remove dataset
+        db.splice(indexInWorking, 1);
+    } else if (show && indexInWorking === -1) {
+        // Add dataset back in original order
+        const originalIndex = databases.findIndex(d => d.key == key);
+        db.splice(originalIndex, 0, databases[originalIndex]);
+    }
+
+    render_table();
+}
+
+const tooltip_container = document.getElementById("legend");
+
+const tooltipList = [
+    {searchString: "CCC", explanationText: ""},
+]

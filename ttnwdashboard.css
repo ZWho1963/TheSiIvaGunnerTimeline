@@ -1,0 +1,70 @@
+﻿#universesMenu {
+	color: #ded8a7;
+	background-color: #103536;
+	position: absolute;
+	width: 430px;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 16px;
+	z-index: 1000;
+	align-items: center;
+	justify-content: center;
+	display: none;
+	flex-direction: column;
+}
+
+#menuTitle {
+	text-align: center;
+	font-family: 'Nukamiso';
+	position: relative;
+	margin-block: 4px;
+	line-height: 0.7;
+	padding: 2px;
+	border-radius: 1px;
+	display: block;
+	font-size: 24px;
+	text-shadow: 1px 1px 5px #888;
+}
+
+#universeViewer {
+	text-align: center;
+	height: 100px;
+	width: 375px;
+	position: relative;
+	padding: 2px;
+	margin-top: 8px;
+	border-radius: 3px;
+	display: block;
+	outline: 1px solid #ddd;
+	padding-left: 10px;
+	background: linear-gradient(rgba(127, 135, 131, 0.7), rgba(81, 87, 84, 0.4));;
+}
+
+#universeController {
+	width: 300px;
+	height: 32px;
+	margin-top: 8px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.universeToggle, #universeName {
+	text-shadow: 1px 1px 5px #888;
+}
+
+.universeToggle {
+		font-size: 16px;
+}
+
+#universeName {
+	font-size: 24px;
+}
+
+#universeDescription {
+	width: 375px;
+	height: 75px;
+	font-size: 14px;
+	text-align: center;
+	text-shadow: 1px 1px 5px #888;
+}

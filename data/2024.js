@@ -21,14 +21,14 @@
             },
             {
                 "date": "January 18",
-                "content": "The SiIvaGunner team attends MAGFest (now known as “Super MAGFest”) for the first time since 2020. <b>Main Theme (PAL-M Version) - Gaylord National Resort & Convention Center</b> is uploaded, beginning Season 8. A rave is held in the POSE Nightclub, with the set later uploaded to the channel on February 3 as ULTIMATE QUALITY ACHIEVED."
+                "content": "The SiIvaGunner team attends MAGFest (now known as \"Super MAGFest\") for the first time since 2020. <b>Main Theme (PAL-M Version) - Gaylord National Resort & Convention Center</b> is uploaded, beginning Season 8. A rave is held in the POSE Nightclub, with the set later uploaded to the channel on February 3 as ULTIMATE QUALITY ACHIEVED."
             },
             {
                 "date": "January 19",
                 "content": "The SiIvaGunner team holds a panel titled \"7 Grand Years of High Quality Rips!\", where they reveal and discuss several pieces of behind-the-scenes information from events and storyline material released after the last MAGFest panel.",
             },
             {
-                "content": "Later in the day, the channel holds its first Chipspace performance, named “[SiIvaGunner II: Rip of Samus]”, in the Potomac Hallway. During Heboyi's <i>Chipspace</i> set, <span class=\"HCB\">he is hacked by an individual named the 'Fisher-Price Hacker', who proceeds to play Heboyi's Fisher-Price Perfect Fit rips, including a MAGFest-themed version of <b>Old MacDonald Had a Farm - Fisher-Price Perfect Fit</b> (see November 29, 2023).</span>"
+                "content": "Later in the day, the channel holds its first Chipspace performance, named \"[SiIvaGunner II: Rip of Samus]\", in the Potomac Hallway. During Heboyi's <i>Chipspace</i> set, <span class=\"HCB\">he is hacked by an individual named the 'Fisher-Price Hacker', who proceeds to play Heboyi's Fisher-Price Perfect Fit rips, including a MAGFest-themed version of <b>Old MacDonald Had a Farm - Fisher-Price Perfect Fit</b> (see November 29, 2023).</span>"
             },
             {
                 "date": "February 3",
@@ -62,7 +62,7 @@
             },
             {
                 "title": "Gameplay - 2048",
-                "content": "The Numberphile interrupts normal gameplay of 2048, adding several “e” tiles. The player receives a game over.",
+                "content": "The Numberphile interrupts normal gameplay of 2048, adding several \"e\" tiles. The player receives a game over.",
                 "class": "NUGGET"
             },
             {
@@ -71,7 +71,7 @@
             },
             {
                 "date": "April 1",
-                "content": "The channel holds an event dedicated to “X but Y” videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups</b> is uploaded, <span class=\"NUGGET\">establishing a relationship between the three characters in future lore material.</span>"
+                "content": "The channel holds an event dedicated to \"X but Y\" videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups</b> is uploaded, <span class=\"NUGGET\">establishing a relationship between the three characters in future lore material.</span>"
             },
             {
                 "title": "Spamton's Theme but it's Kitchen Gun",
@@ -278,7 +278,7 @@
                 "time": "August 10",
                 "timeclass": "KITTY",
                 "title": "Tutorial - Bad Tsunko no Doki Doki Omikuji",
-                "content": "Numberphile begins attacking the Sanrio Universe residents with “e” tiles due to their refusal to learn about the constant e. After killing Pandaba, Charlie greets the numberphile and the two instantly hit it off. Numberphile grants Charlie the power of the constant of “e” and encourages him to kill Tsunko.",
+                "content": "Numberphile begins attacking the Sanrio Universe residents with \"e\" tiles due to their refusal to learn about the constant e. After killing Pandaba, Charlie greets the numberphile and the two instantly hit it off. Numberphile grants Charlie the power of the constant of \"e\" and encourages him to kill Tsunko.",
                 "class": "KITTY"
             },
             {
@@ -317,7 +317,7 @@
             },
             {
                 "title": "Golden Ratio - e",
-                "content": "Gegagedigedagedago and the Omegas use their \"e\" tile to access the Coordinate Plane. A battle breaks out between Gegagedigedagedago, The numberphile and their allies over the fate of the former's species. Near the end of the fight, the numberphile summons the enslaved OI OI OI Red Grub, which causes Charlie to impulsively throw an “e” tile at his former nemesis due to refusing to fight alongside him. <span class=\"KITTY\">Being sent to the Sanrio Universe, Red is killed by Badtz-Maru with a bomb.</span><br><br>The numberphile is enraged by Charlie's betrayal as the latter realizes he made the worst mistake of his life. Meanwhile, Omega Milk is trapped inside Dancing Matt Parker's pie maze, but she manages to escape and defeat the evil mathematician. The fight comes to a close with a rap battle between Gegagedigedagedago and the numberphile, with the latter perishing and leaving the former shocked.",
+                "content": "Gegagedigedagedago and the Omegas use their \"e\" tile to access the Coordinate Plane. A battle breaks out between Gegagedigedagedago, The numberphile and their allies over the fate of the former's species. Near the end of the fight, the numberphile summons the enslaved OI OI OI Red Grub, which causes Charlie to impulsively throw an \"e\" tile at his former nemesis due to refusing to fight alongside him. <span class=\"KITTY\">Being sent to the Sanrio Universe, Red is killed by Badtz-Maru with a bomb.</span><br><br>The numberphile is enraged by Charlie's betrayal as the latter realizes he made the worst mistake of his life. Meanwhile, Omega Milk is trapped inside Dancing Matt Parker's pie maze, but she manages to escape and defeat the evil mathematician. The fight comes to a close with a rap battle between Gegagedigedagedago and the numberphile, with the latter perishing and leaving the former shocked.",
                 "class": "NUGGET"
             },
             {
@@ -369,7 +369,7 @@
                 "content": "The Direct ends in a blaze of glitches and corruptions before a visual of Haltmann's control room from One Last Chance appears, with a screen blinking in Morse code directing viewers to the Haltmann Works Co. Internal Database Portal, the main hub for what would eventually be called the Susie ARG."
             },
             {
-                "note": "Due to the compressed nature of the Susie ARG's solving, any and all content relating to the Susie ARG will be timestamped in Pacific Time in order to line up with SiIvaGunner's time zone. It's branches (<span class=\"OTHER\">BLACK</span>, <span class=\"CCC\">MAXPH</span>, <span class=\"PAINT\">PAINT</span>, <span class=\"AIRTH\">AIRTH</span> and <span class=\"FOOLS\">FOOLS</span>) will be coloured as such. Furthermore, the section of the PAINT branch involving the Omegas will be coloured based on other Omegaverse entries."
+                "note": "Due to the compressed nature of the Susie ARG's solving, any and all content relating to the Susie ARG will be timestamped in Pacific Time in order to line up with SiIvaGunner's time zone. It's branches (<span class=\"OTHER\">BLACK</span>, <span class=\"CCC\">MAXPH</span>, <span class=\"PAINT\">PAINT</span>, <span class=\"AIRTH\">AIRTH</span>, <span class=\"FOOLS\">FOOLS</span> and <span class=\"RESPH\">GRAND</span>) will be coloured as such. Furthermore, the section of the PAINT branch involving the Omegas will be coloured based on other Omegaverse entries."
             },
             {
                 "date": "2:56 PM",
@@ -471,7 +471,7 @@
                 "title": "The Problem - e",
                 "time": "November 28",
                 "timeclass": "NUGGET",
-                "content": "After the events of <b>Golden Ratio - e</b>, Charlie goes on the run and leaves the Coordinate Plane with an “e” portal. Meanwhile, a saddened Gegagedigedagedago explores the Coordinate Plane and discovers a mysterious email addressed to the Numberphile.<br><br>9S' thank you message to Eggnog (this will be addressed later) is erroneously intercepted by Numberphile's computer. A pop-up appears alerting them of the erroneous intercept, and asks them to enter the correct \"t coordinate\" to send the message back into the past. Gedagedi asks the ARG's solvers for help, directing us to the video description.",
+                "content": "After the events of <b>Golden Ratio - e</b>, Charlie goes on the run and leaves the Coordinate Plane with an \"e\" portal. Meanwhile, a saddened Gegagedigedagedago explores the Coordinate Plane and discovers a mysterious email addressed to the Numberphile.<br><br>9S' thank you message to Eggnog (this will be addressed later) is erroneously intercepted by Numberphile's computer. A pop-up appears alerting them of the erroneous intercept, and asks them to enter the correct \"t coordinate\" to send the message back into the past. Gedagedi asks the ARG's solvers for help, directing us to the video description.",
                 "class": "NUGGET"
             },
             {
@@ -565,7 +565,7 @@
                 "title": "Story Mode - Mr. Rental: The Video Game, etc.",
                 "time": "January 31, 2017, after the events of <b>A \"Hard Day's Work\" - Mr Rental: The Video Game</b>",
                 "timeclass": "PAINT",
-                "content": "Eminem is brutally murdered by Mr. Own in his infinite quest to ban mashups. As Mr. Own walks back to his house, 2B runs by and trips Mr. Own, causing to fly off the handle and attempt to ban her. 2B breaks into a nearby car and rams it into Mr. Own, causing him to be transported to Mr. Rental's universe (henceforth known as the Looney Tunes Universe).",
+                "content": "Eminem is brutally murdered by Mr. Own in his infinite quest to ban mashups. As Mr. Own walks back to his house, 2B runs by and trips Mr. Own, causing him to fly off the handle and attempt to ban her. 2B breaks into a nearby car and rams it into Mr. Own, causing him to be transported to Mr. Rental's universe (henceforth known as the Looney Tunes Universe).",
                 "class": "PAINT"
             },
             {
@@ -650,7 +650,7 @@
                 "time": "December 24, 2022, during the events of <b>One Last Chance<b>",
                 "timeclass": "AIRTH",
                 "title": "[SIIVA AI LOG: 2̷̙̝̬͋̈́̏0̴̲̔2̶̨̥̱̜̅̄2̷̜̮̇-̵̡̗͇͂1̵̹̙̜̘́̍̊̕2̵̢̤͆-̸̳̋̉2̵̣̀̉͠4̶͖̦̜̋̚͝ͅ]",
-                "content": "The SiIva AI suddenly begins to shut down after being fatally damaged and overloaded during the battle in Haltmann's laboratory (see January 12, 2024), and is using the last of the Central Computer's power to write this log. He states that he saw his entire life flash before his eyes, even believing he saw Wood Man touch him (see December 25, 2022).<br><br>He notes the universe still exists despite the shutdown, but states that it may enter “low-power mode” and be plunged into an eternal night. In his final moments, the AI sees visions of a hand (see December 24, 2022).",
+                "content": "The SiIva AI suddenly begins to shut down after being fatally damaged and overloaded during the battle in Haltmann's laboratory (see January 12, 2024), and is using the last of the Central Computer's power to write this log. He states that he saw his entire life flash before his eyes, even believing he saw Wood Man touch him (see December 25, 2022).<br><br>He notes the universe still exists despite the shutdown, but states that it may enter \"low-power mode\" and be plunged into an eternal night. In his final moments, the AI sees visions of a hand (see December 24, 2022).",
                 "class": "AIRTH"
             },
             {
@@ -683,7 +683,7 @@
             },
             {
                 "title": "Regarding Susie [FILE-INT-RESPH] - Haltmann's Archives",
-                "content": "Andonuts describes Haltmann, having lost the abilit y to retain memories of him following his death in One Last Chance (see January 12, 2024). He notes that unlike his depiction in <i>Kirby: Planet Robobot</i>, he was fully determined to find Susie and fully able to recognize her, enough so that the Voice's attempts to satisfy him failed (see April 24, 2017).<br><br>Andonuts then elaborates on how every attempt to bring Susie into the CCC had failed, whether it be through the Figment Transportation Device or through the SiIva AI. Andonuts pivots to how Figments are derived through their representations in culture, with Andonuts citing his own origins from the <i>MOTHER</i> series and <i>Earthbound: Halloween Hack</i>. He then proceeds to do the same with Haltmann and Susie, eventually coming to the conclusion that due to the overlap between Haltmann and Susie's figments only one can exist within the CCC (specifically, <i>The Noble Haltmann</i> being prescribed to Haltmann overrides Susie's connection to it through <i>Planet Robobot</i>) and as such, Susie cannot physically exist, with her idea scattered across all of time and space.<br><br>The FILE then cuts to a black void before Susie emerges, in spite of Andonuts' theories, saying that she needs time to rest before properly discussing with the viewers, marking the end of Phase 1 of the Susie ARG.",
+                "content": "Andonuts describes Haltmann, having lost the ability to retain memories of him following his death in One Last Chance (see January 12, 2024). He notes that unlike his depiction in <i>Kirby: Planet Robobot</i>, he was fully determined to find Susie and fully able to recognize her, enough so that the Voice's attempts to satisfy him failed (see April 24, 2017).<br><br>Andonuts then elaborates on how every attempt to bring Susie into the CCC had failed, whether it be through the Figment Transportation Device or through the SiIva AI. Andonuts pivots to how Figments are derived through their representations in culture, with Andonuts citing his own origins from the <i>MOTHER</i> series and <i>Earthbound: Halloween Hack</i>. He then proceeds to do the same with Haltmann and Susie, eventually coming to the conclusion that due to the overlap between Haltmann and Susie's figments only one can exist within the CCC (specifically, <i>The Noble Haltmann</i> being prescribed to Haltmann overrides Susie's connection to it through <i>Planet Robobot</i>) and as such, Susie cannot physically exist, with her idea scattered across all of time and space.<br><br>The FILE then cuts to a black void before Susie emerges, in spite of Andonuts' theories, saying that she needs time to rest before properly discussing with the viewers, marking the end of Phase 1 of the Susie ARG.",
                 "class": "RESPH"
             },
         ]

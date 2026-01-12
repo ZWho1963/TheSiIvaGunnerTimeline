@@ -1,16 +1,80 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="stylesheet" href="style.css">
-		<title>[FILE-INT-SIIVA]</title>
-	</head>
-	<body>
-		<div id="scanlines"></div>
-		<div id="timeline_container">
-			<table id="timeline"></table>
+
+<head>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="ttnwdashboard.css">
+	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/TextPlugin.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/SplitText.min.js"></script>
+	<title>[FILE-INT-SIIVA]</title>
+</head>
+
+<body>
+	<div id="scanlines"></div>
+	<audio controls id="audio"> <source src="hwc_demo.mp3" type="audio/mpeg"></audio>
+	<audio controls id="file_click"> <source src="sfx_s_terminal_power_on.mp3" type="audio/mpeg"></audio>
+	<div id="controls">
+		<br>
+		<br>
+		<b style="margin-left: 197px;">THE HALTMANN WORKS TIMELINE SORTER</b>
+		<form id="select">
+			<input type="checkbox" name="data2000">
+			<label for="data2010">&lt;2000</label>
+			<input type="checkbox" name="data2010">
+			<label for="data2010">2000-2010</label>
+			<label><input type="checkbox" name="data2015"> 2010-2015</label>
+			<label><input type="checkbox" name="data2016"> 2016</label>
+			<label><input type="checkbox" name="data2017"> 2017</label>
+			<label><input type="checkbox" name="data2018"> 2018</label>
+			<label><input type="checkbox" name="data2019"> 2019</label>
+			<label><input type="checkbox" name="data2020"> 2020</label>
+			<label><input type="checkbox" name="data2021"> 2021</label>
+			<label><input type="checkbox" name="data2022"> 2022</label>
+			<label><input type="checkbox" name="data2023"> 2023</label>
+			<label><input type="checkbox" name="data2024" checked> 2024</label>
+			<label><input type="checkbox" name="data2025"> 2025</label>
+			<label><input type="checkbox" name="data2026"> 2026</label>
+		</form>
+		<br>
+		<p id="legend" style="margin:auto; width: 1046px;">ENTRY COLOR CODE: <span class="CCC">CCC
+				(Amethyst)</span>&nbsp;<span class="AIRTH">AIRTH (Aquamarine)</span>&nbsp;<span class="PAINT">Mashup
+				Crusaders (Teal)</span>&nbsp;<span class="OTHER">Miscellanous Universes / Notes (Gray)</span>&nbsp;<span
+				class="FOOLS">Reader and Jerome
+				(Mulberry)</span>&nbsp;<span class="NUGGET">Omegaverse (Sandy Brown)</span>&nbsp;<span class="GORK">Real
+				Life Skits (Bone)</span>&nbsp;<span class="SPIDA">Itsy Bitsy Spider (Buff)</span>&nbsp;<span
+				class="HCB">HCB.exe (Steel Blue)</span>&nbsp;<span class="KITTY">Sanrio Universe
+				(Lilac)</span>&nbsp;<span class="KIRBY">Kirby Fighters
+				(Orchid)</span>&nbsp;<span class="RESPH">Phase 2 Susie ARG (Violet)</span>&nbsp;<span
+				class="NOAKA">Noaka
+				(Slate Gray)</span></p>
+		<br>
+		<br>
+	</div>
+	<div style="width: 100vw; height: 100vh; display: flex; z-index: -1; position: absolute;">
+		<h2 id="welcome" style="font-family:'Primetime'; margin:auto; height: 40px; font-size: 40px;">WELCOME TO
+			SIIVAGUNNER!</h2>
+	</div>
+	<div id="timeline_container">
+		<div style="width: 100vw; height: 100vh; z-index: -1; position: absolute;">
+			<div id="terminal">
+				<p id="line1"></p><br>
+				<p id="line2"></p><span id="dots1"></span>
+				<p id="line2a"></p><br>
+				<p id="line3"></p><span id="dots2"></span>
+				<p id="line3a"></p><br>
+				<p id="line4"></p><span id="dots3"></span>
+				<p id="line4a"></p><br>
+			</div>
+			<p id="file_contents"></p>
 		</div>
-		<script type="module" src="timeline.js"></script>
-	</body>
-	<script src="/gsap/gsap.min.js"></script>
+		<table id="timeline"></table>
+	</div>
+	<div id="background"></div>
+</body>
+<script src="/gsap/gsap.min.js"></script>
+<script type="module" src="universesMenu.js"></script>
+<script type="module" src="timeline.js"></script>
+<script type="module" src="typewriter.js"></script>
+
 </html>
-<!-- <script type="module" src="animation.js"></script> -->	
+<!-- <script type="module" src="animation.js"></script> -->

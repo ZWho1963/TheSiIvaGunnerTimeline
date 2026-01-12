@@ -16,7 +16,7 @@
             },
             {
                 "date": "January 10",
-                "content": "PinkDeerfox tweets an edited screenshot of the “you like kissing boys” GIF in which the cat's eyes are painted black and the text reads, \"you like kissing boys don't you\"."
+                "content": "PinkDeerfox tweets an edited screenshot of the \"you like kissing boys\" GIF in which the cat's eyes are painted black and the text reads, \"you like kissing boys don't you\"."
             },
             {
                 "date": "February 1",

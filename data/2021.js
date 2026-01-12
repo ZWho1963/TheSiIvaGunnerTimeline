@@ -120,7 +120,7 @@
             },
             {
                 "date": "August 26",
-                "content": "Gabe Newell announces his takeover will have a third day's worth of rips through a tweet, though it in actuality only consisted of two uploads in reference to the “Valve can't count to 3 meme”.",
+                "content": "Gabe Newell announces his takeover will have a third day's worth of rips through a tweet, though it in actuality only consisted of two uploads in reference to the \"Valve can't count to 3 meme\".",
                 "class": "OTHER"
             },
             {

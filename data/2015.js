@@ -27,7 +27,7 @@ export const data2015 = [
             },
             {
                 "date": "October 10",
-                "content": "YouTube user “I should do something with this channel sometime” uploads a remix of the track Slider from <i>Super Mario 64</i> using several audio clips of Loud [Friend]. The video gains immense popularity and Loud [Friend] becomes a meme."
+                "content": "YouTube user \"I should do something with this channel sometime\" uploads a remix of the track Slider from <i>Super Mario 64</i> using several audio clips of Loud [Friend]. The video gains immense popularity and Loud [Friend] becomes a meme."
             },
             {
                 "date": "October 2",
@@ -121,7 +121,7 @@ export const data2015 = [
                 "content": "According to Kevin Wang, a mashup genre known as SoundClown becomes popular on SoundCloud around this time."
             },
             {
-                "content": "Proto debuts in the ad spot “</i>Are Your Students Safe In School?</i>”, a ripoff of Whyatt from <i>Super Why!</i>. The first version of Protegent 360 is released around this time."
+                "content": "Proto debuts in the ad spot \"</i>Are Your Students Safe In School?</i>\", a ripoff of Whyatt from <i>Super Why!</i>. The first version of Protegent 360 is released around this time."
             },
             {
                 "date": "January 24",
@@ -174,7 +174,7 @@ export const data2015 = [
             },
             {
                 "date": "September 16",
-                "content": "Triple-Q uploads an edited version of <i>Unknown from M.E.</i> from <I>Sonic Adventure</i>, replacing most lyrics with “Knuckles” under the title <i>Knuckles from K.N.U.C.K.L.E.S. & Knuckles</i>."
+                "content": "Triple-Q uploads an edited version of <i>Unknown from M.E.</i> from <I>Sonic Adventure</i>, replacing most lyrics with \"Knuckles\" under the title <i>Knuckles from K.N.U.C.K.L.E.S. & Knuckles</i>."
             },
             {
                 "date": "October 3",

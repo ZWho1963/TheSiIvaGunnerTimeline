@@ -1,52 +1,79 @@
-/* CSS Document */
 @font-face {
-	font-family: 'Rodin';
-	font-weight: normal;
-	font-style: normal;
-	src: url(fonts/Rodin-Regular.ttf) format("truetype");
-}
-
-@font-face {
-	font-family: 'Rodin-Bold';
-	font-weight: bold;
-	font-style: normal;
-	src: url(fonts/Rodin-Bold.ttf) format("truetype");
-}
-
-@font-face {
-	font-family: 'Seurat DB';
-	font-weight: normal;
-	font-style: normal;
-	src: url(fonts/FOT-SeuratPro-DB.otf) format("opentype");
-}
-
-@font-face {
-	font-family: 'Seurat M';
-	font-weight: normal;
-	font-style: normal;
-	src: url(fonts/FOT-SeuratPro-M.otf) format("opentype");
-}
-
-@font-face {
-	font-family: 'Nukamisto';
+	font-family: 'Nukamiso';
 	font-weight: normal;
 	font-style: normal;
 	src: url(fonts/nukamiso__beta08.ttf) format("truetype");
 }
 
-* {
-	background-color: #111;
+
+/* minindo-verified haltmann FILE font */
+
+@font-face {
+	font-family: 'Primetime';
+	font-weight: normal;
+	font-style: normal;
+	src: url(fonts/primetime-webfont.woff2) format("woff2");
 }
+
+/* haltmann logo font from hwcinternaldb */
 
 :root {
 	scrollbar-width: none;
 }
 
 body {
+	background-color: #181818;
+}
+
+#background {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	z-index: -1;
+	background-image: url('sg10.svg');
+  	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 33% 66%;
+	filter: blur(2px) opacity(12.5%);
+	opacity: 0;
+}
+
+#controls {
+	width: 100vw;
+	height: fit-content;
+	justify-content: center;
+	align-content: center;
+	position: fixed;
+	background-color: rgba(16, 16, 16, 0.85);
+	border-bottom: 2px #ddd solid;
+	transition: 3s;
+	top: -172.5px;
+}
+
+#audio, #file_click {
+	display: none;
+}
+
+#select {
+	background-color: inherit;
+	margin: auto;
+	text-align: center;
+	width: fit-content;
+}
+
+
+button {
 	color: #ddd;
-	font-family: 'Nukamisto';
+	font-family: 'Nukamiso';
+	font-size: 1em;
+}
+
+body {
+	color: #ddd;
+	font-family: 'Nukamiso';
 	margin: 0;
-	overflow: auto;
+	overflow: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -56,41 +83,47 @@ body {
 p {
 	margin: 0;
 	font-size: 1em;
-	/*font-family: 'Seurat DB'*/
 }
 
 h3 {
 	font-size: 1.5em;
 	margin-top: 0px;
 	margin-bottom: 20px;
-	color: #888888;
+	color: gray;
 }
 
 h4,
 .title {
 	margin-left: 0px;
 	margin-top: 0;
-	color: #888888;
+	color: gray;
 }
 
 .note {
 	font-style: italic;
 	margin-bottom: 20px;
-	color: #888888;
+	color: gray;
 }
 
 .archive {
-	color: yellow;
+	color: #ddd;
 }
 
-;
 
 .date {
-	color: #888888;
+	color: gray;
 }
 
 #timeline {
 	width: 67%;
+	margin-top: 190px;
+	opacity: 0;
+}
+
+#timeline_container {
+	height: 100vh;
+	overflow-y: hidden;
+	overflow-x: hidden;
 }
 
 .content {
@@ -113,64 +146,75 @@ table {
 }
 
 .AIRTH {
-	color: #60D6A9;
+	color: #66DDAA;
 }
 
 .CCC {
-	color: #8256B8;
+	color: #9966cc;
 }
 
 .KIRBY {
-	color: #DF6BDF;
+	color: orchid;
 }
 
 .PAINT {
-	color: #008080;
+	color: teal;
 }
 
 .OTHER {
-	color: #888;
+	color: gray;
 }
 
 .FOOLS {
-	color: #a64d79;
+	color: #c54b8c;
 }
 
 .NUGGET {
-	color: #E6A84B;
+	color: #F4A460;
 }
 
 .GORK {
-	color: #D5CAB0;
+	color: #E3DAC9;
 }
 
 .SPIDA {
-	color: #F8DD85;
+	color: #F0DC82;
 }
 
 .HCB {
-	color: #4d7780;
+	color: #4682B4;
 }
 
 .KITTY {
-	color: #d5a6bd;
+	color: #C8A2C8;
 }
 
 .RESPH {
-	color: #97659c;
+	color: #963D7F;
 }
 
 .NOAKA {
-	color: #8a80b1;
+	color: #778899;
+}
+
+#terminal {
+	font-family: 'Nukamiso';
+	display: block;
+	margin-top: 2em;
+	margin-left: 2em;
+	white-space-collapse: collapse;
+	p, span {
+		display:inline;
+	}
 }
 
 #scanlines {
-	mix-blend-mode: luminosity;
+	mix-blend-mode: multiply;
+	filter: grayscale(100%);
 	top: 0;
 	left: 0;
 	position: absolute;
 	width: 100%;
-	filter: hue-rotate(200deg);
 	opacity: 30%;
 	height: 100%;
 	background-repeat: repeat;

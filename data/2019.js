@@ -257,7 +257,7 @@
                 "title": "Jazz Cats: The Ballads of Naxx and Doge - SiIvaGunner: King for Another Day",
                 "time": "One day after the events of <b>Jazz Cats: The Beginning</b>",
                 "timeclass": "AIRTH",
-                "content": "Naxx and Doge meet up, both lamenting the fact they didn't get laid. The two decide to cope by writing a song together. They arrive at the practice rooms, where Shades DuPris is. Shades DuPris leaves and sees Doge and Naxx, briefly talking to them. Naxx and Doge get very far into writing their song and go to bed.<br><br>Meanwhile, Soph (or “Agent Blue”, as she is revealed here to be an undercover operative) talks to someone named Crowe, detailing the events of last night and how she was able to get so much information out of the date, especially something regarding a cat with strange abilities.",
+                "content": "Naxx and Doge meet up, both lamenting the fact they didn't get laid. The two decide to cope by writing a song together. They arrive at the practice rooms, where Shades DuPris is. Shades DuPris leaves and sees Doge and Naxx, briefly talking to them. Naxx and Doge get very far into writing their song and go to bed.<br><br>Meanwhile, Soph (or \"Agent Blue\", as she is revealed here to be an undercover operative) talks to someone named Crowe, detailing the events of last night and how she was able to get so much information out of the date, especially something regarding a cat with strange abilities.",
                 "class": "OTHER"
             },
             {

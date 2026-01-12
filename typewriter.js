@@ -43,7 +43,6 @@ tl.to("#line1", { duration: 1, text: "HWAC Public Access Portal v2026.01", ease:
 		delay: 1.5
 	})
 	.to("#background", { duration: 2.5, opacity: 1, ease: "in"}, '<')
-	.to("#timeline", { duration: 0.5, opacity: 1, ease: "none", delay: 1}, '<')
-	.to("#controls", { duration: 0.125, top: 0, ease: "none"}, '<')
+	.to("#timeline", { duration: 0.1, opacity: 1, ease: "none", delay: 1}, '<')
+	.to("#controls", { duration: 0.1, top: 0, ease: "none"}, '<')
 	.to("#timeline_container", { duration: 0, overflowY: "auto"})
-	.to("#timeline_container", { duration: 0, scrollbarWidth: "0px"})

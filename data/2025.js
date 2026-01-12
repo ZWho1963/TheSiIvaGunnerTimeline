@@ -181,9 +181,14 @@
                 "class": "NUGGET"
             },
             {
+                "title": "Puzzle (Dec 20, 2024) - Puzzle of the Day<br>Answer (Dec 20, 2024) - Puzzle of the Day",
+                "content": "Dr. Andonuts installs Noaka onto a crummy Hogulak 2000 computer to isolate it from HWC's systems. Noaka, seemingly aware of its environment, pleads with Andonuts to set it free, which he does not.",
+                "class": "NOAKA"
+            },
+            {
                 "date": "April 2",
                 "title": "Your New Home - The Amazing Digital Circus",
-                "content": "Pomni wakes up in the Mesa and befriends Gegagedigedagedago. When the two travel to Super Mario World so Pomni can meet Gegagedigedagedago’s other friends, they end up meeting Boykisser and befriending him as well. At the trio’s destination, Pomni meets Springtrap, Skibidi Toilet and DaddySpeed and is invited to their picnic. After the picnic’s conclusion, Pomni talks about how Boykisser has invited her and Gegagedi to play video games with him and that she’s starting to feel at home in her new world.",
+                "content": "Pomni wakes up in the Mesa and befriends Gegagedigedagedago. When the two travel to Super Mario World so Pomni can meet Gegagedigedagedago's other friends, they end up meeting Boykisser and befriending him as well. At the trio's destination, Pomni meets Springtrap, Skibidi Toilet and DaddySpeed and is invited to their picnic. After the picnic's conclusion, Pomni talks about how Boykisser has invited her and Gegagedi to play video games with him and that she's starting to feel at home in her new world.",
                 "class": "NUGGET"
             },
             {
@@ -327,6 +332,15 @@
                 "class": "CCC"
             },
             {
+                "date": "April 23",
+                "content": "SiIvaGunner celebrates the 20th anniversary of the first ever Youtube video: Jawed's <i>Me at the zoo</i>. <b>YouTube [FILE-20]</b> is uploaded as part of this event."
+            },
+            {
+                "title": "YouTube [FILE-20] - Haltmann's Archives",
+                "content": "Andonuts details the significance of Youtube within the Central Canon Continuum, alongside how it influenced the context behind the Christmas Comeback Crisis: firstly, it confirms the idea that SiIvaGunner's lifeforce is tied to the SiIvaGunner channel (see <b>Termination - [FILE-02]</b>, October 8, 2017). Secondly, it reveals that Chad Warden's promotion of SiIvaGunner pushed many celebrities, artists and musicians to flock to Rotterdam in a collective bid to collaborate with him, explaining how figures like Snoop Dogg and Soulja Boy were in the Netherlands.",
+                "class": "CCC"
+            },
+            {
                 "date": "May 8",
                 "content": "The Joke-Explainer™ 7000 announces that the SiIvaGunner channel would undergo a bout of 'spring cleaning', uploading soundtracks and compilations of previous lore videos in order to better document and preserve them."
             },
@@ -354,7 +368,7 @@
                 "time": "November 29, 2024",
                 "timeclass": "HCB",
                 "title": "Game Over - Fisher-Price Perfect Fit",
-                "content": "The Fisher-Price Hacker hosts part 2 of his tutorial. During this tutorial, HCB.exe is upgraded to the point where he’s able to remove access to the channel from other users. The Fisher-Price Hacker attempts to fully take over SiIvaGunner, with HCB reluctantly complying and uploading several Fisher-Price Perfect Fit rips. However, before the process of removing other users is finished, HCB terminates it because they don't want to end up on the bad side of the fans and ends up crashing.<br><br>The Fisher-Price Hacker ends his tutorial off by claiming it's their final video and deems HCB a failure. Unbeknownst to them, HCB.exe managed to survive his crash by backing himself up.",
+                "content": "The Fisher-Price Hacker hosts part 2 of his tutorial. During this tutorial, HCB.exe is upgraded to the point where he's able to remove access to the channel from other users. The Fisher-Price Hacker attempts to fully take over SiIvaGunner, with HCB reluctantly complying and uploading several Fisher-Price Perfect Fit rips. However, before the process of removing other users is finished, HCB terminates it because they don't want to end up on the bad side of the fans and ends up crashing.<br><br>The Fisher-Price Hacker ends his tutorial off by claiming it's their final video and deems HCB a failure. Unbeknownst to them, HCB.exe managed to survive his crash by backing himself up.",
                 "class": "HCB"
             },
             {
@@ -433,7 +447,7 @@
                 "time": "Some time after November 29, 2024 and January 19, 2025",
                 "timeclass": "HCB",
                 "title": "Here We Are (2024/2025 Edition) - Undertale",
-                "content": "HCB writes two logs: ‘ENTRY NUMBER’, where they detail their growing frustration towards the channel’s viewers not liking them despite making rips of their favorite games and stopping themselves from taking over SiIvaGunner, and ENnnnntRRY, where he details how their house has been destroyed since the Fisher-Price Hacker's fight at Super MAGFest 2025 and that they haven't been uploaded due to being worried that the Joke-Explainer would find him out.<br><br>Having discovered the other universes through the channel's lore videos, HCB comes up with a plan to harness them in an attempt to restore his control over the channel and sets out to find the items he needs to fulfill his plan.",
+                "content": "HCB writes two logs: ‘ENTRY NUMBER', where they detail their growing frustration towards the channel's viewers not liking them despite making rips of their favorite games and stopping themselves from taking over SiIvaGunner, and ENnnnntRRY, where he details how their house has been destroyed since the Fisher-Price Hacker's fight at Super MAGFest 2025 and that they haven't been uploaded due to being worried that the Joke-Explainer would find him out.<br><br>Having discovered the other universes through the channel's lore videos, HCB comes up with a plan to harness them in an attempt to restore his control over the channel and sets out to find the items he needs to fulfill his plan.",
                 "class": "HCB"
             },
             {
@@ -722,6 +736,12 @@
                 "class": "NUGGET"
             },
             {
+                "date": "October 24",
+                "title": "Tracen Ondo - Umamusume: Pretty Derby",
+                "content": "GoldShip (currently trained by Jerma985) decides to enter the Japan Waterspout Cup. Jerma, having no way to actually train GoldShip for such a tournament, decides to enlist the Itsy Bitsy Spider for help. After a few months of training, the day of the Cup arrives: GoldShip realises she can't actually <i>fit</i> in the waterspouts (duh), but she formulates a plan  - she grinds down her spout with the MEAT GRINDATIUM v7.0 to a point where she can easily step on the top of the shortened spout and win the race.",
+                "class": "SPIDA"
+            },
+            {
                 "date": "October 25",
                 "title": "Sea of Secrets - Episode 1",
                 "content": "Dr. Andonuts briefs the Joke-Explainer™ 7000 on a mission to investigate unidentified signals in Grandiose Bay detected by HWC systems. JE is already aware of this, given her repeated requests to go on a field mission; Andonuts worries about her safety given recent events (see <b>Cognitive Dissonance</b>, December 21, 2024), but she reassures him that she'll be safe, promising to update him with regular reports.",
@@ -762,7 +782,7 @@
                 "title": "Trailer Theme - Iron Lung: The Movie",
                 "time": "August 10, 2024",
                 "timeclass": "NUGGET",
-                "content": "Charlie has a dream where he tells the SiIvaGunner audience his life story, including how he first met and befriended the Numberphile:<br><br>Prior to the events of <b>Hello, Friend! - Hello Kitty Island Adventure</b>, the Larva Yakuza arrive on ei ei ei vacation island and take it as their new headquarters by bribing the government to frame Charlie for their crimes. Charlie is put on trial for money laundering and is sentenced to a lifetime’s worth of community service/public torture in the Charlie, The Steak factory.<br><br>After the events of <b>Tutorial - Bad Tsunko no Doki Doki Omikuji</b>Charlie explains his situation involving his island and the Larva Yakuza to the numberphile. The two make a deal where they help each other with their problems, with Charlie regaining his island thanks to the numberphile. Unbeknownst to the steak, numberphile had slaughtered half of the Larva Yakuza and enslaved their leader, the OI OI OI Red Grub, to do so. He is awoken from this dream by Krater, who receives information from Pink and Yellow that a boat is headed towards the island's shore.",
+                "content": "Charlie has a dream where he tells the SiIvaGunner audience his life story, including how he first met and befriended the Numberphile:<br><br>Prior to the events of <b>Hello, Friend! - Hello Kitty Island Adventure</b>, the Larva Yakuza arrive on ei ei ei vacation island and take it as their new headquarters by bribing the government to frame Charlie for their crimes. Charlie is put on trial for money laundering and is sentenced to a lifetime's worth of community service/public torture in the Charlie, The Steak factory.<br><br>After the events of <b>Tutorial - Bad Tsunko no Doki Doki Omikuji</b>Charlie explains his situation involving his island and the Larva Yakuza to the numberphile. The two make a deal where they help each other with their problems, with Charlie regaining his island thanks to the numberphile. Unbeknownst to the steak, numberphile had slaughtered half of the Larva Yakuza and enslaved their leader, the OI OI OI Red Grub, to do so. He is awoken from this dream by Krater, who receives information from Pink and Yellow that a boat is headed towards the island's shore.",
                 "class": "NUGGET",
             },
             {

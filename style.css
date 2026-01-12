@@ -34,7 +34,7 @@ body {
 	background-image: url('sg10.svg');
   	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 33% 66%;
+	background-size: 33vw 33vw;
 	filter: blur(2px) opacity(12.5%);
 	opacity: 0;
 }

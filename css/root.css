@@ -1,0 +1,68 @@
+﻿@font-face {
+	font-family: 'Nukamiso';
+	font-weight: normal;
+	font-style: normal;
+	src: url(../fonts/nukamiso__beta08.ttf) format("truetype");
+}
+
+/* minindo-verified haltmann FILE font */
+
+@font-face {
+	font-family: 'Primetime';
+	font-weight: normal;
+	font-style: normal;
+	src: url(../fonts/primetime-webfont.woff2) format("woff2");
+}
+
+/* haltmann logo font from hwcinternaldb */
+
+:root {
+	scrollbar-width: none;
+}
+
+body {
+	background-color: #181818;
+    font-family: 'Nukamiso';
+}
+
+#scanlines {
+	mix-blend-mode: multiply;
+	filter: grayscale(100%);
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: 100%;
+	opacity: 30%;
+	height: 100%;
+	background-repeat: repeat;
+	background-position-y: 2px;
+	animation: move 1s linear 0s forwards infinite;
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABXSURBVDhPrdKhDYBgDEThKzRIBCuhWQjPRlhWIgENhP7JjfA+9dSJpvEqT4HiUbe7EfEpVzeiBvvZjahBjW5EG5zciBocFjei3XBzI9ofHm5EXMrbDZB+9YgPBHp56akAAAAASUVORK5CYII=');
+	pointer-events: none;
+	z-index: 9999;
+}
+
+@keyframes move {
+	from {
+		background-position-y: 0px;
+	}
+
+	to {
+		background-position-y: 10px;
+	}
+}
+
+#background {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+    top: 0;
+    left: 0;
+	z-index: 0;
+	background-image: url('/miscellaneous/sg10.svg');
+  	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 33vw 33vw;
+	filter: blur(2px) opacity(12.5%);
+	opacity: 1;
+}

@@ -1,0 +1,169 @@
+#controls {
+	width: 100vw;
+	height: fit-content;
+	justify-content: center;
+	align-content: center;
+	position: fixed;
+	background-color: rgba(16, 16, 16, 0.85);
+	border-bottom: 2px #ddd solid;
+	transition: 3s;
+	top: -186px;
+}
+
+#audio, #file_click {
+	display: none;
+}
+
+#select {
+	background-color: inherit;
+	margin: auto;
+	text-align: center;
+	width: fit-content;
+}
+
+
+button {
+	color: #ddd;
+	font-family: 'Nukamiso';
+	font-size: 1em;
+}
+
+body {
+	color: #ddd;
+	font-family: 'Nukamiso';
+	margin: 0;
+	overflow: hidden;
+}
+
+::-webkit-scrollbar {
+	width: 0px;
+}
+
+p {
+	margin: 0;
+	font-size: 1em;
+}
+
+h3 {
+	font-size: 1.5em;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	color: gray;
+}
+
+h4,
+.title {
+	margin-left: 0px;
+	margin-top: 0;
+	color: gray;
+}
+
+.note {
+	font-style: italic;
+	margin-bottom: 20px;
+	color: gray;
+}
+
+.archive {
+	color: #ddd;
+}
+
+
+.date {
+	color: gray;
+}
+
+#timeline {
+	width: 67%;
+	margin-top: 210px;
+	opacity: 0;
+}
+
+#timeline_container {
+	height: 100vh;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	scrollbar-width: none;
+}
+
+.content {
+	font-size: 1em;
+	margin-left: 2em;
+	margin-bottom: 20px;
+}
+
+tr {
+	display: flex;
+	flex-direction: column;
+}
+
+table {
+	margin-left: 7em;
+}
+
+.double-entry {
+	margin-bottom: 1em;
+}
+
+.AIRTH {
+	color: #66DDAA;
+}
+
+.CCC {
+	color: #9966cc;
+}
+
+.KIRBY {
+	color: orchid;
+}
+
+.PAINT {
+	color: teal;
+}
+
+.OTHER {
+	color: gray;
+}
+
+.FOOLS {
+	color: #c54b8c;
+}
+
+.NUGGET {
+	color: #F4A460;
+}
+
+.GORK {
+	color: #E3DAC9;
+}
+
+.SPIDA {
+	color: #F0DC82;
+}
+
+.HCB {
+	color: #4682B4;
+}
+
+.KITTY {
+	color: #C8A2C8;
+}
+
+.RESPH {
+	color: #963D7F;
+}
+
+.NOAKA {
+	color: #778899;
+}
+
+#terminal {
+	font-family: 'Nukamiso';
+	display: block;
+	margin-top: 2em;
+	margin-left: 2em;
+	white-space-collapse: collapse;
+	p, span {
+		display:inline;
+	}
+}

@@ -86,7 +86,7 @@ export const data2010 = [
         "events": [
             {
                 "date": "February 14",
-                "content": "American social media and online video sharing platform YouTube is established; co-founder Jawed Karim posts the first ever video, titled 'me at the zoo'."
+                "content": "American social media and online video sharing platform YouTube is established; co-founder Jawed Karim posts the first ever video, titled <i>me at the zoo</i>."
             },
             {
                 "date": "June 7",

@@ -994,7 +994,7 @@
             {
                 "time": "January 4 and April 1, 2019",
                 "title": "Second Termination [FILE-19] - Haltmann's Archives",
-                "content": "The FILEs contents are presented through a series of chat logs between 2 HWC employees. The second log, dated April 1 (see Unusual Circumstances) is the most lore-relevant: it reveals that like the termination of GiIvaSunner (see [FILE-02], October 8, 2017), SiIvaGunner effectively died when the channel got terminated, and HWC had to pump him full of Christmas Spirit to keep him alive. Following this fiasco, Andonuts intentionally lies to HWC in saying that the Grinch's takeover and subsuquent influence in the termination of the channel were due to the AI taking on his personality, which reveals why [FILE-15] (see December 14, 2021) contradicted [FILE-16] and [FILE-INT-AIRTH] (see December 31, 2022 and December 22, 2024).",
+                "content": "The FILEs contents are presented through a series of chat logs between 2 HWC employees. The second log, dated April 1 (see Unusual Circumstances) is the most lore-relevant: it reveals that like the termination of GiIvaSunner (see <b>[FILE-02]</b>, October 8, 2017), SiIvaGunner effectively died when the channel got terminated, and HWC had to pump him full of Christmas Spirit to keep him alive. Following this fiasco, Andonuts intentionally lies to HWC in saying that the Grinch's takeover and subsuquent influence in the termination of the channel were due to the AI taking on his personality, which reveals why <b>[FILE-15]</b> (see December 14, 2021) contradicted <b>[FILE-16]</b> and <b>[FILE-INT-AIRTH]</b> (see December 31, 2022 and December 22, 2024).",
                 "class": "CCC"
             },
             {
@@ -1014,7 +1014,7 @@
             },
             {
                 "title": "MissingNo. [FILE-23] - Haltmann's Archives",
-                "content": "The FILE initially opens with a description of MissingNo, its nature as a Tier 3 Anomaly and its history with the inhabitants of AIRTH and the contestants from the King for Another Day Tournament. Dr. Andonuts proceeds to add three addendums to the file:.",
+                "content": "The FILE initially opens with a description of MissingNo, its nature as a Tier 3 Anomaly and its history with the inhabitants of AIRTH and the contestants from the King for Another Day Tournament, written by Dr. Colress. Dr. Andonuts proceeds to add three addendums to the file:.",
                 "class": "CCC",
             },
             {
@@ -1026,7 +1026,7 @@
                 "class": "CCC"
             },
             {
-                "content": "The third addendum, written after <b>MissingNo. Fusion Collab</b>, contains Andonuts' reflections on the event,ending the FILE off by stating he's unable to rest with the memories of what he's done, pondering if it was truly the best option and hoping both he and MissingNo. will be able to move forward from this.",
+                "content": "The third addendum, written after <b>MissingNo. Fusion Collab</b>, contains Andonuts' reflections on the event, ending the FILE off by stating he's unable to rest with the memories of what he's done, pondering if it was truly the best option and hoping both he and MissingNo. will be able to move forward from this.",
                 "class": "CCC"
             },
             {

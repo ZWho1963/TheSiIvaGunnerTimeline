@@ -143,6 +143,15 @@ export const data2000 = [
         ]
     },
     {
+        "year": "1969",
+        "events": [
+            {
+                "date": "November 10",
+                "content": "Sesame Street debuts on PBS."
+            }
+        ]
+    },
+    {
         "year": "1971",
         "events": [
             {
@@ -164,7 +173,7 @@ export const data2000 = [
         "year": "1974",
         "events": [
             {
-                "content": "Grimace's role in McDonalds lore is changed from antagonist to protagonist, apparently taking his arms in the process."
+                "content": "Grimace's role in McDonalds lore is changed from antagonist to protagonist."
             }
         ]
     },
@@ -234,7 +243,7 @@ export const data2000 = [
             },
             {
                 "date": "November 20",
-                "content": "Dragon Ball is first published in Japan in the magazine Weekly Shōnen Jump."
+                "content": "<i>Dragon Ball</i> is first published in Japan in the magazine <i>Weekly Shōnen Jump</i>."
             }
         ]
     },

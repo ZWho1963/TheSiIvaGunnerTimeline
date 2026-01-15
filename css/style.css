@@ -7,7 +7,13 @@
 	background-color: rgba(16, 16, 16, 0.85);
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
-	top: -186px;
+	font-family: 'Aldrich';
+}
+
+#legend {
+	margin: auto;
+	width: 1046px;
+	text-align: left;
 }
 
 #audio, #file_click {
@@ -20,9 +26,17 @@
 	text-align: left;
 	width: fit-content;
 	width: 1046px;
+	display: flex;
+	flex-direction: row;
 
 	label {
 		padding-inline: .33em;
+		cursor: pointer;
+		transition: 0.5s ease-out;
+	}
+
+	input {
+		display: none;
 	}
 }
 
@@ -80,13 +94,13 @@ h4,
 
 #timeline {
 	width: 67%;
-	margin-top: 210px;
-	opacity: 0;
+	margin-top: 225px;
+	opacity: 1;
 }
 
 #timeline_container {
 	height: 100vh;
-	overflow-y: hidden;
+	overflow-y: auto;
 	overflow-x: hidden;
 	scrollbar-width: none;
 }
@@ -171,4 +185,8 @@ table {
 	p, span {
 		display:inline;
 	}
+}
+
+.enabled_glow {
+	text-shadow: 0px 0px 10px rgba(221, 221, 221, 0.67), 0px 0px 20px rgba(221, 221, 221, 0.67);
 }

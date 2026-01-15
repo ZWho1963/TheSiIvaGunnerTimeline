@@ -126,27 +126,31 @@ Array.from(form.elements).forEach((input) => {
     }
 });
 
-form.addEventListener("change", (event) => {
-    const checkbox = event.target;
-    const key = checkbox.getAttribute("name");
-    // Compute checked checkboxes
-    const checkedBoxes = Array.from(form.elements)
-    .filter(el => el.type === "checkbox" && el.checked);
+form.querySelectorAll("label").forEach((label) => {
+    label.classList.add("enabled_glow");
+    label.addEventListener("click", function () {
+        const key = this.htmlFor
+        const associatedInput = document.getElementsByName(key)[0];
 
-    let data_count = checkedBoxes.length;
-
-    // Update dataset based on this checkbox
-    if (checkbox.checked) {
-        toggleDataset(key, true);
-    } else if (data_count >= 1) {
-        toggleDataset(key, false);
-    } else {
-        checkbox.checked = true;
-        alert("You can't have an empty timeline!")
-        return;
-    }
-    console.log(data_count);
-
+        if (associatedInput.checked == true) {
+            if (data_count == 1) {
+                console.log("You can't have an empty timeline!");
+                return;
+            } else {
+                associatedInput.checked = false;
+                label.classList.toggle("enabled_glow");
+                toggleDataset(key, false);
+                console.log("Deleted " + key + " from viewable list");
+                data_count -= 1;
+            };
+        } else if (associatedInput.checked == false) {
+            associatedInput.checked = true;
+            label.classList.toggle("enabled_glow");
+            toggleDataset(key, true);
+            console.log("Added " + key + " to viewable list");
+            data_count += 1;
+        };
+    });
 });
 
 function toggleDataset(key, show) {
@@ -154,7 +158,7 @@ function toggleDataset(key, show) {
 
     if (!show && indexInDb !== -1) {
         db.splice(indexInDb, 1);
-    } 
+    }
     else if (show && indexInDb == -1) {
         const originalIndex = databases.findIndex(d => d.key == key);
 

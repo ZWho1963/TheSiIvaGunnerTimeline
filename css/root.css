@@ -76,5 +76,5 @@ body {
 	background-size: 33vw 33vw;
 	filter: blur(2px) opacity(6.125%);
 	pointer-events: none;
-	opacity: 1;
+	opacity: 0;
 }

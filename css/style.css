@@ -7,6 +7,7 @@
 	background-color: rgba(16, 16, 16, 0.85);
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
+	top: -207px;
 	font-family: 'Aldrich';
 }
 
@@ -43,13 +44,11 @@
 
 button {
 	color: #ddd;
-	font-family: 'Nukamiso';
 	font-size: 1em;
 }
 
 body {
 	color: #ddd;
-	font-family: 'Nukamiso';
 	margin: 0;
 	overflow: hidden;
 }
@@ -95,12 +94,12 @@ h4,
 #timeline {
 	width: 67%;
 	margin-top: 225px;
-	opacity: 1;
+	opacity: 0;
 }
 
 #timeline_container {
 	height: 100vh;
-	overflow-y: auto;
+	overflow-y: hidden;
 	overflow-x: hidden;
 	scrollbar-width: none;
 }
@@ -177,7 +176,6 @@ table {
 }
 
 #terminal {
-	font-family: 'Nukamiso';
 	display: block;
 	margin-top: 2em;
 	margin-left: 2em;

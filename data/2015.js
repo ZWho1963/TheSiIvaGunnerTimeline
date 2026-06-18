@@ -106,7 +106,7 @@ export let data2015 = [
             },
             {
                 "date": "August 1",
-                "content": "Australian mashup artist Triple-Q creates his Youtube channel; his favorite song is <i>Snow halation.</i>"
+                "content": "Australian mashup artist Triple-Q creates his Youtube channel, primarily creating mashups involving animes and K-wave artists like PSY."
             },
             {
                 "date": "December 30",
@@ -178,7 +178,7 @@ export let data2015 = [
             },
             {
                 "date": "October 3",
-                "content": "The <i>LazyTown</i> episode <i>Robbie's Dream Team</i> is aired, where Robbie Rotten sings the song <i>We Are Number One</i> to teach 3 doppelgangers on how to be villians."
+                "content": "The <i>LazyTown</i> episode <i>Robbie's Dream Team</i> is aired, where Robbie Rotten sings the song <i>We Are Number One</i> to teach 3 of his doppelgangers on how to be villians."
             },
             {
                 "date": "October 19",
@@ -203,7 +203,7 @@ export let data2015 = [
             },
             {
                 "date": "April 9",
-                "content": "Triple-Q releases <i>Super Style Oppas</i>, which inspires a programmer by the online handle of Chaze the Chat to begin making mashups."
+                "content": "Triple-Q releases <i>Super Style Oppas</i>. A programmer by the online handle of Chaze the Chat stumbles upon it soon after and is inspired to begin making mashups."
             },
             {
                 "date": "May 5",

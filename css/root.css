@@ -39,7 +39,7 @@
 
 :root {
 	scrollbar-width: none;
-	--offwhite: #E3DAC9;
+	--offwhite: #fff;
 	--new_order_gray: #3c3c3c;
 	--new_order_black: #03151b;
 	--new_order_blue: #64C8C8;
@@ -49,8 +49,7 @@ body {
 	background-color: #090909;
 	font-family: 'Aldrich';
 	margin: 0;
-}
-
+} 
 #scanlines {
 	mix-blend-mode: multiply;
 	filter: grayscale(100%);
@@ -91,7 +90,7 @@ body {
 	background-size: 33vw 33vw;
 	filter: blur(2px) opacity(6.125%);
 	pointer-events: none;
-	opacity: 0;
+	opacity: 1;
 }
 
 #container {

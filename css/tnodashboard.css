@@ -7,7 +7,7 @@
 }
 
 #dashboard {
-    height: 77vh;
+    height: fit-content;
     width: 35vw;
     border: 3px solid var(--new_order_gray);
     border-radius: 5px 0 5px 5px;
@@ -124,7 +124,6 @@
     justify-content: center;
     flex-grow: 1;
     padding: 1em;
-
 }
 
 #dashboardDetails h4 {
@@ -135,7 +134,7 @@
 
 .details {
     color: var(--new_order_blue);
-    font-size: 14px;
+    font-size: 12px;
     text-shadow: 0px 1px 3px rgba(155, 255, 255, 0.67);
 }
 
@@ -203,9 +202,14 @@
 
 #forwardToggle,
 #backwardToggle {
+    width: 50px !important;
     cursor: pointer;
 }
 
+#name {
+    width: 233.333px !important;
+    font-size: 16px !important;
+}
 .explainerToggle {
     background-color: var(--new_order_gray);
     border-radius: 5px;

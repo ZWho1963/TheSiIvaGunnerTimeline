@@ -11,7 +11,7 @@
                 "time": "Some time after the King for Another Day Tournament",
                 "timeclass": "AIRTH",
                 "title": "The Party (Parts 1, 2 and 3)",
-                "content": "<span class=\"AIRTH\">In the final MOJO!! article focusing on the tournament itself, all 32 contenders have a party on top of the Gaylord Hotel and Convention Center.</span><br><br>The article ends with a direct message from the MOJO!! writers. The message explains that the original plan for the MOJO!! was to just write a few interview articles as a fun side project, but the writers eventually broke out of the interview format and made more complex scenes.<br><br>The reactions and fanart made in response to these new stories inspired the team to write even more. The message ends with a hint that the MOJO!! might come back in the future, and a final thank-you for participating in the King for Another Day Tournament.",
+                "content": "<span class='AIRTH'>In the final MOJO!! article focusing on the tournament itself, all 32 contenders have a party on top of the Gaylord Hotel and Convention Center.</span><br><br>The article ends with a direct message from the MOJO!! writers, explaining how despite the MOJO!! suffering from scope creep as the tournament went on, the positive reception allowed for the writers to write more stories and to better flesh out the Tournament's world. The article ends with a hint at a possible return and a final thank you or participating in the King for Another Day Tournament",
             },
             {
                 "date": "January 7",
@@ -92,12 +92,12 @@
             {
                 "date": "October 27",
                 "title": "ENTRANCE",
-                "content": "<span class=\"AIRTH\">A dark carnival comes to town,</span> heralding the start of The SilvaGunner Spooktacular Halloween Horror Special: Part CarnIVal."
+                "content": "<span class='AIRTH'>A dark carnival comes to town,</span> heralding the start of The SilvaGunner Spooktacular Halloween Horror Special: Part CarnIVal."
             },
             {
                 "date": "November 1",
                 "title": "EXIT",
-                "content": "The SilvaGunner Spooktacular Halloween Horror Special: Part CarnIVal ends, and <span class=\"AIRTH\">the carnival departs, prophesying the arrival of a 'Fallen Angel'.</span>"
+                "content": "The SilvaGunner Spooktacular Halloween Horror Special: Part CarnIVal ends, and <span class='AIRTH'>the carnival departs, prophesying the arrival of a 'Fallen Angel'.</span>"
             },
             {
                 "date": "December 2",

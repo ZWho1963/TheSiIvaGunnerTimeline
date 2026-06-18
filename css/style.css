@@ -1,5 +1,5 @@
 #controls {
-	width: 100vw;
+	width: calc(100vw - 16px);
 	height: fit-content;
 	justify-content: center;
 	align-content: center;
@@ -7,24 +7,29 @@
 	background-color: rgba(16, 16, 16, 0.85);
 	border-bottom: 2px #ddd solid;
 	transition: 3s;
-	top: -207px;
 	font-family: 'Aldrich';
 	z-index: 2;
 }
+
+#controls p {
+    margin: auto;
+    display: flex;
+    width: 67vw;
+}
+
 
 .mytooltip {
 	position: relative;
 	display: inline-block;
 	cursor: pointer;
 	background-color: color-mix(in srgb, var(--new_order_gray) 67%, #090909 33%);
-	border-radius: 5px;
-	padding: 2px;
 	z-index: 1;
 }
 
-#legend {
+#legend, .formSelect {
 	margin: auto;
-	width: 1046px;
+	width: 67vw;
+	height: max-content;
 	text-align: left;
 }
 
@@ -38,7 +43,7 @@
 	margin: auto;
 	text-align: left;
 	width: fit-content;
-	width: 1046px;
+	width: 67vw;
 	display: flex;
 	flex-direction: row;
 
@@ -56,7 +61,7 @@
 
 button {
 	color: var(--offwhite);
-	font-size: 1em;
+	font-size: 0.9em;
 }
 
 body {
@@ -72,18 +77,19 @@ body {
 p {
 	margin: 0;
 	color: var(--offwhite);
-	font-size: 1em;
+	font-size: 0.9em;
 }
 
 h3 {
-	font-size: 1.5em;
+	font-size: 1.4em;
 	margin-top: 0px;
-	margin-bottom: 20px;
+	margin-bottom: 1em;
 	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
 h4,
 .title {
+	font-size: 0.9em;
 	margin-left: 0px;
 	margin-top: 0;
 	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
@@ -91,7 +97,7 @@ h4,
 
 .note {
 	font-style: italic;
-	margin-bottom: 20px;
+	margin-bottom: 1em;
 	color: color-mix(in srgb, var(--offwhite) 50%, gray 50%);
 }
 
@@ -107,18 +113,22 @@ h4,
 #timeline {
 	width: 67%;
 	margin-top: 225px;
-	opacity: 0;
+	opacity: 1;
+	z-index: 3;
 }
 
 #timeline_container {
 	height: 100vh;
 	overflow-y: auto;
 	overflow-x: hidden;
-	scrollbar-width: none;
+	scrollbar-width: auto;
+	position: relative;
+	padding-right: 16px;
+	z-index: 0;
 }
 
 .content {
-	font-size: 1em;
+	font-size: 0.9em;
 	margin-left: 2em;
 	margin-bottom: 20px;
 	color: var(--offwhite);
@@ -134,7 +144,7 @@ table {
 }
 
 .double-entry {
-	margin-bottom: 1em;
+	margin-bottom: 20px;
 }
 
 .AIRTH {
@@ -166,7 +176,7 @@ table {
 }
 
 .GORK {
-	color: #CCC2BA;
+	color: #C3B091;
 }
 
 .SPIDA {

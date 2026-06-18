@@ -17,7 +17,7 @@
             },
             {
                 "date": "January 17",
-                "content": "Season 7 ends with the release of <b>...of Season 7</b>. <span class=\"CCC\">The Joke-Explainer™ 7000 begins running the channel due to SiIvaGunner \"having something more important to take care of\"."
+                "content": "Season 7 ends with the release of <b>...of Season 7</b>. <span class='CCC'>The Joke-Explainer™ 7000 begins running the channel due to SiIvaGunner \"having something more important to take care of\"."
             },
             {
                 "date": "January 18",
@@ -28,7 +28,7 @@
                 "content": "The SiIvaGunner team holds a panel titled \"7 Grand Years of High Quality Rips!\", where they reveal and discuss several pieces of behind-the-scenes information from events and storyline material released after the last MAGFest panel.",
             },
             {
-                "content": "Later in the day, the channel holds its first Chipspace performance, named \"[SiIvaGunner II: Rip of Samus]\", in the Potomac Hallway. During Heboyi's <i>Chipspace</i> set, <span class=\"HCB\">he is hacked by an individual named the 'Fisher-Price Hacker', who proceeds to play Heboyi's Fisher-Price Perfect Fit rips, including a MAGFest-themed version of <b>Old MacDonald Had a Farm - Fisher-Price Perfect Fit</b> (see November 29, 2023).</span>"
+                "content": "Later in the day, the channel holds its first Chipspace performance, named \"[SiIvaGunner II: Rip of Samus]\", in the Potomac Hallway. During Heboyi's <i>Chipspace</i> set, <span class='HCB'>he is hacked by an individual named the 'Fisher-Price Hacker', who proceeds to play Heboyi's Fisher-Price Perfect Fit rips, including a MAGFest-themed version of <b>Old MacDonald Had a Farm - Fisher-Price Perfect Fit</b> (see November 29, 2023).</span>"
             },
             {
                 "date": "February 3",
@@ -71,7 +71,7 @@
             },
             {
                 "date": "April 1",
-                "content": "The channel holds an event dedicated to \"X but Y\" videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups</b> is uploaded, <span class=\"NUGGET\">establishing a relationship between the three characters in future lore material.</span>"
+                "content": "The channel holds an event dedicated to \"X but Y\" videos and similar algorithm-baiting content for April Fools' Day 2024. During the event, <b>Boykisser, Pomni, & Gegagedigedagedago but it's Famous Console Startups</b> is uploaded, <span class='NUGGET'>establishing a relationship between the three characters in future lore material.</span>"
             },
             {
                 "title": "Spamton's Theme but it's Kitchen Gun",
@@ -133,7 +133,7 @@
                 "date": "June 4",
                 "title": "",
                 "content": "SiIvaGunner streams a SiIva Direct, announcing both a 'Takeover Do-Over Poll' where the viewers could choose an event from SiIvaGunner's past to redo in the near future and an announcement for a Nico Nico takeover on December 12.",
-                "class": ""
+                
             },
             {
                 "date": "June 11",
@@ -143,7 +143,7 @@
                 "date": "July 9",
                 "title": "",
                 "content": "The album <i>B💣MBERTRACKS</i> is released by SGFR, focusing on the Bomberman franchise. Unlike previous SGFR release events, the album is released first - standalone remixes are posted on July 10 and 11.",
-                "class": ""
+                
             },
             {
                 "date": "July 24",
@@ -164,18 +164,18 @@
             {
                 "date": "August 2",
                 "content": "<i>Charlie, the Steak</i> is found and its IPA file is shared on the Internet Archive. ",
-                "class": ""
+                
             },
             {
                 "date": "August 10",
                 "title": "",
                 "content": "The 64th anniversary of Sanrio's founding is celebrated with a channel event.",
-                "class": ""
+                
             },
             {
                 "date": "",
                 "title": "Hello, Friend! - Hello Kitty Island Adventure",
-                "content": "Charlie throws a party on ei ei ei vacation island attended by the likes of Nice Brainless, Silentó and Grimace. During this party, he meets Numberphile and <span class=\"KITTY\">follows him through a portal to the Sanrio Universe after the party's end.</span>",
+                "content": "Charlie throws a party on ei ei ei vacation island attended by the likes of Nice Brainless, Silentó and Grimace. During this party, he meets Numberphile and <span class='KITTY'>follows him through a portal to the Sanrio Universe after the party's end.</span>",
                 "class": "NUGGET"
             },
             {
@@ -219,7 +219,7 @@
             },
             {
                 "date": "October 25",
-                "content": "Joe and Jackson Awesome Show, Grand Job! airs on SiIva Swim.",
+                "content": "Joe and Jackson Awesome Show, Grand Job! airs on SiIva Swim as the rip <b>Main Theme - Tim and Eric Awesome Game, Greater Job!</b>.",
                 "class": "GORK"
             },
             {
@@ -237,7 +237,7 @@
             },
             {
                 "date": "October 28",
-                "content": "Despite the efforts of Flint and his cryptid hunters, Mothman manages to take over the SiIvaGunner channel (being the third KFAD non-winner to do so), where he hosts a party with a bunch of other fellow cryptids for Halloween. He regularly posts updates on the channel's community tab and Twitter account over the event's duration.",
+                "content": "Despite the efforts of Flint and his cryptid hunters, Mothman manages to take over the <span>SiIvaGunner channel</span> (being the third KFAD non-winner to do so), where he hosts a party with a bunch of other fellow cryptids for Halloween. He regularly posts updates on the channel's community tab and Twitter account over the event's duration.",
                 "class": "AIRTH"
             },
             {
@@ -265,7 +265,7 @@
             {
                 "date": "November 4",
                 "content": "The SiIvaGunner Spooktacular Halloween Horror Special Part VII: The Night Stalker ends with the release of <b>Exclusive Interview | Cryptid Hunt</b>.",
-                "class": ""
+                
             },
             {
                 "date": "",
@@ -317,7 +317,7 @@
             },
             {
                 "title": "Golden Ratio - e",
-                "content": "Gegagedigedagedago and the Omegas use their \"e\" tile to access the Coordinate Plane. A battle breaks out between Gegagedigedagedago, The numberphile and their allies over the fate of the former's species. Near the end of the fight, the numberphile summons the enslaved OI OI OI Red Grub, which causes Charlie to impulsively throw an \"e\" tile at his former nemesis due to refusing to fight alongside him. <span class=\"KITTY\">Being sent to the Sanrio Universe, Red is killed by Badtz-Maru with a bomb.</span><br><br>The numberphile is enraged by Charlie's betrayal as the latter realizes he made the worst mistake of his life. Meanwhile, Omega Milk is trapped inside Dancing Matt Parker's pie maze, but she manages to escape and defeat the evil mathematician. The fight comes to a close with a rap battle between Gegagedigedagedago and the numberphile, with the latter perishing and leaving the former shocked.",
+                "content": "Gegagedigedagedago and the Omegas use their \"e\" tile to access the Coordinate Plane. A battle breaks out between Gegagedigedagedago, The numberphile and their allies over the fate of the former's species. Near the end of the fight, the numberphile summons the enslaved OI OI OI Red Grub, which causes Charlie to impulsively throw an \"e\" tile at his former nemesis due to refusing to fight alongside him. <span class='KITTY'>Being sent to the Sanrio Universe, Red is killed by Badtz-Maru with a bomb.</span><br><br>The numberphile is enraged by Charlie's betrayal as the latter realizes he made the worst mistake of his life. Meanwhile, Omega Milk is trapped inside Dancing Matt Parker's pie maze, but she manages to escape and defeat the evil mathematician. The fight comes to a close with a rap battle between Gegagedigedagedago and the numberphile, with the latter perishing and leaving the former shocked.",
                 "class": "NUGGET"
             },
             {
@@ -334,13 +334,13 @@
                 "date": "December 7 - 10",
                 "title": "",
                 "content": "SiIvaGunner commemorates demoscene culture with a channel event.",
-                "class": ""
+                
             },
             {
                 "date": "December 8",
                 "title": "",
                 "content": "SGFR releases <i>Installer Insanity</i> in conjunction with Demoscene Day's proceedings, primarily inspired by software piracy and 'crack intros'.",
-                "class": ""
+                
             },
             {
                 "date": "December 11",
@@ -366,10 +366,10 @@
                 "content": "<li>Idle/Idol Game Day</li><li>The existence of the <i>SiIvaGunner Dysfunctional Interaction Maker</i></li><li>The King For A Day Tournament</li><li>he SiIvaGunner Takeover Undo-er Poll</li><li>The 'Dickover', focusing on 37th POTUS Richard Nixon</li><li>The existence of a 'SiIvaBurger' in partnership with Arby's</li><li>Halloween Day</li><li>That 'Lost Media Day' won the Undo-er Poll and has been deleted</li><li>Bane resurrecting the KFAD2 MOJO!!</li><li>A skit by JoeBro</li><li>The release of <i>SiIvaGunner: Redneck Hoedown</i></li><li>The FDA's recall of the SiIvaBurger</li><li>Crab Day, focusing on Crab Rave</li><li>Apple Day, based on the company</li>"
             },
             {
-                "content": "The Direct ends in a blaze of glitches and corruptions before a visual of Haltmann's control room from One Last Chance appears, with a screen blinking in Morse code directing viewers to the Haltmann Works Co. Internal Database Portal, the main hub for what would eventually be called the Susie ARG."
+                "content": "The Direct ends in a blaze of glitches and corruptions before a visual of Haltmann's control room from One Last Chance appears, with a screen blinking in Morse code directing viewers to the <span>Haltmann Works</span> Co. Internal Database Portal, the main hub for what would eventually be called the Susie ARG."
             },
             {
-                "note": "Due to the compressed nature of the Susie ARG's solving, any and all content relating to the Susie ARG will be timestamped in Pacific Time in order to line up with SiIvaGunner's time zone. It's branches (<span class=\"OTHER\">BLACK</span>, <span class=\"CCC\">MAXPH</span>, <span class=\"PAINT\">PAINT</span>, <span class=\"AIRTH\">AIRTH</span>, <span class=\"FOOLS\">FOOLS</span> and <span class=\"RESPH\">GRAND</span>) will be coloured as such. Furthermore, the section of the PAINT branch involving the Omegas will be coloured based on other Omegaverse entries."
+                "note": "Due to the compressed nature of the Susie ARG's solving, any and all content relating to the Susie ARG will be timestamped in Pacific Time in order to line up with SiIvaGunner's time zone. It's branches (<span class='OTHER'>BLACK</span>, <span class='CCC'>MAXPH</span>, <span class='PAINT'>PAINT</span>, <span class='AIRTH'>AIRTH</span>, <span class='FOOLS'>FOOLS</span> and <span class='RESPH'>GRAND</span>) will be coloured as such. Furthermore, the section of the PAINT branch involving the Omegas will be coloured based on other Omegaverse entries."
             },
             {
                 "date": "2:56 PM",
@@ -501,7 +501,7 @@
             {
                 "date": "",
                 "title": "",
-                "content": "Andonuts breaks down, saying that no one would care about him since he is merely a side character with no bearing to the main story. JE soothes his concerns by saying that their own experiences are real to them; Andonuts apologizes for sending JE into his mind and stating that she does not need to remove the memory. JE awakes in Andonuts' lab and the two embrace before <span class=\"AIRTH\">Mothman's Halloween takeover ends,</span> necessitating JE's return to hosting duties.",
+                "content": "Andonuts breaks down, saying that no one would care about him since he is merely a side character with no bearing to the main story. JE soothes his concerns by saying that their own experiences are real to them; Andonuts apologizes for sending JE into his mind and stating that she does not need to remove the memory. JE awakes in Andonuts' lab and the two embrace before <span class='AIRTH'>Mothman's Halloween takeover ends,</span> necessitating JE's return to hosting duties.",
                 "class": "CCC"
             },
             {
@@ -515,7 +515,7 @@
                 "title": "The World Beyond Ours [FILE-INT-MAXPH] - Haltmann's Archives",
                 "time": "December 25, 2016",
                 "timeclass": "CCC",
-                "content": "During the events of <b>One Last Chance</b> (see January 12, 2024), Dr. Andonuts discovers the truth behind the CCC in that it is a work of fiction governed by the mysterious \"world beyond ours\", explaining that there is no in-universe reason for the time-locked state of the CCC in-universe - time only moves forward when the writers of the CCC say it moves forward, properly retconning Wood Man's explanation in <b>Wood Man & Robbie Rotten</b> (see March 24, 2018). He intends to report this to Haltmann, but he suddenly forgets who he is due to his death at the hands of The Voice.",
+                "content": "During the events of <b>One Last Chance</b> (see January 12, 2024), Dr. Andonuts discovers the truth behind the CCC in that it is a work of fiction governed by the mysterious \"world beyond ours\", explaining that there is no in-universe reason for the time-locked state of the CCC - time only moves forward when the writers of the CCC say it moves forward, properly retconning Wood Man's explanation in <b>Wood Man & Robbie Rotten</b> (see March 24, 2018). He intends to report this to Haltmann, but he suddenly forgets who he is due to his death at the hands of The Voice.",
                 "class": "CCC"
             },
             {
@@ -579,11 +579,11 @@
                 "title": "Story Mode - Looney Tunes, etc.",
                 "time": "January 31, 2017, after the events of <b>A \"Hard Day's Work\" - Mr Rental: The Video Game</b>",
                 "timeclass": "PAINT",
-                "content": "At around the same time, Mr. Rental walks over to his car to catch \"the big game\", only to have it stolen by 2B. He runs in front of the car to try and stop it but is rammed in the process, sending him to Mr. Own's universe (known hencefroth as the MS Paint universe).",
+                "content": "At around the same time, Mr. Rental walks over to his car to catch \"the big game\", only to have it stolen by 2B. He runs in front of the car to try and stop it but is rammed in the process, sending him to Mr. Own's universe (known henceforth as the MS Paint universe).",
                 "class": "PAINT",
             },
             {
-                "content": "In the MS Paint Universe, Mr. Rental is mistaken for Mr. Own and is chased by an angry mob. He attempts to clear his name but it doesn't work, landing him in jail. He decides to try and litigate his way to freedom by hiring a lawyer, that being Mr. Save.<br><br>The trial for his freedom occurs the next day, at which Mr. Save cannot find a way to prove Mr. Rental's innocence to HH and the prosecution. Before Judge GradeA can hand down a verdict, Mr. Rental objects to the evidence of him killing Adam Levine, saying that he is colorblind (being from a universe that has no color).<br><br>Mr. Save and HH go back and forth for a while before it is proven that Mr. Rental is indeed colorblind, clearing his name. He eventually settles down in the MS Paint Universe and lives happily.",
+                "content": "In the MS Paint Universe, Mr. Rental is mistaken for Mr. Own and is chased by an angry mob (including a cameo from the then-unnamed Uncle Gubsy). He attempts to clear his name but it doesn't work, landing him in jail. He decides to try and litigate his way to freedom by hiring a lawyer, that being Mr. Save.<br><br>The trial for his freedom occurs the next day, at which Mr. Save cannot find a way to prove Mr. Rental's innocence to HH and the prosecution. Before Judge GradeA can hand down a verdict, Mr. Rental objects to the evidence of him killing Adam Levine, saying that he is colorblind (being from a universe that has no color).<br><br>Mr. Save and HH go back and forth for a while before it is proven that Mr. Rental is indeed colorblind, clearing his name. He eventually settles down in the MS Paint Universe and lives happily.",
                 "class": "PAINT"
             },
             {

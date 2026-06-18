@@ -14,7 +14,7 @@
                 "date": "January 4",
                 "title": "The Real SiIvaGunner ***Please watch Q&A for full story***",
                 "content": "Youtube rejects the counter-claims submitted by SiIvaGunner, and the channel is forcefully terminated. The team, who is stuck at MAGFest and unable to appeal the decision, guides viewers to SiIvaGunner2.",
-                "class": "double-entry"
+
             },
             {
                 "date": "January 9",
@@ -49,75 +49,75 @@
             {
                 "date": "March 24",
                 "content": "<b>The Life and Times of Wade L.D.</b> is released as the final video of Season 3; despite being a side story, the video contains revelations that radically shift the landscape of the Christmas Comeback Crisis.",
-                "class": "double-entry"
+
             },
             {
                 "title": "The Life and Times of Wade L.D. - A SilvaGunner Christmas Comeback Crisis Side Story",
-                "content": "Just after the events of <b>Old Times</b>, a Waddle Dee by the name of Wade L.D. starts his employment at Haltmann Works Company as an Administrative Secretary to support his wife Wanda and chronically ill son Jimmy. One of his first assignments is a survey of SiIvaGunner's house. While going out for a drink with his coworkers, one coworker, named Chase, introduces him to the music of Maroon 5. He then picks up some Ripodine for Jimmy before returning home.",
-                "class": "CCC double-entry"
+                "content": "Just after the events of <b>Old Times</b>, a Waddle Dee by the name of Wade L.D. starts his employment at <span>Haltmann Works</span> Company as an Administrative Secretary to support his wife Wanda and chronically ill son Jimmy. One of his first assignments is a survey of SiIvaGunner's house. While going out for a drink with his coworkers, one coworker, named Chase, introduces him to the music of Maroon 5. He then picks up some Ripodine for Jimmy before returning home.",
+                "class": "CCC"
             },
             {
                 "content": "The narrative then skips to just after <b>Haltmann</b>, where Wade L.D. performs a survey of The Voice's barracks. He sends Haltmann information regarding Angry Joe's planned assault on the North Pole (as depicted in <b>Advent of Hell</b>).",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "timeclass": "CCC",
                 "content": "We then flash forward to the events of <b>Last Hurrah</b>, where Haltmann alerts Wade L.D. of the Voice not holding up his end of the bargain. He reports scents of garlic and guacamole to Wade and asks him to investigate it.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
-                "content": "Around the time of <b>Loves the Ladies</b>, Dr. Andonuts requests a total of 100kg of various metals from Wade for a secret project. Around the same time, Haltmann Works researchers begin experimenting with recreating and harnessing the powers of the Garlic Taco, but after making a major breakthrough, the taco is stolen by a mysterious robed woman. Haltmann puts up a $1667820000 for its recovery.",
-                "class": "CCC double-entry"
+                "content": "Around the time of <b>Loves the Ladies</b>, Dr. Andonuts requests a total of 100kg of various metals from Wade for a secret project. Around the same time, <span>Haltmann Works</span> researchers begin experimenting with recreating and harnessing the powers of the Garlic Taco, but after making a major breakthrough, the taco is stolen by a mysterious robed woman. Haltmann puts up a $1667820000 for its recovery.",
+                "class": "CCC"
             },
             {
                 "content": "Wade L.D. is then sent on another reconnaissance mission, this time to the North Pole to review the damage caused by Angry Joe's operation in <b>Advent of Hell</b>. Shortly after this, Wade is contacted by a mysterious lady who promises an escape from 'limbo'. Jimmy's illness continues to worsen, and Wanda takes him to the hospital.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "content": "At this point, the events of <b>Loves the Ladies</b> have passed, with Haltmann terminating his contract with the Voice. He instructs his employees, including Wade L.D., to begin building and gathering parts for the Gadgetini Clone 2.0 to usurp him.  Wade surveys the base of the Rappers' Union with Charles Barkley. Wade also begins to take drugs to cope with the stresses of work, culminating in him causing a 12 hour intranet outage whilst being under the influence.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "content": "In order to both apologise for his actions and keep his job, Wade bribes Haltmann, who forgives him; despite this, he docks his pay by 20% as punishment. Shortly thereafter, Wade's request for a research team to analyse a sample of SiIvaGunner is granted, and the team assigned to it create AIRTHs (Artificially Intelligent Rip Theatricalizers), which share the same basic characteristics as SiIvaGunner but vary in their theming, and which the team has no control over.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "content": "After being pressed on all sides by work, his wife, his son's terminal illnes and Chase's increasingly threatening demands for cocaine, Wade goes to the Quality Bar to vent to the mysterious woman, who reveals she is the one who stole the Garlic Taco from HWC. She instructs Wade to meet her at Warehouse F36, where she reveals both the existence of a timelock and her identity as 2B from <i>Nier: Automata</i>, desperately wanted by Haltmann for her portal-making technology.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
-                "content": "With the police, Chaze and Jeff hot on their trail and only one bite remaining in the Taco, Wade decides to sacrifice himself to let 2B escape, killing Chase and a policeman before disabling a Patrol-Bot that was recording the chase. Wade is presumed dead, his position opens up, and the world continues without him. After the end of Wade's saga, it is revealed that the SiIvaGunner channel had been hosted by an experimental AI since 2018.",
+                "content": "With the police, Chaze and Jeff hot on their trail and only one bite remaining in the Taco, Wade decides to sacrifice himself to let 2B escape, killing Chase and a policeman before disabling a Patrol-Bot that was recording the chase. Wade is presumed dead, his position opens up, and the world continues without him. After the end of Wade's saga, it is revealed that the <span>SiIvaGunner channel</span> had been hosted by an experimental AI since 2018.",
                 "class": "CCC"
             },
             {
                 "date": "April 1",
                 "content": "<b>Unusual Circumstances</b> is released as part of the channel's annual April Fools' Day event. The video acts as a pastiche of the channel's termination earlier that year in the form of an actual lawsuit.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Unusual Circumstances - A SiIvaGunner Christmas Comeback Crisis Side Story",
                 "content": "Wood Man fills in for SiIvaGunner in his case against Sony Music Entertainment Japan and Phoenix Wright. Judge Jerome presides over the case, with Wood Man being represented by John Notwoodman.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Phoenix Wright gives his opening statement, saying that his client claims that SiIvaGunner infringed on Sony's copyright and that his YouTube channel should be terminated because of it. John Notwoodman responds by saying that SiIvaGunner's use of Sony's material was in complete compliance with fair use, as Wood Man mysteriously disappears.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Pheonix presents the 7 offending rips as evidence and calls Mr. Youtube to the stand. Pheonix surmises that Youtube's automated copyright system flagged the rips, and states that anyone who breaches copyright in this manner shouldn't be on Youtube in the first place. Phoenix then tries to call Bane as a witness but John objects on grounds of self-incrimination, to which Judge Jerome agrees.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "Pheonix then calls in his final witness, the Grinch. The Grinch proceeds to claim that he owned the songs used in the offending rips and that they infringe on both his and Sony's copyright. Wright is just about to dismiss the Grinch when Notwoodman steps in to say it's his turn with the witnesses, and his first one just so happens to be the Grinch - Phoenix objects, but Jerome rules again in John's favour.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "After lunch break, John Notwoodman starts by getting the Grinch to admit that he never tried to stop the claimed rips from being uploaded, meaning that he allowed the use of Sony material. He then summons Count Cannoli (who is quickly shot by Mr. Rental before saying anything of note), Nozomi Tojo (who doesn't actually give any evidence) and another Jerome (who also doesn't actually give any evidence and falls head-first into a DEEZ NUTS joke).",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "content": "With both parties having presented their cases, the jury gives SiIvaGunner a 'Not Guilty' verdict, to which Judge Jerome agrees. Phoenix loses it, saying that John's use of the Grinch was illegal when he wasn't allowed to use Bane - he proceeds to punch John and rips off his mustache before being arrested for contempt of court. Wood Man and Bane then go to get some 'victory lunch' without the Grinch.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "title": "SiIva Direct 4.1.2019",
@@ -167,7 +167,7 @@
                 "date": "September 10",
                 "title": "Trailer Theme - Five Nights at Freddy's 3<br>Main Menu - Five Nights at Freddy's 3",
                 "content": "Spreingtrep has dinner with King Harkinian; he then begins singing a spoof of the Five Nights at Freddy's 1 Song by The Living Tombstone.",
-                "class": "PAINT double-entry"
+                "class": "PAINT"
             },
             {
                 "title": "Sex - Steve Harvey",
@@ -184,12 +184,12 @@
                 "date": "September 21",
                 "title": "SilvaGunner: King for Another Day Tournament Direct 9.21.2019 (Beta Mix)",
                 "content": "A joke announcement premieres posing as a real KFAD Direct, introducing a bevy of fake characters such as Naxx Guyfieri and the Cool Meme Team. The real direct premieres 30 minutes later.",
-                "class": "FOOLS double-entry"
+                "class": "FOOLS"
             },
             {
                 "title": "SiIvaGunner: King for Another Day Tournament Direct 9.21.2019",
                 "content": "Five new contenders are revealed (Donkey Kong, MissingNo. The Jazz Cats, Eminem and Law and Disorder), bringing the tournament's cast to a final number of 32 contenders. Etika's place as part of the Joy-Con Men is taken by Bill Trinen and the duo is renamed to Nintendo Power. Meowth and Unregistered Hypercam 2 (the winner of the original KFAD) are named as co-hosts.",
-                "class": "AIRTH double-entry",
+                "class": "AIRTH",
                 "note": ""
             },
             {

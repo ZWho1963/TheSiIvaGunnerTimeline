@@ -2,112 +2,126 @@
 <html>
 
 <head>
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/root.css">
-	<link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/root.css">
+    <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/tnodashboard.css">
-	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/TextPlugin.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/SplitText.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/gsap@3.14/dist/gsap.min.js"></script>
-	<title>[FILE-INT-SIIVA]</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/TextPlugin.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/SplitText.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14/dist/gsap.min.js"></script>
+    <title>[FILE-INT-SIIVA]</title>
 </head>
 
 <body>
-	<div id="scanlines"></div>
-	<audio controls id="audio"> <source src="miscellaneous/hwc_demo.mp3" type="audio/mpeg"></audio>
-	<audio controls id="file_click"> <source src="miscellaneous/sfx_s_terminal_power_on.mp3" type="audio/mpeg"></audio>
-    <div id="dashboardContainer">
-        <div id="close"><div id="closeToggle"><p>X</p></div></div>
-        <div id="dashboard">
-            <div id="dashboardModes">
-                <p class="modeToggle enabled_glow">CHARACTERS</p>
-                <p class="modeToggle enabled_glow">UNIVERSES</p>
-                <p class="modeToggle enabled_glow">ARCS</p>
+    <audio controls id="audio">
+        <source src="miscellaneous/hwc_demo.mp3" type="audio/mpeg">
+    </audio>
+    <audio controls id="file_click">
+        <source src="miscellaneous/sfx_s_terminal_power_on.mp3" type="audio/mpeg">
+    </audio>
+    <div id="scanlines"></div>
+    <div class="crt">
+        <div id="dashboardContainer">
+            <div id="close">
+                <div id="closeToggle">
+                    <p>X</p>
+                </div>
             </div>
-            <div id="dashboardHeader">
-                <hr>
-                <h2>The Universal SiIvaGunner Explainer 7000™</h2>
-                <hr>
-            </div>
-            <div id="characterImage"><img id="image" src="">
-                <div id="overlay"></div>
-            </div>
-            <div id="characterNameContainer">
-                <p id="backwardToggle">&lt;</p>
-                <h4 id="name"></h4>
-                <p id="forwardToggle">&gt;</p>
-            </div>
-            <div id="dashboardDetails">
-                <h4>CHARACTER SUMMARY:</h4>
-            </div>
-            <div id="dashboardDescription">
-                <h4>CHARACTER DESCRIPTION:</h4>
-                <p class="details" id="description"></p>
+            <div id="dashboard">
+                <div id="dashboardModes">
+                    <p class="modeToggle enabled_glow">CHARACTERS</p>
+                    <p class="modeToggle enabled_glow">UNIVERSES</p>
+                    <p class="modeToggle enabled_glow">ARCS</p>
+                </div>
+                <div id="dashboardHeader">
+                    <hr>
+                    <h2>The Universal SiIvaGunner Explainer 7000™</h2>
+                    <hr>
+                </div>
+                <div id="characterImage"><img id="image" src="">
+                    <div id="overlay"></div>
+                </div>
+                <div id="characterNameContainer">
+                    <p id="backwardToggle">&lt;</p>
+                    <h4 id="name"></h4>
+                    <p id="forwardToggle">&gt;</p>
+                </div>
+                <div id="dashboardDetails">
+                    <h4>CHARACTER SUMMARY:</h4>
+                </div>
+                <div id="dashboardDescription">
+                    <h4>CHARACTER DESCRIPTION:</h4>
+                    <p class="details" id="description"></p>
+                </div>
             </div>
         </div>
+        <div id="timeline_container">
+            <div id="controls">
+                <br>
+                <br>
+                <div id="formSelect">
+                    <p>THE HALTMANN WORKS TIMELINE SORTER</p>
+                    <form id="select">
+                        <input type="checkbox" name="data2000" checked>
+                        <label for="data2000">&lt;1999</label>
+                        <input type="checkbox" name="data2010" checked>
+                        <label for="data2010">2000 - 2009</label>
+                        <input type="checkbox" name="data2015" checked>
+                        <label for="data2015"> 2010 - 2015</label>
+                        <input type="checkbox" name="data2016" checked>
+                        <label for="data2016">2016</label>
+                        <input type="checkbox" name="data2017" checked>
+                        <label for="data2017">2017</label>
+                        <input type="checkbox" name="data2018" checked>
+                        <label for="data2018">2018</label>
+                        <input type="checkbox" name="data2019" checked>
+                        <label for="data2019">2019</label>
+                        <input type="checkbox" name="data2020" checked>
+                        <label for="data2020">2020</label>
+                        <input type="checkbox" name="data2021" checked>
+                        <label for="data2021">2021</label>
+                        <input type="checkbox" name="data2022" checked>
+                        <label for="data2022">2022</label>
+                        <input type="checkbox" name="data2023" checked>
+                        <label for="data2023">2023</label>
+                        <input type="checkbox" name="data2024" checked>
+                        <label for="data2024">2024</label>
+                        <input type="checkbox" name="data2025" checked>
+                        <label for="data2025">2025</label>
+                        <input type="checkbox" name="data2026" checked>
+                        <label for="data2026">2026</label>
+                    </form>
+                </div>
+                <br>
+                <div id="legend">
+                    <p>COLOR KEY:</p>
+                    <div id="color_key"></div>
+                    <br>
+                    <p id="explainerToggle">TOGGLE UNIVERSAL EXPLAINER</p>
+                    <br>
+                </div>
+            </div>
+            <div style="width: 100vw; height: 100vh; z-index: -1; position: absolute;">
+                <div id="terminal">
+                    <p id="line1"></p><br>
+                    <p id="line2"></p><span id="dots1"></span>
+                    <p id="line2a"></p><br>
+                    <p id="line3"></p><span id="dots2"></span>
+                    <p id="line3a"></p><br>
+                    <p id="line4"></p><span id="dots3"></span>
+                    <p id="line4a"></p><br>
+                </div>
+                <p id="file_contents"></p>
+            </div>
+            <table id="timeline"></table>
+        </div>
+        <div id="background"></div>
     </div>
-	<div id="controls">
-		<br>
-		<br>
-		<p style="margin-left: 197px;">THE HALTMANN WORKS TIMELINE SORTER</p>
-		<form id="select">
-			<input type="checkbox" name="data2000" checked>
-			<label for="data2000">&lt;1999</label>
-			<input type="checkbox" name="data2010" checked>
-			<label for="data2010">2000 - 2009</label>
-			<input type="checkbox" name="data2015" checked>
-			<label for="data2015"> 2010 - 2015</label>
-			<input type="checkbox" name="data2016" checked>
-			<label for="data2016">2016</label>
-			<input type="checkbox" name="data2017" checked>
-			<label for="data2017">2017</label>
-			<input type="checkbox" name="data2018" checked>
-			<label for="data2018">2018</label>
-			<input type="checkbox" name="data2019" checked>
-			<label for="data2019">2019</label>
-			<input type="checkbox" name="data2020" checked>
-			<label for="data2020">2020</label>
-			<input type="checkbox" name="data2021" checked>
-			<label for="data2021">2021</label>
-			<input type="checkbox" name="data2022" checked>
-			<label for="data2022">2022</label>
-			<input type="checkbox" name="data2023" checked>
-			<label for="data2023">2023</label>
-			<input type="checkbox" name="data2024" checked>
-			<label for="data2024">2024</label>
-			<input type="checkbox" name="data2025" checked>
-			<label for="data2025">2025</label>
-			<input type="checkbox" name="data2026" checked>
-			<label for="data2026">2026</label>
-		</form>
-		<br>
-		<div id="legend">
-			<p>COLOR KEY:</p>
-			<div id="color_key"></div>
-		</div>
-		<br>
-		<br>
-	</div>
-	<div id="timeline_container">
-		<div style="width: 100vw; height: 100vh; z-index: -1; position: absolute;">
-			<div id="terminal">
-				<p id="line1"></p><br>
-				<p id="line2"></p><span id="dots1"></span>
-				<p id="line2a"></p><br>
-				<p id="line3"></p><span id="dots2"></span>
-				<p id="line3a"></p><br>
-				<p id="line4"></p><span id="dots3"></span>
-				<p id="line4a"></p><br>
-			</div>
-			<p id="file_contents"></p>
-		</div>
-		<table id="timeline"></table>
-	</div>
-	<div id="background"></div>
 </body>
 <script type="module" src="scripts/universesMenu.js"></script>
 <script type="module" src="scripts/timeline.js"></script>
 <script type="module" src="scripts/typewriter.js"></script>
 <script type="module" src="scripts/controls.js"></script>
+
 </html>
 <!-- <script type="module" src="animation.js"></script> -->

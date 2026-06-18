@@ -4,7 +4,7 @@
         "events": [
             {
                 "date": "January",
-                "content": "An unknown creator added a caption to Mauzymice's GIF that reads \"oooooo you like kissing boys ur a boykisser\"."
+                "content": "An unknown creator adds a caption to Mauzymice's GIF that reads \"oooooo you like kissing boys ur a boykisser\"."
             },
             {
                 "date": "January 4",
@@ -16,7 +16,7 @@
             },
             {
                 "date": "January 10",
-                "content": "PinkDeerfox tweets an edited screenshot of the \"you like kissing boys\" GIF in which the cat's eyes are painted black and the text reads, \"you like kissing boys don't you\"."
+                "content": "PinkDeerfox tweets an edited screenshot of the \"you like kissing boys\" GIF with a couple of slight modifications. The resulting image becomes the basis of the Boykisser meme."
             },
             {
                 "date": "February 1",
@@ -46,7 +46,7 @@
                 "title": "Christmas Spirit [FILE-07] (Beta Mix) - Haltmann's Archives",
                 "time": "December 22, 2016 (Advent of Hell's dating, as per [FILE-13])",
                 "timeclass": "FOOLS",
-                "content": "Instead of describing Christmas Spirit, the FILE isntead diverts into talking about 'Fools' Spirit', a pink liquid with a volatilty similar to Christmas Spirit that also exhibits the ability to warp the space around it. Researchers at Haltmann Works fail to both determine its origin and generate any more of the substance and proceed to lock it away due to the potential dangers behind using it.",
+                "content": "Instead of describing Christmas Spirit, the FILE isntead diverts into talking about 'Fools' Spirit', a pink liquid with a volatilty similar to Christmas Spirit that also exhibits the ability to warp the space around it. Researchers at <span>Haltmann Works</span> fail to both determine its origin and generate any more of the substance and proceed to lock it away due to the potential dangers behind using it.",
                 "class": "FOOLS"
             },
             {
@@ -99,7 +99,7 @@
             },
             {
                 "date":"September 13 - 21",
-                "content": "A wave of rips featuring <i>Hot Cross Buns</i> as their jokes are uploaded to the SiIvaGunner channel.",
+                "content": "A wave of rips featuring <i>Hot Cross Buns</i> as their jokes are uploaded to the <span>SiIvaGunner channel</span>.",
                 "class": "HCB"
             },
             {

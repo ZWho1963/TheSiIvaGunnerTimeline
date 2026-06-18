@@ -56,7 +56,6 @@ export let data2010 = [
             {
                 "date": "March 21",
                 "content": "<i>WarioWare, Inc.: Mega Microgame$</i> is released for Game Boy Advance, sporting a new look for Wario.",
-                "class": "double-entry"
             }
         ]
     },

@@ -5,7 +5,7 @@
             {
                 "date": "January 1",
                 "content": "The video <b>...of 2017</b> is released, with Chaze formally announcing and beginning a Season 3. Chaze also make notes of some changes to the channel: an increased upload schedule (up to 8 rips a day), the SiIvaGunner team's participation in MAGFest 2018, and the return of SiIvaGunner as the channel host.",
-                "class": "double-entry"
+
             },
             {
                 "date": "January 3",
@@ -29,11 +29,10 @@
                 "title": "Main Theme - Bananas de Pijamas (Pirate)",
                 "content": "Little Guy goes on a quest for revenge after getting bait-and-switched by SiIvaGunner.",
                 "class": "OTHER",
-                "note": ""
             },
             {
                 "date": "January 9",
-                "content": "<b>Sample [FILE-08]</b> is uploaded. <span class=\"CCC\">It presents itself as a sample analysis of SiIvaGunner himself, detailing his origins and abilities under the file [000001_.hqr], which is injected into another computer or system at the end of the analysis.</span> The SiIvaGunner Twitter account ignores this video and posts a seemingly normal tweet."
+                "content": "<b>Sample [FILE-08]</b> is uploaded. <span class='CCC'>It presents itself as a sample analysis of SiIvaGunner himself, detailing his origins and abilities under the file [000001_.hqr], which is injected into another computer or system at the end of the analysis.</span> The SiIvaGunner Twitter account ignores this video and posts a seemingly normal tweet."
             },
             {
                 "date": "January 21",
@@ -58,13 +57,21 @@
             {
                 "date": "March 16",
                 "content": "<b>Wood Man & Robbie Rotten</b> is uploaded to the channel; the video is the first in a series of 'side stories' that continue world-building and character development within the CCC.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Wood Man & Robbie Rotten - A SilvaGunner Christmas Comeback Crisis Side Story",
                 "time": "December 24, 2016",
                 "timeclass": "CCC",
-                "content": "Wood Man invites Robbie Rotten to dinner. As Wood Man opens his bag of food, he realizes it's on fire and devises a plan to return to SiIvaGunner's house to use his computer to make food for him. Robbie notices and asks what he's doing, which Wood Man replies with \"exercise\". Robbie also notices the smoke coming out of Wood Man's bag, which Wood Man explains to be steam from the steamed greens he's having. He goes back to the table while Wood Man uses the portal and brings back beans.<br><br>When Robbie sees the beans, he expresses confusion as he was led to believe he was having vegetables. Wood Man, thinking on his feet, states he meant to say \"steamed beans\". Robbie dislikes the taste and refuses to eat them. He mentions how awful things have gone, and that it happened on Christmas Eve of all days.<br><br>Wood Man explains to Robbie, and also the viewers, that it's not really Christmas, and that the Central Canon Continuum is undergoing time dilation. He continues, telling him that new figments have been transported to the CCC through time rifts. He theorizes that Haltmann has frozen time, wanting to exploit Christmas Spirit forever to become rich. They then argue about the other being a failure, but make up afterwards.",
+                "content": "Wood Man invites Robbie Rotten to dinner. As Wood Man opens his bag of food, he realizes it's on fire and devises a plan to return to SiIvaGunner's house to use his computer to make food for him. Robbie notices and asks what he's doing, which Wood Man replies with \"exercise\". Robbie also notices the smoke coming out of Wood Man's bag, which Wood Man explains to be steam from the steamed greens he's having. He goes back to the table while Wood Man uses the portal and brings back beans.",
+                "class": "CCC"
+            },
+            {
+                "content": "When Robbie sees the beans, he expresses confusion as he was led to believe he was having vegetables. Wood Man, thinking on his feet, states he meant to say \"steamed beans\". Robbie dislikes the taste and refuses to eat them. He mentions how awful things have gone, and that it happened on Christmas Eve of all days.",
+                "class": "CCC"
+            },
+            {
+                "content": "Wood Man explains to Robbie, and also the viewers, that it's not really Christmas, and that the Central Canon Continuum is undergoing time dilation. He continues, telling him that new figments have been transported to the CCC through time rifts. He theorizes that Haltmann has frozen time, wanting to exploit Christmas Spirit forever to become rich. They then argue about the other being a failure, but make up afterwards.",
                 "class": "CCC"
             },
             {
@@ -80,13 +87,13 @@
             {
                 "date": "April 8",
                 "title": "Your Best Nightmare (Alpha Mix) - Undertale",
-                "content": "The Nostalgia Critic fights 'Gadget' for control of the channel. He wins, and his own takeover of the channel begins.",
+                "content": "The Nostalgia Critic fights the Gadgetini for control of the channel. He wins, and his own takeover of the channel begins.",
                 "class": "AIRTH"
             },
             {
                 "date": "April 16",
                 "title": "An AWESOME Announcement!",
-                "content": "Due to allegations levied against both him and Inspector Gadget, the Nostalgia Critic willingly relinquishes his control of the channel. The SiIva AI reboots itself to fix the glitches, having been given an upgrade to its CPU.",
+                "content": "Due to allegations levied against both him and the Gadgetini, the Nostalgia Critic willingly relinquishes his control of the channel. The SiIva AI reboots itself to fix the glitches, having been given an upgrade to its CPU.",
                 "class": "AIRTH"
             },
             {
@@ -129,7 +136,7 @@
             {
                 "date": "July 15",
                 "content": "SmokyThrill77 announces the <b>King for a Day Tournament</b>, known affectionately as KFAD, on behalf of the SiIvaGunner team. 16 fan-sourced competitors would duel it out in an elimination bracket inspired by <i>Super Smash Bros.</i> for a chance to take over the channel for a day.",
-                "class": "double-entry"
+
             },
             {
                 "content": "Backroom member Xarlable posts a throwaway message on SiIvaCord's #main_chat as a response to the announcement of King for a Day, saying 'harlem shakeover confirmed'."
@@ -141,7 +148,7 @@
             {
                 "date": "July 27",
                 "title": "SiIvaGunner presents... The KING FOR A DAY TOURNAMENT!",
-                "content": "The two community strikes on the SiIvaGunner channel are lifted, and the King for a Day Tournament begins. <span class=\"AIRTH\">John Notwoodman, a character suspiciously similar to Wood Man, acts as the tournament's host.</span>"
+                "content": "The two community strikes on the SiIvaGunner channel are lifted, and the King for a Day Tournament begins. <span class='AIRTH'>John Notwoodman, a character suspiciously similar to Wood Man, acts as the tournament's host.</span>"
             },
             {
                 "date": "July 29",
@@ -160,7 +167,6 @@
             {
                 "date": "August 11 - September 9",
                 "content": "Leftover arrangements from the King for a Day Tournament are slowly uploaded to the channel. Regular uploads of rips resume on the 9th due to delays regarding the tournament's final videos.",
-                "class": "",
                 "note": ""
             },
             {
@@ -174,11 +180,11 @@
             {
                 "date": "October 8",
                 "content": "The final videos related to King for a Day Tournament are released.",
-                "class": "double-entry"
+
             },
             {
                 "date": "October 9",
-                "content": "Unregistered Hypercam 2 hosts his takeover of the SiIvaGunner channel.",
+                "content": "Unregistered Hypercam 2 hosts his takeover of the <span>SiIvaGunner channel</span>.",
                 "class": "AIRTH"
             },
             {
@@ -188,7 +194,7 @@
             {
                 "date": "October 31",
                 "title": "Comeback Crisis: The Lost Rip - A SiIvaGunner Christmas Comeback Crisis Side Story",
-                "content": "A character named Reader (voiced by 123zc) is surprised when Episode 13 of the Christmas Comeback crisis is uploaded to the SiIvaGunner channel. However, it ends up being nothing but Puzzle Room for four hours. A choice between \"Da\" or \"Nyet\" appears; Reader chooses \"Nyet\" and is subsequently jumpscared by Felix from the Puzzle Room Incident, who warns him to turn back. Reader ignores it, rewatches the video and picks \"Da\", which prompts Felix to tear his face off.",
+                "content": "A character named Reader (voiced by 123zc) is surprised when Episode 13 of the Christmas Comeback Crisis is uploaded to the <span>SiIvaGunner channel</span>. However, it ends up being nothing but Puzzle Room for four hours. A choice between \"Da\" or \"Nyet\" appears; Reader chooses \"Nyet\" and is subsequently jumpscared by Felix from the Puzzle Room Incident, who warns him to turn back. Reader ignores it, rewatches the video and picks \"Da\", which prompts Felix to tear his face off.",
                 "class": "FOOLS"
             },
             {
@@ -232,13 +238,13 @@
             {
                 "date": "December 6",
                 "title": "A MAGnificent Leak!",
-                "content": "The Grinch, wanting to promote his new movie, takes over the SiIvaGunner channel.",
+                "content": "The Grinch, wanting to promote his new movie, takes over the <span>SiIvaGunner channel</span>.",
                 "class": "AIRTH"
             },
             {
                 "date": "December 17",
                 "title": "Opening Logo - Bananas in Pyjamas: It's Party Time",
-                "content": "Little Guy takes over the SiIvaGunner channel and begins uploading clips from various pieces of media, including a Fortnite clip, which sends him into a rage. Dr. Beanson admits he snuck the clip in.<br>Later, Barney Christ and The Voice break out of their prison and confront Little Guy, only to be shot. The video ends soon after.",
+                "content": "Little Guy takes over the <span>SiIvaGunner channel</span> and begins uploading clips from various pieces of media, including a Fortnite clip, which sends him into a rage. Dr. Beanson admits he snuck the clip in.<br>Later, Barney Christ and The Voice break out of their prison and confront Little Guy, only to be shot. The video ends soon after.",
                 "class": "OTHER"
             },
             {
@@ -250,7 +256,7 @@
                 "time": "December 19",
                 "timeclass": "AIRTH",
                 "title": "Ending - The Grinch",
-                "content": "<span style=\"color: #fff\">With the abrupt end to the Grinch's takeover having gone unexplained, the SiIvaGunner team posts a comic to the channel's Twitter account, explaining that</span> the Grinch, having become irritated due to the lack of fanfare for his movie and envious about the Christmas spirit on display, cancelled Christmas, refusing to post any rips after the 19th.",
+                "content": "<span style='color: var(--offwhite)'>With the abrupt end to the Grinch's takeover having gone unexplained, the SiIvaGunner team posts a comic to the channel's Twitter account, explaining that</span> the Grinch, having become irritated due to the lack of fanfare for his movie and envious about the Christmas spirit on display, cancelled Christmas, refusing to post any rips after the 19th.",
                 "class": "AIRTH"
             }
         ]

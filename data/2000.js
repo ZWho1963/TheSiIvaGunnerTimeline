@@ -414,7 +414,7 @@ export let data2000 = [
         "events": [
             {
                 "date": "November 17",
-                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of 'Wood Man Stage' from <i>Mega Man 2</i>, is created."
+                "content": "<i>mm2wood.mid</i>, a badly done Windows MIDI cover of <i>Wood Man Stage</i> from <i>Mega Man 2</i>, is created."
             },
             {
                 "date": "December 25",

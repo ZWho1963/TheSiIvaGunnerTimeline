@@ -45,7 +45,7 @@
             },
             {
                 "title": "Retrospective [FILE-14] - Haltmann's Archives",
-                "content": "Andonuts reflects on the SiIvaGunner channel and the events that have occurred within the Central Canon Continuum, such as the creation of the SiIvaGunner AI. Andonuts expresses hope that one day, they will be able to access the AI Universe and get a better look at how it works. However, Andonuts seemingly claims that The Joke-Explainer™ 7000 was actually made by him, although [FILE-11] says Chad Warden made her.",
+                "content": "Andonuts reflects on the <span>SiIvaGunner channel</span> and the events that have occurred within the Central Canon Continuum, such as the creation of the SiIvaGunner AI. Andonuts expresses hope that one day, they will be able to access the AI Universe and get a better look at how it works. However, Andonuts seemingly claims that The Joke-Explainer™ 7000 was actually made by him, although [FILE-11] says Chad Warden made her.",
                 "class": "CCC"  
             },
             {
@@ -58,11 +58,11 @@
                 "date": "April 19",
                 "title": "",
                 "content": "<b>YANKIN' FOREVER</b> is uploaded, acting as the grand finale of the now week-long Yankover.",
-                "class": ""
+                
             },
             {
                 "title": "YANKIN' FOREVER",
-                "content": "Lady, having brushed off the past week as mere 'practice', proclaims her permanent takeover of the SiIvaGunner channel. However, Knuckles bursts out from underground before she can enact her plan, and the two do battle. The fight is an even match, but Knuckles pulls out the Master Emerald and traps Lady inside of it, ending the Yankover.",
+                "content": "Lady, having brushed off the past week as mere 'practice', proclaims her permanent takeover of the <span>SiIvaGunner channel</span>. However, Knuckles bursts out from underground before she can enact her plan, and the two do battle. The fight is an even match, but Knuckles pulls out the Master Emerald and traps Lady inside of it, ending the Yankover.",
                 "class": "AIRTH"
             },
             {
@@ -72,14 +72,14 @@
             {
                 "date": "July 15",
                 "title": "The SiIvaGunner All-Star Summer Festival 2021: Legends of the Western Sunset",
-                "content": "Wood Man debuts his new movie <i>Legends of the Western Sunset</i>, where a gunslinger by the name of Redwood takes on many bounties in the Wild West. <span style=\"color: #ddd\">The announcement doubles as the beginning of the 2021 edition of SummerFes, which shares the same name as Wood Man's film. Furthermore, scenes from the 'film' would be released detailing the targets of Redwood's bounties - in reality, the subjects of the Festival's sub-events.</span>",
+                "content": "Wood Man debuts his new movie <i>Legends of the Western Sunset</i>, where a gunslinger by the name of Redwood takes on many bounties in the Wild West. <span style='color: var(--offwhite);'>The announcement doubles as the beginning of the 2021 edition of SummerFes, which shares the same name as Wood Man's film. Furthermore, scenes from the 'film' would be released detailing the targets of Redwood's bounties - in reality, the subjects of the Festival's sub-events.</span>",
                 "class": "AIRTH"
             },
             {
                 "date": "July 17",
                 "title": "",
                 "content": "The Space Jam Charity SLAM! - a livestream composed of 285 Space Jam mashups that people could donate to - is held to benefit the Equal Justice Initiative. The SLAM! was initially slated for 2020's SummerFes, but it was delayed to 2021 due to practical concerns.",
-                "class": ""
+                
             },
             {
                 "content": "After the Charity SLAM! ended, most of the mashups made for the event were released every Saturday (termed as SLAM!turdays) until August 28."
@@ -94,17 +94,17 @@
                 "date": "August 5 - 13",
                 "title": "",
                 "content": "Remixes and arrangements from SGFR's <i>Super Star Symphony</i> - an album dedicated to the <i>Kirby</i> franchise - are scattered amongst regular rips over a period of 8 days. On August 13, the full album is released on Bandcamp alongside the launch of SGFR's dedicated website.",
-                "class": ""
+                
             },
             {
                 "date": "August 24",
                 "title": "The Bounty of Ol' Gabe Newell - The SiIvaGunner All-Star Summer Festival 2021",
-                "content": "A scene from <i>Legends of the Western Sunset</i> is released: within it, Redwood takes on a bounty of 120,000 V-bucks for Gabe Newell. <span style=\"color:#ddd\">His takeover of the channel begins the same day.</span>",
+                "content": "A scene from <i>Legends of the Western Sunset</i> is released: within it, Redwood takes on a bounty of 120,000 V-bucks for Gabe Newell. <span style='color: var(--offwhite);'>His takeover of the channel begins the same day.</span>",
                 "class": "AIRTH"
             },
             {
                 "title": "Opening Sequence (Unused) - Garry's Mod",
-                "content": "Gabe Newell receives an automated email from the SiIva AI informing him that President Haltmann is auctioning the channel off and that Epic Games will participate in it. Wanting to beat Steam's rival game store, Gabe Newell attends the auction before ending up in a fight with Ninja, Epic Games' representative. Winning both the auction and his fight with Ninja, Gabe Newell is given control over the SiIvaGunner channel... for a day.",
+                "content": "Gabe Newell receives an automated email from the SiIva AI informing him that President Haltmann is auctioning the channel off and that Epic Games will participate in it. Wanting to beat Steam's rival game store, Gabe Newell attends the auction before ending up in a fight with Ninja, Epic Games' representative. Winning both the auction and his fight with Ninja, Gabe Newell is given control over the <span>SiIvaGunner channel</span>... for a day.",
                 "class": "OTHER"
             },
             {
@@ -144,7 +144,7 @@
             {
                 "date": "September 17",
                 "content": "Deltarune's second chapter is released, introducing a character named Spamton G. Spamton.",
-                "class": ""
+                
             },
             {
                 "date": "October 24",

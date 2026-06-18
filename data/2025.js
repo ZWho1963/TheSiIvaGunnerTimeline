@@ -59,7 +59,7 @@
             {
                 "date": "January 22, 8:43 PM",
                 "title": "The Meeting",
-                "content": "<span class=\"OTHER\">Susie manages to cross the bridge set up by the ARG's solvers to reach Wood Man and pleads for him to assist everyone back in the CCC in the final battle. Wood Man, still jaded from his perceived failures in both the CCC and AIRTH, believes that he doesn't deserve to go back, but Susie calls him out, explaining that everyone is waiting for his return. Susie leaves Wood Man to reflect on this, and his fate remains unknown as of writing.</span> The end of this video marked the end of the Susie ARG and Season 8, with the channel going on another short hiatus.",
+                "content": "<span class='OTHER'>Susie manages to cross the bridge set up by the ARG's solvers to reach Wood Man and pleads for him to assist everyone back in the CCC in the final battle. Wood Man, still jaded from his perceived failures in both the CCC and AIRTH, believes that he doesn't deserve to go back, but Susie calls him out, explaining that everyone is waiting for his return. Susie leaves Wood Man to reflect on this, and his fate remains unknown as of writing.</span> The end of this video marked the end of the Susie ARG and Season 8, with the channel going on another short hiatus.",
             },
             {
                 "date": "January 24",
@@ -67,7 +67,7 @@
             },
             {
                 "title": "Heboyi @ MAGFest 2025 SiIvaGunner Chipspace",
-                "content": "Later that day, several team members host a performance at the Chipspace event, similar to MAGFest 2024 (dubbed <i>SiIvaGunner II: Rip of Samus 2: Totino's Mania Live</i>). During Heboyi's set, <span class=\"HCB\">he is hacked once again by the Fisher-Price Hacker, triggering a boss fight between the Hacker and the MAGFest attendees. By clapping when red squares hit a rhythm box, the attendees defeat the Hacker.</span>"
+                "content": "Later that day, several team members host a performance at the Chipspace event, similar to MAGFest 2024 (dubbed <i>SiIvaGunner II: Rip of Samus 2: Totino's Mania Live</i>). During Heboyi's set, <span class='HCB'>he is hacked once again by the Fisher-Price Hacker, triggering a boss fight between the Hacker and the MAGFest attendees. By clapping when red squares hit a rhythm box, the attendees defeat the Hacker.</span>"
             },
             {
                 "date": "January 27",
@@ -87,7 +87,7 @@
             },
             {
                 "date": "February 1",
-                "content": "<span style=\"color: #ddd\"><b>Mass Leakage</b> is officially uploaded to SiIvaGunner.</span> The Joke-Explainer™ 7000 goes on another break to relocate to a more suitable living space, leaving her belongings in a storage complex.",
+                "content": "<span style='color: var(--offwhite);'><b>Mass Leakage</b> is officially uploaded to SiIvaGunner.</span> The Joke-Explainer™ 7000 goes on another break to relocate to a more suitable living space, leaving her belongings in a storage complex.",
                 "class": "CCC"
             },
             {
@@ -120,7 +120,7 @@
             {
                 "date": "February 7",
                 "title": "[AUDIOLOG: 14:09, RENTAL_STORAGE_FACILITY]",
-                "content": "Stingy has his car stolen by Robbie Rotten after destroying his Wood Man Finder 3000. He then discovers The Joke-Explainer™ 7000's computer and claims control of the SiIvaGunner channel.",
+                "content": "Stingy has his car stolen by Robbie Rotten after destroying his Wood Man Finder 3000. He then discovers The Joke-Explainer™ 7000's computer and claims control of the <span>SiIvaGunner channel</span>.",
                 "class": "OTHER"
             },
             {
@@ -132,7 +132,7 @@
             {
                 "date": "March 13",
                 "title": "An announcement from your old leader<br>Hi everyone!",
-                "content": "The Joke-Explainer™ 7000 completes the application process to become a junior researcher at Haltmann Works Company. When she returns to retrieve her belongings from the storage complex, she is stopped by Stingy, and the two come to an agreement, with Stingy giving JE control over the channel in exchange for everything else she owns.",
+                "content": "The Joke-Explainer™ 7000 completes the application process to become a junior researcher at <span>Haltmann Works</span> Company. When she returns to retrieve her belongings from the storage complex, she is stopped by Stingy, and the two come to an agreement, with Stingy giving JE control over the channel in exchange for everything else she owns.",
                 "class": "CCC"
             },
             {
@@ -214,7 +214,7 @@
             },
             {
                 "title": "Silly Billy - Hit Single",
-                "content": "Nice Brainless traverses Evil Brainless' lair and is halted in his tracks by the possessed Silentó. The two engage in a rap battle, with Silentó temporarily morphing into a brainless himself. Near the end of the fight, Silentó summons a hoard of Brainlesses to infect the non-cat residents of Brainrot World. The battle between Nice Brainless and Silentó eventually comes to an end as the Evil Brainless possessing Silentó splits in half, freeing him from its control.",
+                "content": "Nice Brainless traverses Evil Brainless' lair and is halted in his tracks by the possessed Silentó. The two engage in a rap battle, with Silentó temporarily morphing into a brainless himself. Near the end of the fight, Silentó summons a hoard of Brainlesses to infect the non-cat residents of the Brainrot Universe. The battle between Nice Brainless and Silentó eventually comes to an end as the Evil Brainless possessing Silentó splits in half, freeing him from its control.",
                 "class": "NUGGET",
             },
             {
@@ -259,7 +259,7 @@
             },
             {
                 "title": "death.wav - Garry's Mod",
-                "content": "Garry's Mod Universe Several characters, including the Beatles, Gork, Gamechap and Bertie, attend Gabe Newell's funeral event to mourn the sad loss of a gaming icon. As part of his \"testimonial\", Ninja announces he'll be exclusively streaming on Mixer from now on, which angers the audience. Before a fight can break out, Gabe Newell rises from his grave and makes Ninja run away in fear.",
+                "content": "Several characters, including the Beatles, Gork, Gamechap and Bertie, attend Gabe Newell's funeral event to mourn the sad loss of a gaming icon. As part of his \"testimonial\", Ninja announces he'll be exclusively streaming on Mixer from now on, which angers the audience. Before a fight can break out, Gabe Newell rises from his grave and makes Ninja run away in fear.",
                 "class": "OTHER"
             },
             {
@@ -319,12 +319,40 @@
                 "class": "FOOLS"
             },
             {
-                "content": "Wood Man uses Easter Spirit to revive Jerome as a parting gift before sending both him and Reader back to the Real Real World. After waking, Reader realises that the events that transpired were real, finding the SiIvaGunner channel active again with a note from Wood Man, before tearfully reuniting with Jerome.",
+                "content": "Wood Man uses Easter Spirit to revive Jerome as a figment before sending both him and Reader back to the Real Real World as a parting gift. After waking, Reader realises that the events that transpired were real, finding the <span>SiIvaGunner channel</span> active again with a note from Wood Man, before tearfully reuniting with Jerome.",
+                "class": "FOOLS"
+            },
+            {
+                "content": "Sometime after the events of the video, the recently-freed bunnies on Easter Island hold a bomb-eating contest hosted by Bane. Most of them die except for a few that decided to hold a pizza party instead.",
+                "class": "FOOLS"
+            },
+            {
+                "time": "Sometime in 2025",
+                "timeclass": "FOOLS",
+                "content": "In another epilogue, Dr. Andonuts completes a VR headset which he gives to Pomni in his lab.",
+                "class": "FOOLS"
+            },
+            {
+                "time": "Sometime after <b>Aria Math (PAL Version)</b>",
+                "timeclass": "FOOLS",
+                "content": "In yet another epilogue, GameChap and Bertie from <b>Aria Math (PAL Version)</b> stumble across a replica of Wood Man's mansion from <b>A Murder Not Too Nice</b>, where they discover a diary kept by Wood Man. It reveals in several entries that Wood Man was summoned to partake in <b>The Lost Rip</b> almost immediately after <b>Wood Man and Robbie Rotten</b>, that he bailed to the <i>Minecraft</i> Universe after being weirded out by what happened, what he was doing during the channel's 2019 termination (hanging out at the Gaylord with HyperCam and Princess Heavy) and how he wanted to win the auction that triggered the events of <b>A Murder Not Too Nice</b>. The two are then scared by a gigantic glowstone E and run away in terror.",
+                "class": "FOOLS"
+            },
+            {
+                "time": "Sometime after <b>Mystery of the SiIcret Gunner</b>",
+                "timeclass": "FOOLS",
+                "content": "In <i>yet another</i> epilogue, it is revealed that the White Rabbit from <i>Othello World</i> had assumed the title of the Easter Bunny after the deaths of the original Easter Bunny and Naxx Guyfieri (see <b>Mystery of the SiIcret Gunner</b>, December 23, 2024).",
+                "class": "FOOLS"
+            },
+            {
+                "time": "Somehow before <b>Unusual Circumstances</b> and after <b>My Last Stand</b>",
+                "timeclass": "FOOLS",
+                "content": "The final frame of the video reveals that SiIva's computer had continued to pump out Jerome figments, thereby explaining how Judge Jerome and Jerome were two different people.",
                 "class": "FOOLS"
             },
             {
                 "title": "Nutshackwoodman34 [FILE-18] - Haltmann's Archives",
-                "content": "Dr. Andonuts discovers Nutshackwoodman34's videos and makes note of the striking similarities to HWC's work and CCC-Prime in general, noting how The Lost Rip seemingly depicts Illucidity several years before it was implemented. Andonuts later updates the file, talking about the reports from several years ago. He deduces that the videos arise from an alternate timeline diverged from CCC-Prime at some point in 2017, potentially due to Fools' Spirit in an effect opposite to the neutralization of Anomalies, cordoning them off to their own timeline due to their power. He provisionally names the timeline CCC-FOOLS.",
+                "content": "Dr. Andonuts discovers Nutshackwoodman34's videos and makes note of the striking similarities to HWC's work and CCC-Prime in general, noting how The Lost Rip seemingly depicts Illucidity several years before it was implemented. Andonuts later updates the file, talking about the reports from several years ago; he deduces that the videos arise from an alternate timeline diverged from CCC-Prime at some point in 2017, potentially due to Fools' Spirit in an effect opposite to the neutralization of Anomalies, cordoning them off to their own timeline due to their power. He provisionally names the timeline CCC-FOOLS.",
                 "class": "CCC",
             },
             {
@@ -337,7 +365,7 @@
             },
             {
                 "title": "YouTube [FILE-20] - Haltmann's Archives",
-                "content": "Andonuts details the significance of Youtube within the Central Canon Continuum, alongside how it influenced the context behind the Christmas Comeback Crisis: firstly, it confirms the idea that SiIvaGunner's lifeforce is tied to the SiIvaGunner channel (see <b>Termination - [FILE-02]</b>, October 8, 2017). Secondly, it reveals that Chad Warden's promotion of SiIvaGunner pushed many celebrities, artists and musicians to flock to Rotterdam in a collective bid to collaborate with him, explaining how figures like Snoop Dogg and Soulja Boy were in the Netherlands.",
+                "content": "Andonuts details the significance of Youtube within the Central Canon Continuum, alongside how it influenced the context behind the Christmas Comeback Crisis: firstly, it confirms the idea that SiIvaGunner's lifeforce is tied to the <span>SiIvaGunner channel</span> (see <b>Termination - [FILE-02]</b>, October 8, 2017). Secondly, it reveals that Chad Warden's promotion of SiIvaGunner pushed many celebrities, artists and musicians to flock to Rotterdam in a collective bid to collaborate with him, explaining how figures like Snoop Dogg and Soulja Boy were in the Netherlands.",
                 "class": "CCC"
             },
             {
@@ -357,7 +385,7 @@
                 "title": "Tutorial - Fisher-Price Perfect Fit",
                 "time": "September 13, 2024", 
                 "timeclass": "HCB",
-                "content": "The Fisher-Price Hacker gives a tutorial on how to hack SiIvaGunner. During this tutorial, they use HCB.exe to connect to the SiIvaGunner channel and upload rips featuring <i>Hot Cross Buns</i>.",
+                "content": "The Fisher-Price Hacker gives a tutorial on how to hack SiIvaGunner. During this tutorial, they use HCB.exe to connect to the <span>SiIvaGunner channel</span> and upload rips featuring <i>Hot Cross Buns</i>.",
                 "class": "HCB"
             },
             {
@@ -374,7 +402,7 @@
             {
                 "date": "June 1",
                 "title": "Announcing my special day!",
-                "content": "The Joke-Explainer™ 7000 attempts to celebrate her birthday, but her announcement is hijacked by Stingy, who exercises the secret clause in his contract with the former. <span style=\"color:#ddd\">Members of SiIvaCord rebuke Stingy severely for his actions, with some even calling for his death.</span>",
+                "content": "The Joke-Explainer™ 7000 attempts to celebrate her birthday, but her announcement is hijacked by Stingy, who exercises the secret clause in his contract with the former. <span style='color: var(--offwhite);'>Members of SiIvaCord rebuke Stingy severely for his actions, with some even calling for his death.</span>",
                 "class": "CCC",
             },
             {
@@ -421,7 +449,7 @@
             },
             {
                 "date": "July 1",
-                "content": "Stingy gives back the SiIvaGunner channel to The Joke-Explainer™ 7000 with an apology. Joke-Explainer accepts the apology, and continues operations.",
+                "content": "Stingy gives back the <span>SiIvaGunner channel</span> to The Joke-Explainer™ 7000 with an apology. JE accepts the apology, and continues operations.",
                 "class": "CCC"
             },
             {
@@ -524,7 +552,7 @@
             },
             {
                 "title": "Investigation 3",
-                "content": "This performance leads Phoenix Wright to discover Monokuma's failed attempt at creating a Garlic Taco portal from the Joke-Explainer and a computer featuring the Haltmann Works Company's archives.",
+                "content": "This performance leads Phoenix Wright to discover Monokuma's failed attempt at creating a Garlic Taco portal from the Joke-Explainer and a computer featuring the <span>Haltmann Works</span> Company's archives.",
                 "class": "AIRTH"
             },
             {
@@ -555,7 +583,7 @@
                 "class": "AIRTH"
             },
             {
-                "content": "He then mistakenly summons the Joke-Explainerto the stand (thinking that she wrote FILE-22) accusing that she and Monokuma were in cahoots. She profusely denies this, and Monokuma traps her in a cage for contempt of court. Phoenix then realises his mistake and pivots, arguing through the SiIva AI log that the AI created Monokuma as his proxy, which Monokuma denies.",
+                "content": "He then mistakenly summons the Joke-Explainer to the stand (thinking that she wrote FILE-22) accusing that she and Monokuma were in cahoots. She profusely denies this, and Monokuma traps her in a cage for contempt of court. Phoenix then realises his mistake and pivots, arguing through the SiIva AI log that the AI created Monokuma as his proxy, which Monokuma denies.",
                 "class": "AIRTH"
             },
             {
@@ -602,7 +630,7 @@
                 "title": "Trial - Part 2",
                 "time": "August 7",
                 "timeclass": "AIRTH",
-                "content": "Phoenix realises that Junko was the one who wrote FILE-22 whilst she rants about how AIRTH is a dying simulation thanks to the SiIva AI's death, that she used FILE-22 as a coded signal for Monokuma to take over the SiIvaGunner channel and that she also tried to hijack the AI to generate despair but failed miserably, choosing instead to strongarm it into making Monokuma for the express purpose of bringing despair and that she eventually wanted to bring Monokuma to the CCC, all while taunting Phoenix for being a bad attorney.",
+                "content": "Phoenix realises that Junko was the one who wrote FILE-22 whilst she rants about how AIRTH is a dying simulation thanks to the SiIva AI's death, that she used FILE-22 as a coded signal for Monokuma to take over the <span>SiIvaGunner channel</span> and that she also tried to hijack the AI to generate despair but failed miserably, choosing instead to strongarm it into making Monokuma for the express purpose of bringing despair and that she eventually wanted to bring Monokuma to the CCC, all while taunting Phoenix for being a bad attorney.",
                 "class": "AIRTH"
             },
             {
@@ -788,7 +816,7 @@
             {
                 "date": "November 6",
                 "title": "Sea of Secrets - Episode 3",
-                "content": "On their way to the Halberd, JE once again contacts Andonuts and learns that the Crazy Frog robots were rogue Haltmann Works machines. Undyne becomes angry after learning Joke-Explainer and Andonuts work for HWC but Andonuts reassures her that they mean no harm and want to help them.",
+                "content": "On their way to the Halberd, JE once again contacts Andonuts and learns that the Crazy Frog robots were rogue <span>Haltmann Works</span> machines. Undyne becomes angry after learning Joke-Explainer and Andonuts work for HWC but Andonuts reassures her that they mean no harm and want to help them.",
                 "class": "CCC"
             },
             {
@@ -818,7 +846,7 @@
             },
             {
                 "date": "November 9",
-                "content": "Due to Haltmann Works Company being generally distressed, Stingy is given temporary channel control for two days.",
+                "content": "Due to <span>Haltmann Works</span> Company being generally distressed, Stingy is given temporary channel control for two days.",
                 "class": "CCC"
             },
             {
@@ -882,8 +910,12 @@
                 "class": "GORK"
             },
             {
-                "title": "Tsurupettan (Live Mix - Umineko no Naku Koro ni",
-                "content": "The Bird Up! special airs and Dick Goofy is fired.",
+                "title": "Tsurupettan (Live Mix) - Umineko no Naku Koro ni",
+                "content": "A new Bird Up! special (that being <b>Tsurupettan (Alpha Mix) - Umineko no Naku Koro ni</b>) airs. Franklin fires Dick Goofy for percieved incomptence. New information previously unknown is also unearthed about Gork:",
+                "class": "GORK"
+            },
+            {
+                "content": "It is revealed that Gork was the person behind the mini-ARG included in <b>Mario Circuit - Super Mario Kart</b>, which was a way for Gork to vent his frustrations about the SilvaGunner community assuming everything as lore and trying to find meaning from meaningless things. Gork would quit working on \"Bird Up!\" on the spot, although it was not his final appearance on SiIva Swim.",
                 "class": "GORK"
             },
             {
@@ -902,13 +934,13 @@
             },
             {
                 "title": "The Device - Fortnite Chapter 2",
-                "content": "The Star of Bethlehem leads HCB to the Agency from Fortnite and the Zero Point. Using the Zero Point as the energy source for the Redirector, HCB moves the Universe Connection Establisher 2.0 to above the device as it fires a beam at it. This results in the Universe Connection Establisher 2.0 becoming the Channel Connection Establisher 2.0, which connects to the SiIvaGunner channel and allows HCB to begin his takeover.",
+                "content": "The Star of Bethlehem leads HCB to the Agency from Fortnite and the Zero Point. Using the Zero Point as the energy source for the Redirector, HCB moves the Universe Connection Establisher 2.0 to above the device as it fires a beam at it. This results in the Universe Connection Establisher 2.0 becoming the Channel Connection Establisher 2.0, which connects to the <span>SiIvaGunner channel</span> and allows HCB to begin his takeover.",
                 "class": "HCB"
             },
             {
                 "date": "December 3",
                 "title": "Bliss - KinitoPET",
-                "content": "After 2.5 days of hosting, HCB notices that reality is starting to break down and prepares to look for new universes to move his operation to. Before he can leave, he is confronted by Ninja, the Yodelling Kid and Mr. Game & Watch as a battle approaches. Nearly being subsumed by the red square, HCB uses Blazikenite to turn into a new form as the fight resumes. Despite his best efforts, HCB is distracted by Omega Milkshake and thrown into the Redirector's beam. This results in HCB being sent back to the Fisher-Price Hacker's laptop, alongside losing his items and connection with the SiIvaGunner channel.",
+                "content": "After 2.5 days of hosting, HCB notices that reality is starting to break down and prepares to look for new universes to move his operation to. Before he can leave, he is confronted by Ninja, the Yodelling Kid and Mr. Game & Watch as a battle approaches. Nearly being subsumed by the red square, HCB uses Blazikenite to turn into a new form as the fight resumes. Despite his best efforts, HCB is distracted by Omega Milkshake and thrown into the Redirector's beam. This results in HCB being sent back to the Fisher-Price Hacker's laptop, alongside losing his items and connection with the <span>SiIvaGunner channel</span>.",
                 "class": "HCB"
             },
             {
@@ -954,7 +986,7 @@
             },
             {
                 "title": "Victory! - Bad Tsunko no Doki Doki Omikuji",
-                "content": "Badtz-Maru manages to revive Pandaba and Tsunko through the use of Easter Spirit. Finding the Dangerous Teleporter previously used by HCB.exe, the trio and Krater leave the Recycling Bin and end up back inside the Coordinate Plane. The group encounters The numberphile, who opens an \"e\" portal to the Sanrio Universe, allowing Badtz-Maru, Tsunko and Pandaba to go back home, with Krater joining them.",
+                "content": "Badtz-Maru manages to revive Pandaba and Tsunko through the use of Easter Spirit. Finding the Dangerous Teleporter previously used by HCB, the trio and Krater leave the Recycling Bin and end up back inside the Coordinate Plane. The group encounters The numberphile, who opens an \"e\" portal to the Sanrio Universe, allowing Badtz-Maru, Tsunko and Pandaba to go back home, with Krater joining them.",
                 "class": "NUGGET"
             },
             {
@@ -984,7 +1016,7 @@
             {
                 "date": "December 20:",
                 "title": "Season's Greetings!",
-                "content": "Robbie Rotten (pretending to be Santa Claus) hacks Dr. Andonuts' broadcast and takes over the SiIvaGunner channel for the year's Christmas event. Meanwhile, Joke-Explainer is kept occupied by Bobbie, Tobbie and Flobbie (disguised as Santa's elves) asking her the jokes of an assortment of rips. He keeps his specific motivation for taking over the channel a secret.",
+                "content": "Robbie Rotten (pretending to be Santa Claus) hacks Dr. Andonuts' broadcast and takes over the <span>SiIvaGunner channel</span> for the year's Christmas event. Meanwhile, the Joke-Explainer is kept occupied by Bobbie, Tobbie and Flobbie (disguised as Santa's elves) asking her the jokes of an assortment of rips. He keeps his specific motivation for taking over the channel a secret.",
                 "class": "CCC"
             },
             {
@@ -1103,7 +1135,7 @@
                 "class": "CCC"
             },
             {
-                "content": "An exploding Pokéball is thrown at WEEGEE as Professor E. Gadd appears at the scene. Having arrived to contain an anomaly as per the Haltmann Works Company's new directive, E. Gadd tells Waluigi to run as he begins fighting against WEEGEE. This battle ends with E. Gadd capturing WEEGEE with the Poltergust, with E. Gadd planning on informing Dr. Andonuts about his newly-captured specimen. In the hotel's lobby, Wario and Waluigi learn about WEEGEE being captured and decide to become the new owners of the hotel, seeing an opportunity to get rich. Unfortunately for the dastardly duo, the WEEGEE towers disappear as a result of WEEGEE's capture, leaving both of them without a job once more. Some time later, Robbie Rotten contacts Bobbie, Tobbie and Flobbie and requests their assistance in his latest scheme (being the events of Season's Greetings).",
+                "content": "An exploding Pokéball is thrown at WEEGEE as Professor E. Gadd appears at the scene. Having arrived to contain an anomaly as per the <span>Haltmann Works</span> Company's new directive, E. Gadd tells Waluigi to run as he begins fighting against WEEGEE. This battle ends with E. Gadd capturing WEEGEE with the Poltergust, with E. Gadd planning on informing Dr. Andonuts about his newly-captured specimen. In the hotel's lobby, Wario and Waluigi learn about WEEGEE being captured and decide to become the new owners of the hotel, seeing an opportunity to get rich. Unfortunately for the dastardly duo, the WEEGEE towers disappear as a result of WEEGEE's capture, leaving both of them without a job once more. Some time later, Robbie Rotten contacts Bobbie, Tobbie and Flobbie and requests their assistance in his latest scheme (being the events of Season's Greetings).",
                 "class": "CCC"
             },
             {

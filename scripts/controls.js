@@ -32,7 +32,7 @@
     {
         "name": "SiIvaSwim/GORK",
         "class": "GORK",
-        "color_descriptor": "Bone"
+        "color_descriptor": "Khaki"
     },
     {
         "name": "Itsy Bitsy Spider",

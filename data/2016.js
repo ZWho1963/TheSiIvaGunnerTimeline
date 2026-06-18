@@ -16,8 +16,10 @@
             },
             {
                 "date": "January 9",
-                "content": "Chaze the Chat creates the GiIvaSunner (with an uppercase I) channel to parody GilvaSunner: the first rip is an upload of <i>new pokemon battle music LEAKED</i> disguised as a legitimate rip from Pokémon Ruby and Sapphire.<br><br>Shortly after the channel's creation, Chaze shows it off to a mashup collective server named Gangnam Goons, which would become the channel's base of operations for most of the year.",
-                "class": "double-entry"
+                "content": "Chaze the Chat creates the GiIvaSunner (with an uppercase I) channel to parody GilvaSunner: the first rip is an upload of <i>new pokemon battle music LEAKED</i> disguised as a legitimate rip from Pokémon Ruby and Sapphire."
+            }, 
+            {
+                "content": "Shortly after the channel's creation, Chaze shows it off to a mashup collective server named Gangnam Goons, which would become the channel's base of operations for most of the year.",
             },
             {
                 "date": "February 6",
@@ -50,7 +52,7 @@
             {
                 "date": "March 30",
                 "title": "A N N O U N C E M E N T",
-                "content": "<i>GiIvaSunner's Highest Quality Video Game Rips: Volume 1</i>, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class=\"CCC\">Notably, the file names are corrupted.</span>"
+                "content": "<i>GiIvaSunner's Highest Quality Video Game Rips: Volume 1</i>, is released, a compilation album containing noteworthy rips from the channel's first 2 months. As time goes on, albums are used more and more to compile event rips, although not exclusively. <span class='CCC'>Notably, the file names are corrupted.</span>"
             },
             {
                 "date": "April - May",
@@ -58,11 +60,14 @@
             },
             {
                 "date": "April 1",
-                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <b>Final Destination - Super Smash Bros. Brawl</b>.<br><br><b>(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</b> is also released during this event, marking the first appearance of The Jetsons."
+                "content": "GiIvaSunner hosts an April Fools' Day event, which would become a yearly staple. The team collaborates with the real GilvaSunner to upload <b>Final Destination - Super Smash Bros. Brawl</b>."
+            },
+            {
+                "content": "<b>(APRIL FOOLS REMIX) Future Stage (The Jetsons) - The Flintstones: The Rescue of Dino & Hoppy</b> is also released during this event, marking the first appearance of The Jetsons."
             },
             {
                 "date": "April 6",
-                "content": "The GiIvaSunner Youtube channel is terminated for violating Youtube's community guidelines between 2:01 and 2:11 PM; the specific infractions remain unknown.<br><br>The real GilvaSunner tweets that he was actually okay with the parody channel, and didn't take it down out of malice.",
+                "content": "The GiIvaSunner Youtube channel is terminated for violating Youtube's community guidelines between 2:01 and 2:11 PM; the specific infractions remain unknown. The real GilvaSunner tweets that he was actually okay with the parody channel, and didn't take it down out of malice.",
             },
             {
                 "date": "April 8",
@@ -71,7 +76,7 @@
             {
                 "date": "April 12",
                 "content": "The GiIvaSunner team moves to a backup channel named SiIvaGunner (with an uppercase I like GiIvaSunner) and resumes the uploading of rips. An album named <i>The Phantom Rips: SiIVa has come to</i> is released as part of this comeback alongside <b>A Big Announcement.</b>",
-                "class": "double-entry"
+
             },
             {
                 "title": "A Big Announcement",
@@ -89,7 +94,7 @@
             {
                 "date": "May 18",
                 "title": "Megalovania (OST Version) - Undertale",
-                "content": "As a reaction to the public's dislike of Snow halation, the SiIvaGunner team posts a video by <span class=\"CCC\">one 'Chad Warden', who criticizes the commenters' love for <i>Meet the Flintstones</i> rips compared to their reception to <i>Snow halation</i> rips."
+                "content": "As a reaction to the public's dislike of Snow halation, the SiIvaGunner team posts a video by <span class='CCC'>one 'Chad Warden', who criticizes the commenters' love for <i>Meet the Flintstones</i> rips compared to their reception to <i>Snow halation</i> rips."
             },
             {
                 "date": "May 28",
@@ -103,12 +108,12 @@
             {
                 "date": "June 1",
                 "content": "Triple-Q is removed from the SiIvaGunner backroom team for below-par submissions.",
-                "class": "double-entry"
+
             },
             {
                 "date": "June 7",
                 "content": "SiIvaGunner wakes up and resumes uploading rips.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "title": "Megalovania (Beta Mix) - EarthBound Halloween Hack",
@@ -118,7 +123,7 @@
             {
                 "date": "June 9",
                 "content": "The SiIvaGunner channel celebrates the character Nozomi Tojo's birthday; all rips on this day are related to Love Live! School Idol Festival, and also established the format of character-dedicated <i>Snow halation</i> Rips.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Futari Happiness (NOZOMI Mix) - Love Live! School idol festival",
@@ -132,17 +137,17 @@
             {
                 "date": "June 17",
                 "title": "Now Rebooting - SilvaGunner: Rebooted",
-                "content": "The community discourse over <i>Snow halation</i> reaches critical overload, and SiIvaGunner is rebooted into a new universe after using his new ripping software.<br><br><i>The Flintstones</i>, </i>Snow halation</i>, and the Loud [Friend] Scream are replaced with The Simpsons/Family Guy, \"GO MY WAY!!\", and the Howie Scream, respectively.",
+                "content": "The community discourse over <i>Snow halation</i> reaches critical overload, and SiIvaGunner is rebooted into a new universe after using his new ripping software. As a result, <i>The Flintstones</i>, </i>Snow halation</i>, and the Loud [Friend] Scream are replaced with The Simpsons/Family Guy, \"GO MY WAY!!\", and the Howie Scream, respectively.",
                 "class": "CCC"
             },
             {
                 "date": "June 18",
                 "content": "A few rips into the Reboot, SiIvaGunner contributor Le Ruse Bird secretly uploads <b>Puzzle Room - Kirby Planet Robobot</b> to the channel. The video becomes infamous for its ending, containing an image of a baby with harlequin-type ichthyosis, a birth defect which causes the child to have red eyes and scale-like thick skin. The image is filtered with the \"Hypernova Yourself\" effect from the promotional website for Kirby Triple Deluxe, and Russian text from the Felix the Cat game over screen is shown in the bottom-left corner reading \"игра окончена\" (\"the game is over\"). This causes a community uproar and the rip is quickly deleted. Le Ruse Bird is subsequently removed from the backroom as punishment.",
-                "class": "double-entry"
+
             },
             {
                 "content": "The SiIvaGunner team uploads an out-of-character video shortly after titled <b>Apology</b>. The video states that the rip was uploaded without the consent of anyone else on the team, that it wasn't supposed to be part of the reboot, and it didn't represent what the channel stood for.",
-                "class": "double-entry"
+
             },
             {
                 "content": "The first phase of the Reboot ARG, the \"Father's Day ARG\", begins with the release of an album with the title <i>.</i> and 17 tracks."
@@ -192,15 +197,15 @@
                 "timeclass": "CCC",
                 "title": "A Grand New Era ~Ending~ - SilvaGunner: Rebooted",
                 "content": "Chad Warden reluctantly accepts The Voice's deal to merge the universes with the exception of <i>Snow halation</i>, bringing an apparent end to the reboot.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
-                "content": "Channel discourse surprisingly turns back in favor of <i>Snow halation</i> in the aftermath of the ending's release.<br><br>After a brief period of tension, the solvers of the Reboot ARG uncover its second phase, the \"Reboot Ending ARG\".",
-                "class": "double-entry"
+                "content": "Channel discourse surprisingly turns back in favor of <i>Snow halation</i> in the aftermath of the ending's release. After a brief period of tension, the solvers of the Reboot ARG uncover its second phase, the \"Reboot Ending ARG\".",
+
             },
             {
                 "date": "July 9",
-                "class": "double-entry",
+
                 "content": "The second phase of the Reboot ARG ends, with the solvers unlocking the Reboot's 'True Ending':"
             },
             {
@@ -208,7 +213,7 @@
                 "time": "July 7, immediately after <b>A Grand New Era</b>",
                 "timeclass": "CCC",
                 "content": "Chad Warden explains to The Voice why <i>Snow halation</i> is important to the channel, and that the haters don't matter. The Voice publicly reveals that he had sent JustinRPG to wreak havoc on the world. Chad Warden then uses the power of The MF Like Button to bring <i>Snow halation</i> back and defeat The Voice at the cost of his own life.",
-                "class": "CCC double-entry"
+                "class": "CCC"
             },
             {
                 "class": "CCC",
@@ -247,7 +252,11 @@
                 "date": "July 21",
                 "title": "Menu - Garfield",
                 "class": "OTHER",
-                "content": "SiIvaGunner tells Grand Dad to go fuck himself. Grand Dad gets upset and calls him a \"mean fucking YouTuber\". SiIvaGunner raps for Grand Dad in response. He shoots Nozomi with his coconut gun, furthering Grand Dad's rage. He looks for \"some high quality rip\" before Grand Dad informs him that SiIvaGunner already used all the rips they had. SiIvaGunner tells Grand Dad to order some Soulja Boy from the Loud [Friend] store, which he declines three times before giving in to his demands. <br><br>He goes to order some \"Crank Dat\" rips until SiIva tells him that he \"ate those phone\". Grand Dad is visibly upset at this, telling SiIva that they' re going to starve. SiIva does not care and goes to sleep as Grand Dad demands a new rip be uploaded to the channel. Grand Dad is furious and threatens to \"copystrike your rips and make you cry baby piss from your armpits\" as he calls him a \"lazy big fat fucking useless ugly cunty aesthetic statue\"."
+                "content": "SiIvaGunner tells Grand Dad to go fuck himself. Grand Dad gets upset and calls him a \"mean fucking YouTuber\". SiIvaGunner raps for Grand Dad in response. He shoots Nozomi with his coconut gun, furthering Grand Dad's rage. He looks for \"some high quality rip\" before Grand Dad informs him that SiIvaGunner already used all the rips they had. SiIvaGunner tells Grand Dad to order some Soulja Boy from the Loud [Friend] store, which he declines three times before giving in to his demands.",
+            },
+            {
+                "content": "He goes to order some \"Crank Dat\" rips until SiIva tells him that he \"ate those phone\". Grand Dad is visibly upset at this, telling SiIva that they' re going to starve. SiIva does not care and goes to sleep as Grand Dad demands a new rip be uploaded to the channel. Grand Dad is furious and threatens to \"copystrike your rips and make you cry baby piss from your armpits\" as he calls him a \"lazy big fat fucking useless ugly cunty aesthetic statue\".",
+                "class": "OTHER"
             },
             {
                 "date": "July 31",
@@ -266,7 +275,7 @@
             {
                 "date": "August 14",
                 "content": "<b>Main Theme - Superman 64</b> is released; instead of being an ordinary rip, it details the process of submitting rips to the SiIvaGunner channel to fans, marking the opening of fan submissions.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Options - Mr. Rental: The Video Game",
@@ -290,7 +299,7 @@
             {
                 "date": "September 3",
                 "title": "Intro Title / Minigame Theme - Barbie Horse Adventures: Blue Ribbon Race",
-                "class": "PAINT double-entry",
+                "class": "PAINT",
                 "content": "Bedrock Town issues a \"Serial Killer Emergency\" warning about Mr. Own. "
             },
             {
@@ -306,12 +315,12 @@
             {
                 "date": "September 9",
                 "content": "<b>Ground Theme (Super Mario Bros.) - Super Smash Bros. Brawl</b> is taken down by Youtube, presumably as a result of community members constantly flagging the video. In order to escape potential termination, all videos containing Green de la Bean are removed.",
-                "class": "double-entry"
+
             },
             {
                 "date": "September 10",
                 "content": "SiIvaGunner 'mourns' the death of Green de la Bean with a channel event.",
-                "class": "double-entry"
+
             },
             {
                 "content": "SoundCloud user NBG uploads <i>when montage parodies died a long time ago but u can't let go of the past</i>, a megamix centered around <i>We Are Number One</i> from <i>LazyTown</i>."
@@ -319,7 +328,7 @@
             {
                 "date": "September 11",
                 "content": "SiIvaGunner holds an event involving The Jetsons, patriotism and towers. After severe backlash to the event (primarily due to it being an unsubtle and distasteful reference to the 9/11 attacks), the SiIvaGunner backroom bans any and all future use of the Jetsons as a joke source.",
-                "class": "double-entry"
+
             },
             {
                 "note": "Flustered Fernando was the channel dedicated to reuploading controversial SiIvaGunner rips such as those related to the 9/11 event and Green de la Bean. It has since been terminated from YouTube, although its videos have been reuploaded by a variety of users."
@@ -333,6 +342,10 @@
                 "content": "SiIvaGunner celebrates Talk Like A Pirate Day, which becomes another traditional event. Rips related to sailing, oceans, and pirates are uploaded in celebration."
             },
             {
+                "date": "September 20",
+                "content": "A short-form content app similar to Vine launches in China under the name Douyin."
+            },
+            {
                 "date": "September 27",
                 "content": "Several albums are announced at a rapid pace. Viewers become suspicious that the channel may be ending soon."
             },
@@ -343,11 +356,11 @@
             {
                 "date": "September 30",
                 "content": "On the 56th anniversary of <i>The Flintstones</i>, Chaze the Chat uploads <b>the nutshack theme but the first nutshack is replaced with me ending the channel</b>, formally announcing the end of SiIvaGunner, revealing himself as its creator and shouting out the 26 other members of the backroom team (including Triple-Q despite him not being on the team).",
-                "class": "double-entry"
+
             },
             {
                 "content": "On Twitter, the @GiIvaSunner account announces that the next two rips are taking longer to make than expected, so a third rip is announced to be released.",
-                "class": "double-entry"
+
             },
             {
                 "class": "OTHER",
@@ -373,16 +386,16 @@
             {
                 "date": "October 19",
                 "content": "<b>Wood Man Stage - Mega Man 2</b> is uploaded, introducing mm2wood as a meme; this date marks the generally accepted start of Season 2.",
-                "class": "double-entry"
+
             },
             {
                 "date": "October 22",
                 "content": "Season 42, episode 4 of <i>Saturday Night Live</i> is aired on television. The character David S. Pumpkins, played by Tom Hanks, appears in a sketch.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Behind the Scenes - Mr. Rental: The Video Game",
-                "class": "PAINT double-entry",
+                "class": "PAINT",
                 "content": "Mr. Rental goes into town while his car is stuck in the shop, so he is stuck with the crappily-drawn car instead, a car that can warp between universes. Naturally, he finds this out the hard way. He lands in the MS Paint universe, and his car blows up. He notes how the MS Paint universe looks almost exactly like his universe, and tries to find his way back home. He eventually comes across Mr. Own's store and his office, becoming aware of his intentions to ban all mashups. Rental disagrees with Own's stance that all mashups sound bad, and Own threatens to kill him in response. They fight, with Rental winning and blowing his counterpart's face clean off. "
             },
             {
@@ -391,11 +404,11 @@
             {
                 "date": "October 29",
                 "timeclass": "CCC",
-                "content": "<b>Title Theme & Ending - 7 GRAND DAD</b> is uploaded, meant to end the channel. <i>GilvaSunner's Highest Quality Video Game Rips: Volume 7: Part mm2wood</i> is also released as a final farewell album.<br><br><b>Title Theme - 7 GRAND DAD</b> is uploaded to the channel an hour before this, 'celebrating' the channel's most hated jokes in an attempt to troll viewers.",
-                "class": "double-entry"
+                "content": "<b>Title Theme & Ending - 7 GRAND DAD</b> is uploaded, meant to end the channel. <i>GilvaSunner's Highest Quality Video Game Rips: Volume 7: Part mm2wood</i> is also released as a final farewell album. <b>Title Theme - 7 GRAND DAD</b> is uploaded to the channel an hour before this, 'celebrating' the channel's most hated jokes in an attempt to troll viewers.",
+
             },
             {
-                "class": "CCC double-entry",
+                "class": "CCC",
                 "title": "Title Theme & Ending - 7 GRAND DAD",
                 "content": "Shortly after releasing 'Title Theme & Ending - 7 GRAND DAD', SiIvaGunner finds out Wood Man was behind the 'corrupted' album metadata (in reality the 'real' names of the rips and their creators). Finally satisfied after creating 'the highest quality rip', he shuts his computer off and goes to sleep.",
             },
@@ -424,7 +437,7 @@
             },
             {
                 "date": "November 30",
-                "content": "Wood Man (mostly) abandons the SiIvaGunner channel to ostensibly \"fight Mega Man\"; various attempts to kick Wood Man off of the channel are made, but are eventually called off when Wood Man is ultimately deemed harmless. <span style=\"color: #ddd\">The channel goes dark again... for now.</span>",
+                "content": "Wood Man (mostly) abandons the <span>SiIvaGunner channel</span> to ostensibly \"fight Mega Man\"; various attempts to kick Wood Man off of the channel are made, but are eventually called off when Wood Man is ultimately deemed harmless. <span style='>color: var(--offwhite);'>The channel goes dark again... for now.</span>",
                 "class": "CCC"
             },
             {
@@ -433,29 +446,53 @@
             {
                 "date": "December 14",
                 "title": "Prologue - The SilvaGunner Christmas Comeback Crisis",
-                "content": "After somehow surviving the MF Like Button, The Voice Inside Your Head sneaks into SiIvaGunner's home and uses the Figment Transportation Device to summon an army of figments to take over the world and destroy anime.<br><br>Rotterdam is then converted by The Voice into the dystopian industrial megalopolis of Grandiose City with the assistance of Max Profitt Haltmann from <i>Kirby: Planet Robobot</i>. Meta Knight, Grand Dad, and Loud [Friend] attempt an assault against the Voice aboard the Halberd, but are immediately bombarded, and Patrol-Bots begin appearing to capture figments. Smol Nozomi escapes due to being too small to be noticed.",
-                "class": "CCC double-entry"
+                "content": "After somehow surviving the MF Like Button, The Voice Inside Your Head sneaks into SiIvaGunner's home and uses the Figment Transportation Device to summon an army of figments to take over the world and destroy anime.",
+                "class": "CCC"
+            },
+            {
+                "content": "Rotterdam is then converted by The Voice into the dystopian industrial megalopolis of Grandiose City with the assistance of Max Profitt Haltmann from <i>Kirby: Planet Robobot</i>. Meta Knight, Grand Dad, and Loud [Friend] attempt an assault against the Voice aboard the Halberd, but are immediately bombarded, and Patrol-Bots begin appearing to capture figments. Smol Nozomi escapes due to being too small to be noticed.",
+                "class": "CCC"
             },
             {
                 "date": "December 15",
                 "time": "December 14",
                 "timeclass": "CCC",
                 "title": "Seasonal Return [Episode 1] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "The Voice publicly reveals his existence to the world and his motive of purging it of anime. He executes the Cinderella Girls from <i>THE IDOLM@STER</i>, permanently wiping them from public consciousness and threatening the same fate for any dissenters.<br><br>Meanwhile, Smol Nozomi, a member of μ's, manages to escape an attack by a Haltmann-designed Spheric, mechas designed to hunt down Figments and bring them to The Voice.",
-                "class": "CCC double-entry"
+                "content": "The Voice publicly reveals his existence to the world and his motive of purging it of anime. He executes the Cinderella Girls from <i>THE IDOLM@STER</i>, permanently wiping them from public consciousness and threatening the same fate for any dissenters.",
+                "class": "CCC"
+            },
+            {
+                "content": "Meanwhile, Smol Nozomi, a member of μ's, manages to escape an attack by a Haltmann-designed Spheric, mechas designed to hunt down Figments and bring them to The Voice.",
+                "class": "CCC"
             },
             {
                 "time": "December 15",
                 "timeclass": "CCC",
                 "title": "YOU can join the fight! A recruitment video from The Voice",
-                "content": "The Voice broadcasts a recruitment video, asking for high-quality rips in order to boost Christmas Spirit. <span style=\"color:#ddd\">The video acts as an updated version of <b>Main Theme - Superman 64</b>.",
+                "content": "The Voice broadcasts a recruitment video, asking for high-quality rips in order to boost Christmas Spirit. <span style='>color: var(--offwhite);'>The video acts as an updated version of <b>Main Theme - Superman 64</b>.",
                 "class": "CCC"
             },
             {
                 "date": "December 19",
                 "title": "No Place To Hide [Episode 2] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "The Voice is informed by Haltmann of Nozomi's presence in Grandiose City. Haltmann presents blueprints for the Stringbots - riot-suppressing robots modelled after the long-dead Green de la Bean; the Voice authorises their expedited production.<br><br>Before Haltmann leaves, The Voice reminds him of his end of the deal he signed with him: a chance to revive Susie Haltmann.<br><br>The Rappers' Union, consisting of Charles Barkley, Snoop Dogg, Soulja Boy and Chip da Ripper, plan an attack on a Voice-controlled facility. <br><br>Nozomi defeats her Spheric attacker and commandeers it, becoming the Smolitzer. A couple of Patrol-Bots detect her as she tests the Smolitzer, but they are easily defeated.<br><br>The Rappers' Union attack the facility. They are attacked by a Spheric task force, but are relieved by Nozomi in the Smolitzer. The building is claimed as their new base. She is offered to join the Rapper's Union, but declines.",
-                "class": "CCC double-entry"
+                "content": "The Voice is informed by Haltmann of Nozomi's presence in Grandiose City. Haltmann presents blueprints for the Stringbots - riot-suppressing robots modelled after the long-dead Green de la Bean; the Voice authorises their expedited production.",
+                "class": "CCC"
+            },
+            {
+                "content": "Before Haltmann leaves, The Voice reminds him of his end of the deal he signed with him: a chance to revive Susie Haltmann.",
+                "class": "CCC"
+            },
+            {
+                "content": "The Rappers' Union, consisting of Charles Barkley, Snoop Dogg, Soulja Boy and Chip da Ripper, plan an attack on a Voice-controlled facility.",
+                "class": "CCC"
+            },
+            {
+                "content": "Nozomi defeats her Spheric attacker and commandeers it, becoming the Smolitzer. A couple of Patrol-Bots detect her as she tests the Smolitzer, but they are easily defeated.",
+                "class": "CCC"
+            },
+            {
+                "content": "The Rappers' Union attack the facility. They are attacked by a Spheric task force, but are relieved by Nozomi in the Smolitzer. The building is claimed as their new base. She is offered to join the Rapper's Union, but declines.",
+                "class": "CCC"
             },
             {
                 "content": "The Numberphile channel uploads a video on Euler's number (known as e), presented by James Grime."
@@ -469,8 +506,12 @@
             {
                 "date": "December 21",
                 "title": "Will of a Knight [Episode 4] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "After dispatching two Spheric task forces, Smol Nozomi pilots the Smolitzer to an industrial logistics facility on the outskirts of Grandiose City. There she encounters Wood Man, who is easily defeated; he resigns from working with The Voice.<br><br>Shortly thereafter, she forms an alliance with Meta Knight, who informs that her friends are being held captive inside The Voice's tower and that The Voice is planning an assault on Santa Claus' workshop for unknown reasons. He proposes an operation to relieve the North Pole and recruit Santa Claus. Nozomi retires to a garage and rests.",
-                "class": "CCC double-entry"
+                "content": "After dispatching two Spheric task forces, Smol Nozomi pilots the Smolitzer to an industrial logistics facility on the outskirts of Grandiose City. There she encounters Wood Man, who isn't as powerful as he is in the Mega Man series and is embarrasingly defeated; he resigns from working with The Voice on the spot.",
+                "class": "CCC"
+            },
+            {
+                "content": "Shortly thereafter, she forms an alliance with Meta Knight, who informs that her friends are being held captive inside The Voice's tower and that The Voice is planning an assault on Santa Claus' workshop for unknown reasons. He proposes an operation to relieve the North Pole and recruit Santa Claus. Nozomi retires to a garage and rests.",
+                "class": "CCC"
             },
             {
                 "title": "El Macho Main Theme - Despicable Me: Minion Rush",
@@ -480,8 +521,12 @@
             {
                 "date": "December 22",
                 "title": "Haltmann [Episode 5] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "Haltmann informs The Voice of the Stringbots' success and Angry Joe's planned attack on the North Pole to gain access to Christmas Spirit. However, a rift begins to form between Haltmann and The Voice over Susie, and the former begins to question his loyalties.<br><br>Meanwhile, Robbie Rotten breaks out of The Voice's tower and 'captures' Wood Man, confusing him for a superhero. The two team up to capture Nozomi.",
-                "class": "CCC double-entry"
+                "content": "Haltmann informs The Voice of the Stringbots' success and Angry Joe's planned attack on the North Pole to gain access to Christmas Spirit. However, a rift begins to form between Haltmann and The Voice over Susie, and the former begins to question his loyalties.",
+                "class": "CCC"
+            },
+            {
+                "content": "Meanwhile, Robbie Rotten breaks out of The Voice's tower and 'captures' Wood Man, confusing him for a superhero. The two team up to capture Nozomi.",
+                "class": "CCC"
             },
             {
                 "time": "Shortly after/during Haltmann or a few hours before Advent of Hell",
@@ -505,14 +550,14 @@
             {
                 "date": "December 26",
                 "content": "<b>Last Hurrah [FINALE] - The SilvaGunner Christmas Comeback Crisis</b> is uploaded to the SiIvaGunner channel as the apparent finale of the CCC. However, it is revealed to be a joke episode (eventually renamed as <b>Opening Scene - Waluigi's Tacostand</b>) revolving around Waluigi, Green de la Bean, Wario and the inexplicable discovery of garlic taco portals, henceforth known as GTPs. Despite being a joke episode, the episode is part of the main storyline as the Garlic Tacos become a major plot point in future episodes.",
-                "class": "double-entry"
+
             },
             {
                 "time": "",
                 "timeclass": "",
                 "title": "Opening Scene - Waluigi's Tacostand",
-                "content": "Waluigi watches television as Mr. Rent comes to collect Waluigi's rent. He sympathizes with Waluigi and offers him a job. Waluigi asks if it's with his \"maniac cousin\" again, and <span class=\"PAINT\">a short scene plays involving Mr. Own with a shotgun at THE FUCKING STORE.</span> Mr. Rent informs him that the job is at a taco restaurant, and Waluigi accepts the offer. El Bean demands that Waluigi make tacos, though he doesn't know how. Waluigi then learns how via the mysterious power of \"Moving The Goddamn Plot Along\".",
-                "class": "CCC double-entry",
+                "content": "Waluigi watches television as Mr. Rent comes to collect Waluigi's rent. He sympathizes with Waluigi and offers him a job. Waluigi asks if it's with his \"maniac cousin\" again, and <span class='PAINT'>a short scene plays involving Mr. Own with a shotgun at THE FUCKING STORE.</span> Mr. Rent informs him that the job is at a taco restaurant, and Waluigi accepts the offer. El Bean demands that Waluigi make tacos, though he doesn't know how. Waluigi then learns how via the mysterious power of \"Moving The Goddamn Plot Along\".",
+                "class": "CCC",
                 "note": ""
             },
             {
@@ -524,7 +569,7 @@
                 "time": "December 22, as per [FILE-13]",
                 "timeclass": "CCC",
                 "title": "Advent of Hell [Episode 6] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "Meta Knight and Smol Nozomi reach the North Pole as The Voice's forces besiege Santa's Workshop. They retrieve Santa, who destroys the factory as a scorched-earth tactic to prevent Christmas Spirit, a powerful energy source, from falling into the Voice's hands. Angry Joe steals Santa's sleigh, inconveniencing them. Before they escape the soon-to-be destroyed workshop on the Smolitzer, they do battle with and defeat Nathaniel Welchert, who dies in the ensuing workshop explosion.<br><br>Santa explains Christmas Spirit to Meta Knight and Nozomi. The Voice's possible intentions are revealed.",
+                "content": "Meta Knight and Smol Nozomi reach the North Pole as The Voice's forces besiege Santa's Workshop. They retrieve Santa, who triggers the self-destruction of his own Workshop. Angry Joe steals Santa's sleigh, but before they escape the soon-to-be destroyed workshop on the Smolitzer, they do battle with and defeat Nathaniel Welchert, who dies in the ensuing explosion. Santa explains Christmas Spirit to Meta Knight and Nozomi, where he reveals that it could be used for great evil, explaining why The Voice ordered an attack on the North Pole.",
                 "class": "CCC"
             }
         ]

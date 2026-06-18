@@ -63,7 +63,7 @@
             {
                 "date": "May 22",
                 "title": "Hello :)",
-                "content": "The Harlem Shakeover is fully realised, having been floated in SiIvaCord as a joke since 2018. This takeover is also the first to directly utilise a KFAD contestant that did not win (although Johnny Bravo's sourcelist was used for Cartoon Network Day & Adult Swim Night). <span class=\"AIRTH\">A convenient gust of wind blows the ashes of Ajit Pai onto the SiIvaGunner mainframe, allowing him to take control of the channel.</span>"
+                "content": "The Harlem Shakeover is fully realised, having been floated in SiIvaCord as a joke since 2018. This takeover is also the first to directly utilise a KFAD contestant that did not win (although Johnny Bravo's sourcelist was used for Cartoon Network Day & Adult Swim Night). <span class='AIRTH'>A convenient gust of wind blows the ashes of Ajit Pai onto the SiIvaGunner mainframe, allowing him to take control of the channel.</span>"
             },
             {
                 "date": "May 31",
@@ -78,7 +78,7 @@
             {
                 "date": "June 1",
                 "title": "PSA from Former Chairman of the FCC Ajit Pai",
-                "content": "The mainframe's antivirus activates, sending Ajit Pai to the recycling bin and concluding the Harlem Shakeover. <span style=\"color:#ddd\">The takeover ends with 323 videos uploaded over the course of 10 days, making it the second largest takeover behind the King For Another Day Tournament itself.</span>",
+                "content": "The mainframe's antivirus activates, sending Ajit Pai to the recycling bin and concluding the Harlem Shakeover. <span style='color: var(--offwhite);'>The takeover ends with 323 videos uploaded over the course of 10 days, making it the second largest takeover behind the King For Another Day Tournament itself.</span>",
                 "class": "AIRTH"
             },
             {
@@ -140,14 +140,14 @@
             },
             {
                 "date": "December 1",
-                "content": "The 2022 edition of WinterFes is announced; unlike the previous two years, <b>The SiIvaGunner All-Star Nuclear Winter Festival</b> ()retroactively nicknamed 'DoomFes') focuses on the AI Universe being draped in a nuclear winter. Travel logs detailing the journey of Wood Man are posted on Twitter semi-regularly over the event's duration.",
+                "content": "The 2022 edition of WinterFes is announced; unlike the previous two years, <b>The SiIvaGunner All-Star Nuclear Winter Festival</b> (retroactively nicknamed 'DoomFes') focuses on the AI Universe being draped in a nuclear winter. Travel logs detailing the journey of Wood Man are posted on Twitter semi-regularly over the event's duration.",
                 "class": "AIRTH"
             },
             {
                 "title": "The SiIvaGunner All-Star Nuclear Winter Festival",
                 "time":"November 23",
                 "timeclass": "AIRTH",
-                "content": "Wood Man departs the city depicted in 2020's WinterFes after a meteor impact caused a nuclear winter.",
+                "content": "Wood Man departs the city depicted in 2020's WinterFes after a meteor impact caused a nuclear winter for a mysterious 'calm zone' theorised to be near said meteor's impact zone.",
                 "class": "AIRTH"
             },
             {
@@ -215,7 +215,7 @@
             },
             {
                 "date": "December 24",
-                "content": "On Day 30 of the groups travels, Wood Man remarks that they are only a day from the crater. However, Geno would now be turning back as he did not want to get close to the meteor again, but he left behind the drive with his locked-away memories as a parting gift, only to be accessed as a last resort.",
+                "content": "On Day 30 of the group's travels, Wood Man remarks that they are only a day from the crater. However, Geno would now be turning back as he did not want to get close to the meteor again, but he left behind the drive with his locked-away memories as a parting gift, only to be accessed as a last resort.",
                 "class": "AIRTH"
             },
             {
@@ -230,11 +230,11 @@
                 "title": "My Last Message",
                 "time": "December 24 and 25",
                 "timeclass": "AIRTH",
-                "content": "Wood Man leaves an audio recording to the Joke-Explainer recounting the events of the past few days. After their Day 30 log, the two had reached the meteor after 2 days of walking, but they had discovered that it was not able to analysed by any of their instruments. JE suggested touching the meteor, but Wood Man vetoes this and tries to find another way; however, they are unable to leave the vicinity of the meteor and are forced spend the night in the impact zone.",
+                "content": "Wood Man leaves an audio recording to the Joke-Explainer recounting the events of the past few days. After their Day 30 log, the two had reached the meteor after 2 days of walking, but they had discovered that it was not able to analysed by any of their instruments. JE suggested touching the meteor, but Wood Man vetoes this and tries to find another way; however, they are unable to leave the vicinity of the meteor and are forced to spend the night in the impact zone.",
                 "class": "AIRTH"
             },
             {
-                "content": "The next day, Wood Man wakes to see JE walking towards the meteor, believing that the two would be stuck forever unless someone touched it. Wood Man suggests reading Geno's memories to get an idea of what she would experience, only for JE to fall into a horrifying trance and starts floating toward the meteor. Wood Man pulls the plug and memory-wipes her to ensure her safety but he goes into a trance himself whilst using JE's laptop, seeing visions of space and the meteor suspended in the void. Wood Man realises that both he and meteor \"don't belong here\" and decides to touch in hopes that it would end the apocalypse. Wood Man finishes the log by reassuring JE and telling her not to forget about him.,",
+                "content": "The next day, Wood Man wakes to see JE walking towards the meteor, believing that the two would be stuck forever unless someone touched it. Wood Man suggests reading Geno's memories to get an idea of what she would experience, only for JE to fall into a horrifying trance and starts floating toward the meteor. Wood Man pulls the plug and memory-wipes her to ensure her safety but he goes into a trance himself whilst using JE's laptop, seeing visions of space and the meteor suspended in the void. Wood Man realises that both he and meteor \"don't belong here\" and decides to touch in hopes that it would end the apocalypse. Wood Man finishes the log by reassuring JE and telling her not to forget about him.",
                 "class": "AIRTH"
             },
             {

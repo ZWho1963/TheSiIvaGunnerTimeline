@@ -11,9 +11,7 @@
                 "time": "Between December 22 and December 23, 2016",
                 "timeclass": "CCC",
                 "title": "[The SilvaGunner Timeline: A Summary of Events]",
-                "content": "<span style=\"color:#ddd\">SiIvaGunner celebrates the one year anniversary of GiIvaSunner. To commemorate the occasion, a timeline video recapping the entirety of SiIvaGunner's history (which this timeline is inspired by) is released.</span> In it, The Voice offers his own reflections on the anniversary, remarking on how SiIvaGunner truly deserved his rest.",
-                "class": "CCC",
-                "note": ""
+                "content": "SiIvaGunner celebrates the one year anniversary of GiIvaSunner. To commemorate the occasion, a timeline video recapping the entirety of SiIvaGunner's history (which this timeline is inspired by) is released. <span class='CCC'>In it, The Voice offers his own reflections on the anniversary, remarking on how SiIvaGunner truly deserved his rest.</span>",
             },
             {
                 "date": "January 15",
@@ -43,7 +41,7 @@
             {
                 "date": "January 31",
                 "content": "The SiIvaGunner backroom team revives the dormant and unresolved Mashup Crusaders arc by following up on Mr. Own's scene from <b>Opening Scene - Waluigi's Tacostand</b>.",
-                "class": "double-entry"
+
             },
             {
                 "time": "During Opening Scene - Waluigi's Tacostand",
@@ -65,13 +63,13 @@
             {
                 "date": "February 15",
                 "content": "The SiIvaGunner backroom team puts the channel on a hiatus - retroactively known as the 'Monochrome Pause' due to the grayscaling of the channel's graphics - due to development limbo surrounding Episode 7 of the Christmas Comeback Crisis.",
-                "class": "double-entry"
+
             },
             {
                 "time": "Between December 22 and December 23, 2016",
                 "timeclass": "CCC",
                 "title": "Pause Screen (Mother's Intuition) - Kirby Planet Robobot",
-                "content": "Seemingly, in-universe, the entire world is paused save for Wood Man, who is left outside The Voice's tower. He takes over the SiIvaGunner channel and Twitter whilst he finds the unpause button, giving updates on his search and uploading a scattering of rips, mainly pause themes.",
+                "content": "Seemingly, in-universe, the entire world is paused save for Wood Man, who is left outside The Voice's tower. He takes over the <span>SiIvaGunner channel</span> and Twitter whilst he finds the unpause button, giving updates on his search and uploading a scattering of rips, mainly pause themes.",
                 "class": "CCC"
             },
             {
@@ -84,19 +82,22 @@
             },
             {
                 "date": "April 3",
-                "content": "SiIvaGunner celebrates Haruka Amami's birthday. <span class=\"CCC\">Wood Man expresses confusion as to how these rips were uploaded, eventually chalking it up to The Voice having them scheduled in the days before the pause.</span>"
+                "content": "SiIvaGunner celebrates Haruka Amami's birthday. <span class='CCC'>Wood Man expresses confusion as to how these rips were uploaded, eventually chalking it up to The Voice having them scheduled in the days before the pause.</span>"
             },
             {
                 "date": "April 5",
                 "content": "The Monochrome Pause ends after 50 days; most significantly, the channel's upload schedule is significantly scaled down from this point to reduce team burnout.",
-                "class": "double-entry"
             },
             {
                 "time": "Between December 22 and December 23, 2016",
                 "timeclass": "CCC",
                 "title": "TIME BEEEAM! - Kirby Planet Robobot",
-                "content": "Wood Man finally finds the unpause button and color is restored to the channel.",
+                "content": "In-universe, Wood Man finally finds the unpause button and color is restored to the channel.",
                 "class": "CCC"
+            },
+            {
+                "date": "April 6",
+                "content": "<b>Mario Circuit - Super Mario Kart</b> is uploaded to the channel. The rip contains a trailhead to ARG, which is revealed to be a practical joke mocking SiIvaCord for \"assuming everything to be lore\"."
             },
             {
                 "date": "April 19",
@@ -124,7 +125,7 @@
                 "time": "December 23, 2016 or December 25, 2016, 7:27 PM",
                 "timeclass": "CCC",
                 "title": "AUDIOLOG: 19:27, HEAD_OFFICE",
-                "content": "Haltmann enacts his plan of revenge, sending the Gadgetini to The Voice's tower in his place. The robot then trashes the Voice's office, kicking him out and beginning Gadget Week.",
+                "content": "Haltmann enacts his plan of revenge, sending the newly built Gadgetini Clone 2.0 to The Voice's tower in his place. The robot then trashes the Voice's office, kicking him out and beginning Gadget Week.",
                 "class": "CCC"
             },
             {
@@ -138,7 +139,7 @@
                 "time": "December 23, 2016 or December 25, 2016",
                 "timeclass": "CCC",
                 "title": "An announcement from your old leader",
-                "content": "The Gadgetini is destroyed by a copyright claim; Haltmann emerges and announces that he has gained full control over the SiIvaGunner channel. He intends to sell it and earn maximum profit.",
+                "content": "The Gadgetini is destroyed by a copyright claim; Haltmann emerges and announces that he has gained full control over the <span>SiIvaGunner channel</span>. He intends to sell it and earn maximum profit.",
                 "class": "CCC",
                 "note": ""
             },
@@ -164,16 +165,16 @@
             },
             {
                 "date": "June 15",
-                "content": "A fakeout Episode 9 called <b>Treacherous Addiction</b> is released (later renamed to <b>Main Theme - Pac-Man</b>). <span class=\"CCC\">In it, Pac-Man tries to give crack cocaine to Woodsans and Gaijin Goomba, who both refuse.</span>"
+                "content": "A fakeout Episode 9 called <b>Treacherous Addiction</b> is released (later renamed to <b>Main Theme - Pac-Man</b>). <span class='CCC'>In it, Pac-Man tries to give crack cocaine to Woodsans and Gaijin Goomba, who both refuse.</span>"
             },
             {
                 "title": "Nice, Slick, Blackness - SilvaGunner: Rebooted",
                 "content": "Wood Man pulls the SiIvaGunner channel into the 'Genocide Timeline' from SiIvaGunner: Rebooted on the event's first anniversary simply for fun.",
-                "class": "double-entry"
+
             },
             {
                 "title": "Fly High, No Lies ~Genocide Ending~ - SilvaGunner: Rebooted<br>MEGALOVANIA (PS4 Version) - Undertale",
-                "content": "<span style=\"color:#ddd\">In the 'Genocide Timeline',</span> Chad Warden faked accepting the Voice's deal and then double-crossed him, revealing his true intentions of taking over the SiIvaGunner channel before killing him. Chad Warden also kills SiIvaGunner, beginning his rampage on the world, killing any figments he comes across a la Genocide Route Undertale. Since The Voice never merged the universes, the original memes are left in the void, and Wood Man is left to die since The Voice isn't there to keep him alive.",
+                "content": "<span style='color: var(--offwhite);'>In the 'Genocide Timeline',</span> Chad Warden faked accepting the Voice's deal and then double-crossed him, revealing his true intentions of taking over the <span>SiIvaGunner channel</span> before killing him. Chad Warden also kills SiIvaGunner, beginning his rampage on the world, killing any figments he comes across a la Genocide Route Undertale. Since The Voice never merged the universes, the original memes are left in the void, and Wood Man is left to die since The Voice isn't there to keep him alive.",
                 "class": "OTHER"
             },
             {
@@ -194,12 +195,12 @@
             {
                 "date": "June 28",
                 "title": "Meeting with Haltmann - Kirby Planet Robobot",
-                "content": "Rob Thomas makes a deal with Haltmann for the SiIvaGunner channel to host \"Smooth Day\".",
+                "content": "Rob Thomas makes a deal with Haltmann for the <span>SiIvaGunner channel</span> to host \"Smooth Day\".",
                 "class": "CCC"
             },
             {
                 "date": "July 1",
-                "content": "The Hot One Break begins due to a copyright strike from Sony Music Entertainment Japan. <span class=\"CCC\">Rob Thomas attempts to take over the SiIvaGunner channel. Haltmann fights with him during the remainder of the break, eventually winning.</span>"
+                "content": "The Hot One Break begins due to a copyright strike from Sony Music Entertainment Japan. <span class='CCC'>Rob Thomas attempts to take over the <span>SiIvaGunner channel</span>. Haltmann fights with him during the remainder of the break, eventually winning.</span>"
             },
             {
                 "date": "July 7",
@@ -208,7 +209,7 @@
             {
                 "date": "July 10",
                 "title": "A Hot Onennouncement",
-                "content": "<span style=\"color:#ddd\">The Hot One Break ends</span> with Haltmann killing Rob Thomas. Since his will is legally binding, he is forced to create the album A HOT ONE.",
+                "content": "<span style='color: var(--offwhite);'>The Hot One Break ends</span> with Haltmann killing Rob Thomas. Since his will is legally binding, he is forced to create the album A HOT ONE.",
                 "class": "CCC"
             },
             {
@@ -241,6 +242,10 @@
                 "timeclass": "OTHER",
                 "title": "Title Screen - New Super Mario Forever 2012",
                 "content": "The Google Translate lady continues reading excerpts from Softendo’s website and strange video titles from his YouTube channel, until Buziol Games appears and shoots the Google Translate lady, saying \"This cannot go on forever. It must be stopped.\""
+            },
+            {
+                "date": "September 13",
+                "content": "ByteDance launches TikTok - a westernised version of Douyin - in Indonesia. The app balloons in popularity and spreads across the rest of the world."
             },
             {
                 "date": "September 15",
@@ -307,7 +312,7 @@
                 "title": "FEATURE PRESENTATION",
                 "time": "Sometime before October 24",
                 "timeclass": "AIRTH",
-                "content": "Wood Man journeys to a universe created by Haltmann Works' AI testing to film <b>FEATURE PRESENTATION</b>. Whilst filming, he stumbles across and unknowingly murders the Protegent Mascot, whom he mistook as an actor.",
+                "content": "Wood Man journeys to a universe created by <span>Haltmann Works</span>' AI testing to film <b>FEATURE PRESENTATION</b>. Whilst filming, he stumbles across and unknowingly murders the Protegent Mascot, whom he mistook as an actor.",
                 "class": "AIRTH"
             },
             {
@@ -318,7 +323,7 @@
                 "title": "The Werewolf [FILE-05] - Haltmann's Archives",
                 "time": "October 19, October 28, October 29 and October 31, 2016",
                 "timeclass": "CCC",
-                "content": "SiIvaGunner never actually uploaded <b>Wood Man Stage - Mega Man 2</b> on October 19th, 2016, but it was actually a way for Wood Man to escape SiIva's computer and enter the real world. With this newfound freedom, he took over the SiIvaGunner channel once SiIvaGunner went to sleep following <b>Title Theme & Ending - 7 Grand Dad</b>. Shortly thereafter, he works on a device that can transport Figments into the real world (used by the Voice in the Christmas Comeback Crisis): his first test subject is Rush the dog from the Mega Man franchise, who infects Wood Man with a werewolf-like sickness, causing him to transform into the 8-Bit Beast on Halloween.",
+                "content": "SiIvaGunner never actually uploaded <b>Wood Man Stage - Mega Man 2</b> on October 19th, 2016, but it was actually a way for Wood Man to escape SiIva's computer and enter the real world. With this newfound freedom, he took over the <span>SiIvaGunner channel</span> once SiIvaGunner went to sleep following <b>Title Theme & Ending - 7 Grand Dad</b>. Shortly thereafter, he works on a device that can transport Figments into the real world (used by the Voice in the Christmas Comeback Crisis): his first test subject is Rush the dog from the Mega Man franchise, who infects Wood Man with a werewolf-like sickness, causing him to transform into the 8-Bit Beast on Halloween.",
                 "class": "CCC"
             },
             {
@@ -355,7 +360,7 @@
                 "title": "Christmas Spirit [FILE-07] - Haltmann's Archives",
                 "time": "Before Advent of Hell",
                 "timeclass": "CCC",
-                "content": "Researchers at Haltmann Works surmise that Santa's abilites are being augmented by a green liquid substance named 'Christmas Spirit', further corroborated by a reconnaisance flight over the North Pole. The researchers make note of its powerful destructive capability, and attempt take advantage of it by using rips to create it.",
+                "content": "Researchers at <span>Haltmann Works</span> surmise that Santa's abilites are being augmented by a green liquid substance named 'Christmas Spirit', further corroborated by a reconnaisance flight over the North Pole. The researchers make note of its powerful destructive capability, and attempt take advantage of it by using rips to create it.",
                 "class": "CCC"
             },
             {
@@ -375,7 +380,7 @@
                 "time": "December 23, 24 or 25, 2016",
                 "timeclass": "CCC",
                 "title": "I Love Her [Episode 10] - The SilvaGunner Christmas Comeback Crisis",
-                "content": "Haltmann disables the Gadgetini Clone 2.0, taking over The Voice's office as well as the SiIvaGunner channel. Meanwhile, Soulja Boy and Snoop Dogg rally up Grandiose City's residents during the chaos that has broken out thanks to The Voice's deposition. Santa Claus, Smol Nozomi, and Meta Knight take note of the rallies and head to The Voice's tower, where they find the protesters being led by Loud [Friend]. Loud [Friend] breaks open the barricades to the tower, but when Santa, Nozomi, and Meta Knight enter, the floor opens up below them and they fall into a subterranean lab.<br><br>Within it, The Voice is revealed to have been using artificial Christmas Spirit derived from Angry Joe's recovered vial. Files and papers strewn about indicate that the Spirit is being used to clone Figments and also grow The Voice's army. The three then head into another room, where they find a man standing in front of a large vat with a giant creature inside. When Santa tells the man to leave, the man refuses, saying that he plans to use the artificial Christmas Spirit to create his \"wife\". Santa then realizes that the man is JustinRPG, and that the creature in the vat is Reshiram. <br><br>After revealing to them that he is working with The Voice, Justin activates a glass wall to separate himself from the three, but Nozomi breaks through. Justin desperately tries to summon Reshiram, typing commands into a computer. However, as he does so, the power overloads, and The Voice reveals himself through the overhead speakers, disapproving heavily of Justin's actions. Justin pleads with The Voice not to take Reshiram away, and The Voice says he would not be unkind enough to do such a thing. He barricades the entrance and the remaining machinery finally summons Reshiram. However, Reshiram lunges at Justin as The Voice says \"be careful for what you wish for\", and devours him.<br><br>The two fuse together into Ju'Reshoggoth, and the two parties battle, with JustinRPG ultimately being killed. The heroes win a hard-fought pyrrhic victory at the cost of one of both the Smolitzer and Santa's arms. They take an elevator to The Voice's tower.",
+                "content": "Haltmann disables the Gadgetini Clone 2.0, taking over The Voice's office as well as the <span>SiIvaGunner channel</span>. Meanwhile, Soulja Boy and Snoop Dogg rally up Grandiose City's residents during the chaos that has broken out thanks to The Voice's deposition. Santa Claus, Smol Nozomi, and Meta Knight take note of the rallies and head to The Voice's tower, where they find the protesters being led by Loud [Friend]. Loud [Friend] breaks open the barricades to the tower, but when Santa, Nozomi, and Meta Knight enter, the floor opens up below them and they fall into a subterranean lab.<br><br>Within it, The Voice is revealed to have been using artificial Christmas Spirit derived from Angry Joe's recovered vial. Files and papers strewn about indicate that the Spirit is being used to clone Figments and also grow The Voice's army. The three then head into another room, where they find a man standing in front of a large vat with a giant creature inside. When Santa tells the man to leave, the man refuses, saying that he plans to use the artificial Christmas Spirit to create his \"wife\". Santa then realizes that the man is JustinRPG, and that the creature in the vat is Reshiram. <br><br>After revealing to them that he is working with The Voice, Justin activates a glass wall to separate himself from the three, but Nozomi breaks through. Justin desperately tries to summon Reshiram, typing commands into a computer. However, as he does so, the power overloads, and The Voice reveals himself through the overhead speakers, disapproving heavily of Justin's actions. Justin pleads with The Voice not to take Reshiram away, and The Voice says he would not be unkind enough to do such a thing. He barricades the entrance and the remaining machinery finally summons Reshiram. However, Reshiram lunges at Justin as The Voice says \"be careful for what you wish for\", and devours him.<br><br>The two fuse together into Ju'Reshoggoth, and the two parties battle, with JustinRPG ultimately being killed. The heroes win a hard-fought pyrrhic victory at the cost of one of both the Smolitzer and Santa's arms. They take an elevator to The Voice's tower.",
                 "class": "CCC"
             },
             {
@@ -384,7 +389,7 @@
             {
                 "date": "December 30",
                 "content": "The SiIvaGunner CCC ARG is completed. The reward turns out to be <b>Bad Moon Rising</b>, a NSFW lore video containing gratuitous violence and racism. As such, the video is uploaded to Flustered Fernando and the events of the video are deemed non-canon, except for one detail...",
-                "class": "double-entry"
+
             },
             {
                 "title": "Bad Moon Rising - The SilvaGunner Christmas Comeback Crisis",
